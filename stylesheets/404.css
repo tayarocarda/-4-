@@ -1,0 +1,204 @@
+@media all and (min-width: 1025px) {
+.four {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 35vw;
+  margin-left: 18vw;
+  margin-top: 1vw;
+}
+.copito404 {
+  width: 29vw;
+  height: 50vw;
+  margin-left: 36vw;
+  margin-top: -6vw;
+  animation: bounce 5s linear infinite;
+}
+@keyframes bounce {
+ 0% {transform: rotate(0deg);}
+ 50% {transform: rotate(180deg);}
+ 100% {transform: rotate(360deg);}
+}
+.four2 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 35vw;
+  margin-left: 62vw;
+  margin-top: 1vw;
+}
+.oops {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 4vw;
+  margin-left: 29vw;
+  margin-top: 34vw;
+  text-align: center;
+  white-space: nowrap;
+}
+.button404 {
+  width: 34vw;
+  height: 7vw;
+  background: #000000;
+  border: 0.3vw solid black;
+  margin-top: 45vw;
+  margin-left: 33vw;
+}
+.draw404 {
+  width: 46vw;
+  height: 6vw;
+  margin-left: 27.5vw;
+  margin-top: 45.5vw;
+}
+.kupit404 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 2.3vw;
+  color: #FFFFFF;
+  margin-top: 47.5vw;
+  margin-left: 36.5vw;
+  white-space: nowrap;
+  cursor: pointer;
+}
+}
+@media only screen and (min-width: 501px) and (max-width: 1024px){
+  .wrapper {
+    margin-top: 42vw;
+    margin-left: -0.5vw;
+  }
+  .four {
+    font-family: "TTInterfacesMedium";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 35vw;
+    margin-left: 18vw;
+    margin-top: 1vw;
+  }
+  .copito404 {
+    width: 29vw;
+    height: 50vw;
+    margin-left: 36vw;
+    margin-top: -6vw;
+    animation: bounce 5s linear infinite;
+  }
+  @keyframes bounce {
+   0% {transform: rotate(0deg);}
+   50% {transform: rotate(180deg);}
+   100% {transform: rotate(360deg);}
+  }
+  .four2 {
+    font-family: "TTInterfacesMedium";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 35vw;
+    margin-left: 62vw;
+    margin-top: 1vw;
+  }
+  .oops {
+    font-family: "TTInterfacesMedium";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 4vw;
+    margin-left: 29vw;
+    margin-top: 34vw;
+    text-align: center;
+    white-space: nowrap;
+  }
+  .button404 {
+    width: 34vw;
+    height: 7vw;
+    background: #000000;
+    border: 0.3vw solid black;
+    margin-top: 45vw;
+    margin-left: 33vw;
+  }
+  .draw404 {
+    width: 46vw;
+    height: 6vw;
+    margin-left: 27.5vw;
+    margin-top: 45.5vw;
+  }
+  .kupit404 {
+    font-family: "TTInterfacesMedium";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 2.3vw;
+    color: #FFFFFF;
+    margin-top: 47.5vw;
+    margin-left: 36.5vw;
+    white-space: nowrap;
+    cursor: pointer;
+  }
+}
+@media only screen and (min-width: 1px) and (max-width: 500px){
+  .wrapper {
+    margin-top: 56vw;
+    margin-left: -0.5vw;
+  }
+  .four {
+    font-family: "TTInterfacesMedium";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 35vw;
+    margin-left: 18vw;
+    margin-top: 45vw;
+  }
+  .copito404 {
+    width: 29vw;
+    height: 50vw;
+    margin-left: 36vw;
+    margin-top: -41vw;
+    animation: bounce 5s linear infinite;
+  }
+  @keyframes bounce {
+   0% {transform: rotate(0deg);}
+   50% {transform: rotate(180deg);}
+   100% {transform: rotate(360deg);}
+  }
+  .four2 {
+    font-family: "TTInterfacesMedium";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 35vw;
+    margin-left: 62vw;
+    margin-top: -44vw;
+  }
+  .oops {
+    font-family: "TTInterfacesMedium";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 4vw;
+    margin-left: 2vw;
+    margin-top: -1vw;
+    text-align: center;
+  }
+  .button404 {
+    width: 46vw;
+    height: 10vw;
+    background: #000000;
+    border: 0.3vw solid black;
+    margin-top: 5vw;
+    margin-left: 29vw;
+  }
+  .draw404 {
+    position: absolute;
+    width: 50vw;
+    height: 8vw;
+    margin-left: 27.5vw;
+    margin-top: -10vw;
+  }
+  .kupit404 {
+    position: absolute;
+    font-family: "TTInterfacesMedium";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 3vw;
+    color: #FFFFFF;
+    margin-top: -7vw;
+    margin-left: 34.5vw;
+    white-space: nowrap;
+    cursor: pointer;
+  }
+}

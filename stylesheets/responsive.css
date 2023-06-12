@@ -1,0 +1,4518 @@
+@media only screen and (min-width: 1px) and (max-width: 500px){
+  .none {
+  display: none;
+  }
+  /* Анимация логотипов */
+  .logo {
+  width: 46vw;
+  height: 90vw;
+  margin-left: 9.5vw;
+  margin-top: -15.7vw;
+  animation: logogo 5s linear infinite;
+  }
+  @keyframes logogo {
+  0% {transform: rotate(0deg);}
+  50% {transform: rotate(180deg);}
+  100% {transform: rotate(360deg);}
+  }
+  .logo2 {
+  position: absolute;
+  width: 49vw;
+  height: 93vw;
+  margin-left: 9.5vw;
+  margin-top: 2868vw;
+  animation: logogo 5s linear infinite;
+  }
+  @keyframes logogo {
+  0% {transform: rotate(0deg);}
+  50% {transform: rotate(180deg);}
+  100% {transform: rotate(360deg);}
+  }
+  .logo22 {
+  position: absolute;
+  width: 49vw;
+  height: 93vw;
+  margin-left: 9.5vw;
+  margin-top: 3365vw;
+  animation: logogo 5s linear infinite;
+  }
+  @keyframes logogo {
+  0% {transform: rotate(0deg);}
+  50% {transform: rotate(180deg);}
+  100% {transform: rotate(360deg);}
+  }
+  /* Заголовки  */
+  .about {
+    font-family: "TTInterfacesSemiBold";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 1.8vw;
+    color: #000000;
+    margin-top: 2vw;
+    margin-left: 40vw;
+    white-space: nowrap;
+    display: none;
+  }
+  .afisha {
+    font-family: "TTInterfacesSemiBold";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 1.8vw;
+    color: #000000;
+    margin-top: 2vw;
+    margin-left: 60vw;
+    white-space: nowrap;
+    display: none;
+  }
+  .merch {
+    font-family: "TTInterfacesSemiBold";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 1.8vw;
+    color: #000000;
+    margin-top: 2vw;
+    margin-left: 80vw;
+    white-space: nowrap;
+    display: none;
+  }
+  .try {
+    font-family: "TTInterfacesSemiBold";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 1.8vw;
+    color: #000000;
+    margin-top: 2vw;
+    margin-left: 20vw;
+    white-space: nowrap;
+    display: none;
+  }
+  .questions {
+    font-family: "TTInterfacesSemiBold";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 1.8vw;
+    color: #000000;
+    margin-top: 2vw;
+    margin-left: 10vw;
+    white-space: nowrap;
+    display: none;
+  }
+  .burger {
+    width: 36vw;
+    height: 98vw;
+    margin-left: 306.5vw;
+    margin-top: -98.7vw;
+  }
+  .liner {
+    position: relative;
+    width: 0.4vw;
+    height: 697vw;
+    background:#000000;
+    top: -373.5vw;
+    transform: rotate(90deg);
+    margin-left: 14vw;
+  }
+  /* Бегущие строки */
+  .container {
+    position: absolute;
+    width: 362vw;
+    height: 14vw;
+    margin-top: 66vw;
+    overflow: hidden;
+    box-sizing: border-box;
+  }
+  .container2 {
+    position: absolute;
+    width: 362vw;
+    height: 14vw;
+    margin-top: -601vw;
+    overflow: hidden;
+    box-sizing: border-box;
+  }
+  .container3 {
+    position: absolute;
+    width: 362vw;
+    height: 14vw;
+    margin-top: -590vw;
+    overflow: hidden;
+    box-sizing: border-box;
+  }
+  .container3m {
+    position: absolute;
+    width: 362vw;
+    height: 14vw;
+    margin-top: -670vw;
+    overflow: hidden;
+    box-sizing: border-box;
+  }
+  .row {
+    position: absolute;
+    font-family: "TTInterfacesMedium";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12.8vw;
+    white-space: nowrap;
+    display: block;
+    width: 99vw;
+    height: 4vw;
+    box-sizing: border-box;
+    animation: row 5s linear infinite;
+  }
+  @keyframes row {
+    0% {right: -99vw;}
+    100% {right: 100%;}
+  }
+  /* Элементы десктопной версии */
+  .circle {
+    display: none;
+  }
+  .circlefilled {
+    display: none;
+  }
+  .circle2 {
+    display: none;
+  }
+  .circlefilled2 {
+    display: none;
+  }
+  .circle3 {
+    display: none;
+  }
+  .circlefilled3 {
+    display: none;
+  }
+  .circle4 {
+    display: none;
+  }
+  .circlefilled4 {
+    display: none;
+  }
+  .circle5 {
+    display: none;
+  }
+  .circle5f {
+    display: none;
+  }
+  .circle6 {
+    display: none;
+  }
+  .circle6f {
+    display: none;
+  }
+  .circle7 {
+    display: none;
+  }
+  .circle7f {
+    display: none;
+  }
+  .bubble6 {
+    display: none;
+  }
+  .bubbleclick7 {
+    display: none;
+  }
+  .bubble7 {
+    display: none;
+  }
+  .way {
+    display: none;
+  }
+  .inspire {
+    display: none;
+  }
+  .dance {
+    display: none;
+  }
+  .puanti {
+    display: none;
+  }
+  .perform {
+    display: none;
+  }
+  .confidence {
+    display: none;
+  }
+  .firstletter {
+    display: none;
+  }
+  .secondletter {
+    display: none;
+  }
+  .thirdletter {
+    display: none;
+  }
+  .fourthletter {
+    display: none;
+  }
+  .textik {
+  display: none;
+  }
+  .curve4 {
+  display: none;
+  }
+  .bubble {
+    display: none;
+  }
+  .about2 {
+    display: none;
+  }
+  .afisha2 {
+    display: none;
+  }
+  .line {
+    display: none;
+  }
+  .questions2 {
+    display: none;
+  }
+  .line2 {
+    display: none;
+  }
+  .fears {
+    display: none;
+  }
+  .curve11 {
+    display: none;
+  }
+  .letter5 {
+    display: none;
+  }
+  .letter6 {
+   display: none;
+  }
+  .letter7 {
+   display: none;
+  }
+  .letter8 {
+   display: none;
+  }
+  .letter9 {
+   display: none;
+  }
+  .letter10 {
+   display: none;
+  }
+  .letter11 {
+   display: none;
+  }
+  .letter12 {
+   display: none;
+  }
+  .letter13 {
+   display: none;
+  }
+  .letter14 {
+   display: none;
+  }
+  .letter15 {
+   display: none;
+  }
+  .letter16 {
+   display: none;
+  }
+  .letter17 {
+   display: none;
+  }
+  .letter18 {
+   display: none;
+  }
+  .letter19 {
+   display: none;
+  }
+  .letter20 {
+   display: none;
+  }
+  .letter21 {
+   display: none;
+  }
+  .letter22 {
+   display: none;
+  }
+  .letter23 {
+   display: none;
+  }
+  .letter24 {
+   display: none;
+  }
+  .letter25 {
+   display: none;
+  }
+  .letter26 {
+   display: none;
+  }
+  .letter27 {
+   display: none;
+  }
+  .letter28 {
+   display: none;
+  }
+  .letter29 {
+   display: none;
+  }
+  .letter30 {
+   display: none;
+  }
+  .letter31 {
+   display: none;
+  }
+  .letter32 {
+   display: none;
+  }
+  .letter33 {
+   display: none;
+  }
+  .letter34 {
+   display: none;
+  }
+  .letter35 {
+   display: none;
+  }
+  .letter36 {
+   display: none;
+  }
+  .letter37 {
+   display: none;
+  }
+  .letter38 {
+   display: none;
+  }
+  .letter39 {
+   display: none;
+  }
+  .letter40 {
+   display: none;
+  }
+  .letter41 {
+   display: none;
+  }
+  .letter42 {
+   display: none;
+  }
+  .letter43 {
+   display: none;
+  }
+  .letter44 {
+   display: none;
+  }
+  .letter45 {
+   display: none;
+  }
+  .letter46 {
+   display: none;
+  }
+  .letter47 {
+   display: none;
+  }
+  .letter48 {
+   display: none;
+  }
+  .letter49 {
+   display: none;
+  }
+  .letter50 {
+   display: none;
+  }
+  .letter51 {
+   display: none;
+  }
+  .letter52 {
+   display: none;
+  }
+  .letter53 {
+   display: none;
+  }
+  .letter54 {
+   display: none;
+  }
+  .letter55 {
+   display: none;
+  }
+  .letter56 {
+   display: none;
+  }
+  .letter57 {
+   display: none;
+  }
+  .letter58 {
+   display: none;
+  }
+  .letter59 {
+   display: none;
+  }
+  .letter60 {
+   display: none;
+  }
+  .letter61 {
+   display: none;
+  }
+  .letter62 {
+   display: none;
+  }
+  .letter63 {
+   display: none;
+  }
+  .letter64 {
+   display: none;
+  }
+  .letter65 {
+   display: none;
+  }
+  .letter66 {
+   display: none;
+  }
+  .letter67 {
+   display: none;
+  }
+  .letter68 {
+   display: none;
+  }
+  .letter69 {
+   display: none;
+  }
+  .letter70 {
+   display: none;
+  }
+  .letter71 {
+   display: none;
+  }
+  .letter72 {
+   display: none;
+  }
+  .letter73 {
+   display: none;
+  }
+  .letter74 {
+   display: none;
+  }
+  .letter75 {
+   display: none;
+  }
+  .letter76 {
+   display: none;
+  }
+  .letter77 {
+   display: none;
+  }
+  .letter78 {
+   display: none;
+  }
+  .letter79 {
+   display: none;
+  }
+  .letter80 {
+   display: none;
+  }
+  .letter81 {
+   display: none;
+  }
+  .letter82 {
+   display: none;
+  }
+  .letter83 {
+   display: none;
+  }
+  .letter84 {
+   display: none;
+  }
+  .letter85 {
+   display: none;
+  }
+  .letter86 {
+   display: none;
+  }
+  .letter87 {
+   display: none;
+  }
+  .letter88 {
+   display: none;
+  }
+  .letter89 {
+   display: none;
+  }
+  .letter90 {
+   display: none;
+  }
+  .letter91 {
+   display: none;
+  }
+  .letter92 {
+   display: none;
+  }
+  .letter93 {
+   display: none;
+  }
+  .letter94 {
+   display: none;
+  }
+  .letter95 {
+   display: none;
+  }
+  .letter96 {
+   display: none;
+  }
+  .letter97 {
+   display: none;
+  }
+  .letter98 {
+   display: none;
+  }
+  .letter99 {
+   display: none;
+  }
+  .letter100 {
+   display: none;
+  }
+  .letter101 {
+   display: none;
+  }
+  .letter102 {
+   display: none;
+  }
+  .letter103 {
+   display: none;
+  }
+  .letter104 {
+   display: none;
+  }
+  .letter105 {
+   display: none;
+  }
+  .letter106 {
+   display: none;
+  }
+  .letter107 {
+   display: none;
+  }
+  .letter108 {
+   display: none;
+  }
+  .letter109 {
+   display: none;
+  }
+  .letter110 {
+   display: none;
+  }
+  .letter111 {
+   display: none;
+  }
+  .letter112 {
+   display: none;
+  }
+  .letter113 {
+   display: none;
+  }
+  .letter114 {
+   display: none;
+  }
+  .letter115 {
+   display: none;
+  }
+  .letter116 {
+   display: none;
+  }
+  .letter117 {
+   display: none;
+  }
+  .letter118 {
+   display: none;
+  }
+  .letter119 {
+   display: none;
+  }
+  .letter120 {
+   display: none;
+  }
+  .letter121 {
+   display: none;
+  }
+  .letter122 {
+   display: none;
+  }
+  .letter123 {
+   display: none;
+  }
+  .letter124 {
+   display: none;
+  }
+  .letter125 {
+   display: none;
+  }
+  .letter126 {
+   display: none;
+  }
+  .letter127 {
+   display: none;
+  }
+  .letter128 {
+   display: none;
+  }
+  .letter129 {
+   display: none;
+  }
+  .letter130 {
+   display: none;
+  }
+  .letter131 {
+   display: none;
+  }
+  .letter132 {
+   display: none;
+  }
+  .letter133 {
+   display: none;
+  }
+  .letter134 {
+   display: none;
+  }
+  .letter135 {
+   display: none;
+  }
+  .letter136 {
+   display: none;
+  }
+  .letter137 {
+   display: none;
+  }
+  .letter138 {
+   display: none;
+  }
+  .letter139 {
+   display: none;
+  }
+  .letter140 {
+   display: none;
+  }
+  .letter141 {
+   display: none;
+  }
+  .letter142 {
+   display: none;
+  }
+  .letter143 {
+   display: none;
+  }
+  .letter144 {
+   display: none;
+  }
+  .letter145 {
+   display: none;
+  }
+  .letter146 {
+   display: none;
+  }
+  .letter147 {
+   display: none;
+  }
+  .letter148 {
+   display: none;
+  }
+  .letter149 {
+   display: none;
+  }
+  .letter150 {
+   display: none;
+  }
+  .letter151 {
+   display: none;
+  }
+  .letter152 {
+   display: none;
+  }
+  .letter153 {
+   display: none;
+  }
+  .letter154 {
+   display: none;
+  }
+  .letter155 {
+   display: none;
+  }
+  .letter156 {
+   display: none;
+  }
+  .letter157 {
+   display: none;
+  }
+  .letter158 {
+   display: none;
+  }
+  .letter159 {
+   display: none;
+  }
+  .letter160 {
+   display: none;
+  }
+  .letter161 {
+   display: none;
+  }
+  .letter162 {
+   display: none;
+  }
+  .letter163 {
+   display: none;
+  }
+  .letter164 {
+   display: none;
+  }
+  .letter175 {
+   display: none;
+  }
+  .letter176 {
+   display: none;
+  }
+  .letter177 {
+   display: none;
+  }
+  .letter178 {
+   display: none;
+  }
+  .letter179 {
+   display: none;
+  }
+  .letter180 {
+   display: none;
+  }
+  .letter181 {
+   display: none;
+  }
+  .letter182 {
+   display: none;
+  }
+  .letter183 {
+   display: none;
+  }
+  .letter184 {
+   display: none;
+  }
+  .letter185 {
+   display: none;
+  }
+  .letter186 {
+   display: none;
+  }
+  .letter187 {
+   display: none;
+  }
+  .letter188 {
+   display: none;
+  }
+  .letter189 {
+   display: none;
+  }
+  .letter190 {
+   display: none;
+  }
+  .letter191 {
+   display: none;
+  }
+  .letter192 {
+   display: none;
+  }
+  .letter193 {
+   display: none;
+  }
+  .letter194 {
+   display: none;
+  }
+  .letter195 {
+   display: none;
+  }
+  .letter196 {
+   display: none;
+  }
+  .letter197 {
+   display: none;
+  }
+  .letter198 {
+   display: none;
+  }
+  .letter199 {
+   display: none;
+  }
+  .letter200 {
+   display: none;
+  }
+  .letter201 {
+   display: none;
+  }
+  .letter202 {
+   display: none;
+  }
+  .letter203 {
+   display: none;
+  }
+  .letter204 {
+   display: none;
+  }
+  .letter205 {
+   display: none;
+  }
+  .letter206 {
+   display: none;
+  }
+  .letter207 {
+   display: none;
+  }
+  .letter208 {
+   display: none;
+  }
+  .letter209 {
+   display: none;
+  }
+  .letter210 {
+   display: none;
+  }
+  .letter211 {
+   display: none;
+  }
+  .letter212 {
+   display: none;
+  }
+  .letter213 {
+   display: none;
+  }
+  .letter214 {
+   display: none;
+  }
+  .letter215 {
+   display: none;
+  }
+  .letter216 {
+   display: none;
+  }
+  .letter217 {
+   display: none;
+  }
+  .textik2 {
+    display: none;
+  }
+  .textik3 {
+    display: none;
+  }
+  .textik4 {
+    display: none;
+  }
+  .textik5 {
+    display: none;
+  }
+  .textik6 {
+    display: none;
+  }
+  .textik7 {
+    display: none;
+  }
+  .bubbleclick2 {
+    display: block;
+    position: absolute;
+    margin-left: 155vw;
+    top: 95vw;
+    width: 183vw;
+    height: 156vw;
+  }
+  .bubble2 {
+    display: none;
+  }
+  .line3 {
+  display: none;
+  }
+  .lifter {
+   position: absolute;
+   margin-top: 24vw;
+  }
+  /* Картинки с главного экрана */
+  .bubbleclick {
+    display: block;
+    position: absolute;
+    margin-left: 0.3vw;
+    top: 95vw;
+    width: 170vw;
+    height: 156vw;
+  }
+  .bubbleclick3 {
+    display: block;
+    position: absolute;
+    margin-left: 155vw;
+    top: 229vw;
+    width: 183vw;
+    height: 156vw;
+  }
+  .bubble3 {
+    display: none;
+  }
+  .bubbleclick4 {
+    display: block;
+    position: absolute;
+    margin-left: 18vw;
+    top: 250vw;
+    width: 189vw;
+    height: 169vw;
+  }
+  .bubble4 {
+    display: none;
+  }
+  .bubbleclick5 {
+    display: block;
+    position: absolute;
+    margin-left: 19vw;
+    top: 404vw;
+    width: 179vw;
+    height: 165vw;
+  }
+  .bubble5 {
+    display: none;
+  }
+  .bubbleclick6 {
+    display: block;
+    position: absolute;
+    margin-left: 184vw;
+    top: 385vw;
+    width: 164vw;
+    height: 169vw;
+  }
+  /* Описание комнат */
+  .textikmob {
+    position: absolute;
+    font-family: "TTInterfacesLight";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 10vw;
+    color: #000000;
+    top: 622vw;
+    margin-left: 28vw;
+    white-space: nowrap;
+  }
+  .textik2mob {
+    position: absolute;
+    top: 810vw;
+    font-family: "TTInterfacesLight";
+    font-style: normal;
+    font-weight: 500;
+    margin-left: 28vw;
+    font-size: 10vw;
+    color: #000000;
+    white-space: nowrap;
+  }
+  .textik3mob {
+    position: absolute;
+    top: 1167vw;
+    font-family: "TTInterfacesLight";
+    font-style: normal;
+    font-weight: 500;
+    margin-left: 28vw;
+    font-size: 10vw;
+    color: #000000;
+    white-space: nowrap;
+  }
+  .textik4mob {
+    position: absolute;
+    top: 1505vw;
+    font-family: "TTInterfacesLight";
+    font-style: normal;
+    font-weight: 500;
+    margin-left: 28vw;
+    font-size: 10vw;
+    color: #000000;
+    white-space: nowrap;
+  }
+  .textik5mob {
+    position: absolute;
+    top: 1960vw;
+    font-family: "TTInterfacesLight";
+    font-style: normal;
+    font-weight: 500;
+    margin-left: 28vw;
+    font-size: 10vw;
+    color: #000000;
+    white-space: nowrap;
+  }
+  .textik6mob {
+    position: absolute;
+    top: 2319vw;
+    font-family: "TTInterfacesLight";
+    font-style: normal;
+    font-weight: 500;
+    margin-left: 28vw;
+    font-size: 10vw;
+    color: #000000;
+    white-space: nowrap;
+  }
+  .textik7mob {
+    position: absolute;
+    top: 2677vw;
+    font-family: "TTInterfacesLight";
+    font-style: normal;
+    font-weight: 500;
+    margin-left: 28vw;
+    font-size: 10vw;
+    color: #000000;
+    white-space: nowrap;
+  }
+  .textik8 {
+    display: none;
+  }
+  .textik9 {
+    display: none;
+  }
+  .textik8mob {
+    position: absolute;
+    top: 3482vw;
+    font-family: "TTInterfacesLight";
+    font-style: normal;
+    font-weight: 500;
+    margin-left: 77vw;
+    font-size: 11vw;
+    color: #000000;
+    white-space: nowrap;
+  }
+  .textik9mob {
+    position: absolute;
+    top: 3482vw;
+    font-family: "TTInterfacesLight";
+    font-style: normal;
+    font-weight: 500;
+    margin-left: 77vw;
+    font-size: 11vw;
+    color: #000000;
+    white-space: nowrap;
+  }
+  /* Копыта */
+  .copito {
+    display: none;
+  }
+  .copitoh {
+    position: absolute;
+    display: block;
+    width: 55.5vw;
+    height: 39.5vw;
+    margin-left: 252vw;
+    margin-top: -177vw;
+  }
+  .copito2 {
+    display: none;
+  }
+  .copitoh2 {
+    position: absolute;
+    display: block;
+    width: 55.5vw;
+    height: 44.5vw;
+    margin-left: 281vw;
+    margin-top: -138vw;
+  }
+  .copito3 {
+    display: none;
+  }
+  .copitoh3 {
+    position: absolute;
+    display: block;
+    width: 55.5vw;
+    height: 32.5vw;
+    margin-left: 284vw;
+    margin-top: -208vw;
+  }
+  .copito4 {
+    display: none;
+  }
+  .copitoh4 {
+    position: absolute;
+    display: block;
+    width: 61.5vw;
+    height: 49.5vw;
+    margin-left: 275vw;
+    margin-top: -4vw;
+  }
+  .copito5 {
+    display: none;
+  }
+  .copitoh5 {
+    position: absolute;
+    display: block;
+    width: 54.5vw;
+    height: 30.5vw;
+    margin-left: 245vw;
+    margin-top: 47vw;
+  }
+  .copito6 {
+    display: none;
+  }
+  .copitoh6 {
+    position: absolute;
+    display: block;
+    width: 55.5vw;
+    height: 38.5vw;
+    margin-left: 276vw;
+    margin-top: 87vw;
+  }
+  .copito8 {
+    display: none;
+  }
+  .copitoh8 {
+    position: absolute;
+    display: block;
+    width: 55.5vw;
+    height: 38.5vw;
+    margin-left: 242vw;
+    margin-top: 368vw;
+  }
+  .copito9 {
+    display: none;
+  }
+  .copitoh9 {
+    position: absolute;
+    display: block;
+    width: 55.5vw;
+    height: 38.5vw;
+    margin-left: 280vw;
+    margin-top: 407vw;
+  }
+  .copito10 {
+    display: none;
+  }
+  .copitoh10 {
+    position: absolute;
+    display: block;
+    width: 40.5vw;
+    height: 33.5vw;
+    margin-left: 286vw;
+    margin-top: 1549vw;
+  }
+  .copito11 {
+    display: none;
+  }
+  .copitoh11 {
+    position: absolute;
+    display: block;
+    width: 55.5vw;
+    height: 38.5vw;
+    margin-left: 266vw;
+    margin-top: 686vw;
+  }
+  .copito12 {
+    display: none;
+  }
+  .copitoh12 {
+    position: absolute;
+    display: block;
+    width: 55.5vw;
+    height: 38.5vw;
+    margin-left: 267vw;
+    margin-top: 750vw;
+  }
+  .copito13 {
+    display: none;
+  }
+  .copitoh13 {
+    position: absolute;
+    display: block;
+    width: 55.5vw;
+    height: 38.5vw;
+    margin-left: 301vw;
+    margin-top: 719vw;
+  }
+  .copito14 {
+    display: none;
+  }
+  .copitoh14 {
+    position: absolute;
+    display: block;
+    width: 55.5vw;
+    height: 38.5vw;
+    margin-left: 250vw;
+    margin-top: 1470vw;
+  }
+  .copito15 {
+    display: none;
+  }
+  .copitoh15 {
+    position: absolute;
+    display: block;
+    width: 44.5vw;
+    height: 32.5vw;
+    margin-left: 273vw;
+    margin-top: 1933vw;
+  }
+  .copito16 {
+    display: none;
+  }
+  .copitoh16 {
+    position: absolute;
+    display: block;
+    width: 55.5vw;
+    height: 38.5vw;
+    margin-left: 296vw;
+    margin-top: 1891vw;
+  }
+  .copito17 {
+    display: none;
+  }
+  .copitoh17 {
+    position: absolute;
+    display: block;
+    width: 55.5vw;
+    height: 38.5vw;
+    margin-left: 262vw;
+    margin-top: 1856vw;
+  }
+  .copito18 {
+    display: none;
+  }
+  .copitoh18 {
+    position: absolute;
+    display: block;
+    width: 55.5vw;
+    height: 32.5vw;
+    margin-left: 302vw;
+    margin-top: 1196vw;
+  }
+  .copito19 {
+    display: none;
+  }
+  .copitoh19 {
+    position: absolute;
+    display: block;
+    width: 55.5vw;
+    height: 38.5vw;
+    margin-left: 288vw;
+    margin-top: 1153vw;
+  }
+  .copito20 {
+    display: none;
+  }
+  .copitoh20 {
+    display: none;
+  }
+  .copito21 {
+    display: none;
+  }
+  .copitoh21 {
+    position: absolute;
+    display: block;
+    width: 55.5vw;
+    height: 38.5vw;
+    margin-left: 262vw;
+    margin-top: 848vw;
+  }
+  .copito22 {
+    display: none;
+  }
+  .copitoh22 {
+    position: absolute;
+    display: block;
+    width: 52.5vw;
+    height: 35.5vw;
+    margin-left: 292vw;
+    margin-top: 1500vw;
+  }
+  .copito23 {
+    display: none;
+  }
+  .copitoh23 {
+    display: none;
+  }
+  .copito24 {
+    display: none;
+  }
+  .copitoh24 {
+    display: none;
+  }
+ /* Стрелки */
+  .arrow {
+    position: absolute;
+    width: 41vw;
+    height: 52vw;
+    margin-left: 29vw;
+    margin-top: 127vw;
+  }
+  .arrow2 {
+    position: absolute;
+    width: 41vw;
+    height: 52vw;
+    margin-left: 232vw;
+    margin-top: 433vw;
+  }
+  .arrow3 {
+    position: absolute;
+    width: 41vw;
+    height: 52vw;
+    margin-left: 254vw;
+    margin-top: 797vw;
+  }
+  .arrow4 {
+    position: absolute;
+    width: 41vw;
+    height: 52vw;
+    margin-left: 273vw;
+    margin-top: 1229vw;
+  }
+  .arrow5 {
+    position: absolute;
+    width: 48vw;
+    height: 52vw;
+    margin-left: 50vw;
+    margin-top: 1608vw;
+  }
+  .arrow6 {
+    position: absolute;
+    width: 34vw;
+    height: 40vw;
+    margin-left: 76vw;
+    margin-top: 1954vw;
+  }
+  .fon {
+    position: absolute;
+    width: 251vw;
+    height: 231vw;
+    background-color: #B4CEFA;
+    border: 0.1vw solid black;
+    margin-left: 55vw;
+    margin-top: 2619vw;
+  }
+  .fon2 {
+    position: absolute;
+    width: 251vw;
+    height: 231vw;
+    background-color: #F2BED3;
+    border: 0.1vw solid black;
+    margin-left: 55vw;
+    margin-top: 2619vw;
+  }
+  .review {
+    position: absolute;
+  }
+  .review2 {
+    position: absolute;
+  }
+  /* Разделители */
+  .curve {
+    position: absolute;
+    margin-top: -76vw;
+    width: 362.4vw;
+  }
+  .curve2 {
+    position: absolute;
+    margin-top: 322vw;
+    margin-left: -26vw;
+    width: 388.7vw;
+  }
+  .curve3 {
+    position: absolute;
+    margin-top: 628vw;
+    margin-left: -11vw;
+    width: 373.5vw;
+  }
+  .curve4 {
+    position: absolute;
+    margin-top: 1000vw;
+    margin-left: -46vw;
+    width: 354.7vw;
+  }
+  .curve5 {
+    position: absolute;
+    margin-top: 2510vw;
+    margin-left: -68vw;
+    width: 429.7vw;
+  }
+  .curve6 {
+    position: absolute;
+    margin-top: 2871vw;
+    margin-left: -68vw;
+    width: 430.7vw;
+  }
+  .curve7 {
+    position: absolute;
+    margin-top: 1829vw;
+    margin-left: -81vw;
+    width: 442.7vw;
+  }
+  .curve8 {
+    position: absolute;
+    margin-top: 1122vw;
+    margin-left: -76vw;
+    width: 438.7vw;
+  }
+  .curve9 {
+    position: absolute;
+    margin-top: 1442vw;
+    margin-left: -1vw;
+    width: 363s.7vw;
+  }
+  .curve10 {
+    position: absolute;
+    margin-top: 2169vw;
+    margin-left: -68vw;
+    width: 429.7vw;
+  }
+  .curve11afisha {
+    position: absolute;
+    margin-top: -627vw;
+    margin-left: -66vw;
+    width: 429.7vw;
+  }
+  .curve11merch {
+    position: absolute;
+    margin-top: -691vw;
+    margin-left: -66vw;
+    width: 429.7vw;
+  }
+  .curve12 {
+    position: absolute;
+    margin-top: -611vw;
+    margin-left: -66vw;
+    width: 429.7vw;
+  }
+  .curve102 {
+    position: absolute;
+    margin-top: 3368vw;
+    margin-left: -66vw;
+    width: 429.7vw;
+  }
+  /* Заголовки */
+  .aboutus {
+    position: absolute;
+    font-family: "TTInterfacesMedium";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 30vw;
+    color: #000000;
+    top: 581vw;
+    margin-left: 28vw;
+    white-space: nowrap;
+  }
+  .eventafisha {
+    position: absolute;
+    font-family: "TTInterfacesMedium";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 30vw;
+    color: #000000;
+    margin-top: -701vw;
+    margin-left: 28vw;
+    white-space: nowrap;
+  }
+  .merch2 {
+  display: none;
+  }
+  .merch22 {
+    position: absolute;
+    font-family: "TTInterfacesMedium";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 30vw;
+    color: #000000;
+    margin-top: -7vw;
+    margin-left: 28vw;
+    white-space: nowrap;
+  }
+  .aboutmenu {
+    position: absolute;
+    font-family: "TTInterfacesMedium";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15vw;
+    color: #000000;
+    top: 31vw;
+    margin-left: 44vw;
+    white-space: nowrap;
+  }
+  .afishamenu {
+    position: absolute;
+    font-family: "TTInterfacesMedium";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15vw;
+    color: #000000;
+    top: 59vw;
+    margin-left: 40vw;
+    white-space: nowrap;
+  }
+  .merchmenu {
+    position: absolute;
+    font-family: "TTInterfacesMedium";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15vw;
+    color: #000000;
+    top: 86vw;
+    margin-left: 48vw;
+    white-space: nowrap;
+  }
+  .questionsmenu {
+    position: absolute;
+    font-family: "TTInterfacesMedium";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15vw;
+    color: #000000;
+    top: 154vw;
+    margin-left: 17vw;
+    white-space: nowrap;
+    text-align: center;
+  }
+  .trymenu {
+    position: absolute;
+    font-family: "TTInterfacesMedium";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15vw;
+    color: #000000;
+    top: 112vw;
+    margin-left: 33vw;
+    white-space: nowrap;
+    text-align: center;
+  }
+  .aboutspace {
+    position: absolute;
+    font-family: "TTInterfacesMedium";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 30vw;
+    color: #000000;
+    margin-top: -42vw;
+    margin-left: 28vw;
+    white-space: nowrap;
+  }
+  .aboutresepshen {
+    position: absolute;
+    font-family: "TTInterfacesMedium";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 30vw;
+    color: #000000;
+    margin-top: 350vw;
+    margin-left: 28vw;
+    white-space: nowrap;
+  }
+  .aboutdance {
+    position: absolute;
+    font-family: "TTInterfacesMedium";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 30vw;
+    color: #000000;
+    margin-top: 655vw;
+    margin-left: 28vw;
+    white-space: nowrap;
+  }
+  .performance {
+    position: absolute;
+    font-family: "TTInterfacesMedium";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 30vw;
+    color: #000000;
+    margin-top: 1143vw;
+    margin-left: 28vw;
+    white-space: nowrap;
+  }
+  .showroom {
+    position: absolute;
+    width: 312vw;
+    margin-top: 1649vw;
+    margin-left: 28vw;
+  }
+  .cafetext {
+    position: absolute;
+    font-family: "TTInterfacesMedium";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 30vw;
+    color: #000000;
+    margin-top: 1857vw;
+    margin-left: 28vw;
+    white-space: nowrap;
+  }
+  .wayforvisitor {
+    position: absolute;
+    font-family: "TTInterfacesMedium";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 30vw;
+    color: #000000;
+    margin-top: 2205vw;
+    margin-left: 28vw;
+    white-space: nowrap;
+  }
+  .pupils {
+    position: absolute;
+    font-family: "TTInterfacesMedium";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 30vw;
+    color: #000000;
+    margin-top: 2543vw;
+    margin-left: 28vw;
+    white-space: nowrap;
+  }
+  .mobilequestions {
+    position: absolute;
+    font-family: "TTInterfacesMedium";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 30vw;
+    color: #000000;
+    margin-top: -710vw;
+    margin-left: 28vw;
+    white-space: nowrap;
+  }
+  /* Картинки с главного экрана */
+  .fountain {
+    position: absolute;
+    width: 303vw;
+    height: 154vw;
+    margin-left: 23vw;
+    margin-top: 154vw;
+  }
+  .resep {
+    position: absolute;
+    width: 303vw;
+    height: 154vw;
+    margin-left: 5vw;
+    margin-top: 459vw;
+  }
+  .zal {
+    position: absolute;
+    margin-left: 199vw;
+    margin-top: 808vw;
+    width: 145vw;
+    height: 209vw;
+  }
+  .zal2 {
+    position: absolute;
+    width: 331vw;
+    height: 127vw;
+    margin-left: -57vw;
+    margin-top: 982vw;
+  }
+  .zal3 {
+    position: absolute;
+    margin-left: 187vw;
+    margin-top: 930vw;
+    width: 175vw;
+    height: 209vw;
+  }
+  .scene {
+    position: absolute;
+    width: 303vw;
+    height: 154vw;
+    margin-left: 25vw;
+    margin-top: 1267vw;
+  }
+  .cafe {
+    position: absolute;
+    width: 310vw;
+    height: 166vw;
+    margin-left: 24vw;
+    margin-top: 1984vw;
+  }
+  /* Книга */
+  .book {
+    position: absolute;
+    width: 318vw;
+    height: 172vw;
+    margin-left: 24vw;
+    margin-top: 2282vw;
+  }
+  .book2 {
+    position: absolute;
+    width: 318vw;
+    height: 172vw;
+    margin-left: 24vw;
+    margin-top: 2282vw;
+  }
+  .clickme {
+    position: absolute;
+    width: 40vw;
+    height: 70vw;
+    margin-left: 311vw;
+    margin-top: 2327vw;
+  }
+  .clickme2 {
+    position: absolute;
+    width: 40vw;
+    height: 70vw;
+    margin-left: 10vw;
+    margin-top: 2327vw;
+  }
+  .clickme3 {
+    position: absolute;
+    width: 40vw;
+    height: 70vw;
+    margin-left: 311vw;
+    margin-top: 2692vw;
+  }
+  .clickme4 {
+    position: absolute;
+    width: 40vw;
+    height: 70vw;
+    margin-left: 6vw;
+    margin-top: 2692vw;
+  }
+  .danceim {
+    position: absolute;
+    width: 287vw;
+    height: 119vw;
+    margin-left: -37vw;
+    margin-top: 858vw;
+  }
+  .showroomtext {
+    position: absolute;
+    font-family: "TTInterfacesMedium";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 30vw;
+    color: #000000;
+    margin-top: 1469vw;
+    margin-left: 28vw;
+    white-space: nowrap;
+  }
+  .around {
+    position: absolute;
+    width: 170vw;
+    height: 61.3vw;
+    margin-left: 99.8vw;
+    margin-top: 2457.3vw;
+  }
+  /* Кнопки */
+  .buttontext {
+    position: absolute;
+    font-family: "TTInterfacesMedium";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 10vw;
+    color: #FFFFFF;
+    margin-top: 2483.8vw;
+    margin-left: 108vw;
+    white-space: nowrap;
+  }
+  .button {
+    position: absolute;
+    width: 180vw;
+    height: 26vw;
+    border: 0.3vw solid black;
+    background-color: #FFFFFF;
+    margin-left: 95vw;
+    margin-top: 2475vw;
+  }
+  a {
+    text-decoration: none;
+    color: #000000;
+  }
+  /* Отзывы */
+  .jack {
+    position: absolute;
+    width: 64vw;
+    height: 57vw;
+    margin-left: 75vw;
+    margin-top: 2639vw;
+  }
+  .adele {
+    position: absolute;
+    width: 64vw;
+    height: 57vw;
+    margin-left: 75vw;
+    margin-top: 2639vw;
+  }
+  /* Подвалы */
+  .name {
+    position: absolute;
+    font-family: "TTInterfacesMedium";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16vw;
+    color: #000000;
+    margin-top: 2651vw;
+    margin-left: 150.75vw;
+  }
+  .name2 {
+    position: absolute;
+    font-family: "TTInterfacesMedium";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16vw;
+    color: #000000;
+    margin-top: 2651vw;
+    margin-left: 150.75vw;
+  }
+  .stars {
+    position: absolute;
+    width: 128vw;
+    height: 38vw;
+    margin-left: 75vw;
+    margin-top: 2800vw;
+  }
+  .school {
+    position: absolute;
+    font-family: "TTInterfacesMedium";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 9vw;
+    color: #000000;
+    margin-top: 2905vw;
+    margin-left: 64.7vw;
+    white-space: nowrap;
+  }
+  .school2 {
+    position: absolute;
+    font-family: "TTInterfacesMedium";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 9vw;
+    color: #000000;
+    margin-top: 3402vw;
+    margin-left: 64.7vw;
+    white-space: nowrap;
+  }
+  .number {
+    position: absolute;
+    font-family: "TTInterfacesMedium";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 10vw;
+    color: #000000;
+    margin-top: 2903vw;
+    margin-left: 193.7vw;
+    white-space: nowrap;
+  }
+  .number2 {
+    position: absolute;
+    font-family: "TTInterfacesMedium";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 10vw;
+    color: #000000;
+    margin-top: 3400vw;
+    margin-left: 193.7vw;
+    white-space: nowrap;
+  }
+  .mail {
+    position: absolute;
+    font-family: "TTInterfacesMedium";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 10vw;
+    color: #000000;
+    margin-top: 2914vw;
+    margin-left: 193.7vw;
+    white-space: nowrap;
+  }
+  .mail2 {
+    position: absolute;
+    font-family: "TTInterfacesMedium";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 10vw;
+    color: #000000;
+    margin-top: 3409vw;
+    margin-left: 193.7vw;
+    white-space: nowrap;
+  }
+  .year {
+    position: absolute;
+    font-family: "TTInterfacesMedium";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 10vw;
+    color: #000000;
+    margin-top: 2914vw;
+    margin-left: 323vw;
+    white-space: nowrap;
+  }
+  .year2 {
+    position: absolute;
+    font-family: "TTInterfacesMedium";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 10vw;
+    color: #000000;
+    margin-top: 3409vw;
+    margin-left: 323vw;
+    white-space: nowrap;
+  }
+  .footer3 {
+    margin-top: -322vw;
+  }
+  .footer4 {
+    margin-top: -1790vw;
+  }
+  .footer5 {
+    margin-top: -3471vw;
+  }
+  /* Элементы меню */
+  .crossmenu {
+    position: absolute;
+    margin-left: 99vw;
+    margin-top: 5.5vw;
+    width: 35vw;
+    height: 18vw;
+ }
+ /* Афиша */
+ .poster {
+   position: absolute;
+   width: 355vw;
+   height: 408vw;
+   margin-left: 4vw;
+   margin-top: -573.2vw;
+ }
+ .posterback {
+   position: absolute;
+   width: 355vw;
+   height: 408vw;
+   margin-left: 4vw;
+   margin-top: -573.2vw;
+ }
+ .poster2 {
+   position: absolute;
+   width: 355vw;
+   height: 408vw;
+   margin-left: 4vw;
+   margin-top: -135.2vw;
+ }
+ .posterback2 {
+   position: absolute;
+   width: 352vw;
+   height: 418vw;
+   margin-left: 6vw;
+   margin-top: -139.2vw;
+ }
+ .poster3 {
+   position: absolute;
+   width: 355vw;
+   height: 408vw;
+   margin-left: 4vw;
+   margin-top: 304.2vw;
+ }
+ .posterback3 {
+   position: absolute;
+   width: 355vw;
+   height: 408vw;
+   margin-left: 4vw;
+   margin-top: 304.2vw;
+ }
+ .poster4 {
+   position: absolute;
+   width: 355vw;
+   height: 408vw;
+   margin-left: 4vw;
+   margin-top: 743.2vw;
+ }
+ .posterback4 {
+   position: absolute;
+   width: 355vw;
+   height: 408vw;
+   margin-left: 4vw;
+   margin-top: 743.2vw;
+ }
+ .poster5 {
+   position: absolute;
+   width: 355vw;
+   height: 408vw;
+   margin-left: 4vw;
+   margin-top: 1181.2vw;
+ }
+ .posterback5 {
+   position: absolute;
+   width: 355vw;
+   height: 408vw;
+   margin-left: 4vw;
+   margin-top: 1181.2vw;
+ }
+ .poster6 {
+   position: absolute;
+   width: 355vw;
+   height: 408vw;
+   margin-left: 4vw;
+   margin-top: 1619.2vw;
+ }
+ .posterback6 {
+   position: absolute;
+   width: 355vw;
+   height: 408vw;
+   margin-left: 4vw;
+   margin-top: 1619.2vw;
+ }
+ .poster7 {
+   position: absolute;
+   width: 355vw;
+   height: 408vw;
+   margin-left: 4vw;
+   margin-top: 2060.2vw;
+ }
+ .posterback7 {
+   position: absolute;
+   width: 355vw;
+   height: 408vw;
+   margin-left: 4vw;
+   margin-top: 2060.2vw;
+ }
+ .poster8 {
+   position: absolute;
+   width: 355vw;
+   height: 408vw;
+   margin-left: 4vw;
+   margin-top: 2502.2vw;
+ }
+ .poster9 {
+   position: absolute;
+   width: 355vw;
+   height: 408vw;
+   margin-left: 4vw;
+   margin-top: 2944.2vw;
+ }
+ .posterback9 {
+   position: absolute;
+   width: 355vw;
+   height: 408vw;
+   margin-left: 4vw;
+   margin-top: 2944.2vw;
+ }
+ /* Форма1 */
+ .buttonp {
+   position: absolute;
+   width: 197vw;
+   height: 43vw;
+   background-color: #FFFFFF;
+   border: 0.5vw solid black;
+   margin-left: 82vw;
+   margin-top: -395vw;
+ }
+ .buttonp2 {
+   position: absolute;
+   width: 197vw;
+   height: 43vw;
+   background-color: #FFFFFF;
+   border: 0.5vw solid black;
+   margin-left: 84vw;
+   margin-top: 40vw;
+ }
+ .buttonp3 {
+   position: absolute;
+   width: 197vw;
+   height: 43vw;
+   background-color: #FFFFFF;
+   border: 0.5vw solid black;
+   margin-left: 84vw;
+   margin-top: 478vw;
+ }
+ .buttonp4 {
+   position: absolute;
+   width: 197vw;
+   height: 43vw;
+   background-color: #FFFFFF;
+   border: 0.5vw solid black;
+   margin-left: 84vw;
+   margin-top: 922vw;
+ }
+ .buttonp5 {
+   position: absolute;
+   width: 197vw;
+   height: 43vw;
+   background-color: #FFFFFF;
+   border: 0.5vw solid black;
+   margin-left: 84vw;
+   margin-top: 1362vw;
+ }
+ .buttonp6 {
+   position: absolute;
+   width: 197vw;
+   height: 43vw;
+   background-color: #FFFFFF;
+   border: 0.5vw solid black;
+   margin-left: 84vw;
+   margin-top: 1802vw;
+ }
+ .buttonp7 {
+   position: absolute;
+   width: 197vw;
+   height: 43vw;
+   background-color: #FFFFFF;
+   border: 0.5vw solid black;
+   margin-left: 84vw;
+   margin-top: 2242vw;
+ }
+ .buttonp9 {
+   position: absolute;
+   width: 197vw;
+   height: 43vw;
+   background-color: #FFFFFF;
+   border: 0.5vw solid black;
+   margin-left: 84vw;
+   margin-top: 3118vw;
+ }
+ .cross2 {
+   position: absolute;
+   margin-left: 268vw;
+   margin-top: -493vw;
+   width: 53vw;
+   height: 39vw;
+ }
+ .cross3 {
+   position: absolute;
+   margin-left: 268vw;
+   margin-top: -495vw;
+   width: 53vw;
+   height: 39vw;
+ }
+ .outliner {
+   position: absolute;
+   width: 180vw;
+   height: 37vw;
+   margin-left: 91vw;
+   margin-top: -392.4vw;
+ }
+ .outliner2 {
+   position: absolute;
+   width: 180vw;
+   height: 37vw;
+   margin-left: 91vw;
+   margin-top: 42vw;
+ }
+ .outliner3 {
+   position: absolute;
+   width: 180vw;
+   height: 37vw;
+   margin-left: 91vw;
+   margin-top: 480vw;
+ }
+ .outliner4 {
+   position: absolute;
+   width: 180vw;
+   height: 37vw;
+   margin-left: 91vw;
+   margin-top: 925vw;
+ }
+ .outliner5 {
+   position: absolute;
+   width: 180vw;
+   height: 37vw;
+   margin-left: 91vw;
+   margin-top: 1364vw;
+ }
+ .outliner6 {
+   position: absolute;
+   width: 180vw;
+   height: 37vw;
+   margin-left: 91vw;
+   margin-top: 1803vw;
+ }
+ .outliner7 {
+   position: absolute;
+   width: 180vw;
+   height: 37vw;
+   margin-left: 91vw;
+   margin-top: 2244vw;
+ }
+ .outliner9 {
+   position: absolute;
+   width: 180vw;
+   height: 37vw;
+   margin-left: 91vw;
+   margin-top: 3120vw;
+ }
+ .register {
+   position: absolute;
+   font-family: "TTInterfacesMedium";
+   font-style: normal;
+   font-weight: 500;
+   font-size: 14vw;
+   color: #000000;
+   margin-top: -379.4vw;
+   margin-left: 99vw;
+ }
+ .register2 {
+   position: absolute;
+   font-family: "TTInterfacesMedium";
+   font-style: normal;
+   font-weight: 500;
+   font-size: 14vw;
+   color: #000000;
+   margin-top: 54vw;
+   margin-left: 99vw;
+ }
+ .register3 {
+   position: absolute;
+   font-family: "TTInterfacesMedium";
+   font-style: normal;
+   font-weight: 500;
+   font-size: 14vw;
+   color: #000000;
+   margin-top: 493vw;
+   margin-left: 99vw;
+ }
+ .register5 {
+   position: absolute;
+   font-family: "TTInterfacesMedium";
+   font-style: normal;
+   font-weight: 500;
+   font-size: 14vw;
+   color: #000000;
+   margin-top: 937vw;
+   margin-left: 99vw;
+ }
+ .register7 {
+   position: absolute;
+   font-family: "TTInterfacesMedium";
+   font-style: normal;
+   font-weight: 500;
+   font-size: 14vw;
+   color: #000000;
+   margin-top: 1375vw;
+   margin-left: 99vw;
+ }
+ .register8 {
+   position: absolute;
+   font-family: "TTInterfacesMedium";
+   font-style: normal;
+   font-weight: 500;
+   font-size: 14vw;
+   color: #000000;
+   margin-top: 1816vw;
+   margin-left: 99vw;
+ }
+ .register9 {
+   position: absolute;
+   font-family: "TTInterfacesMedium";
+   font-style: normal;
+   font-weight: 500;
+   font-size: 14vw;
+   color: #000000;
+   margin-top: 2257vw;
+   margin-left: 99vw;
+ }
+ .register11 {
+   position: absolute;
+   font-family: "TTInterfacesMedium";
+   font-style: normal;
+   font-weight: 500;
+   font-size: 14vw;
+   color: #000000;
+   margin-top: 3133vw;
+   margin-left: 99vw;
+ }
+ .base {
+   position: absolute;
+   margin-left: 25vw;
+   margin-top: -515.5vw;
+   width: 314vw;
+   height: 286vw;
+ }
+ .base4 {
+   position: absolute;
+   margin-left: 25vw;
+   margin-top: -515.5vw;
+   width: 314vw;
+   height: 286vw;
+ }
+ .base5 {
+   position: absolute;
+   margin-left: 25vw;
+   margin-top: -515.5vw;
+   width: 314vw;
+   height: 286vw;
+ }
+ .formtext {
+   position: absolute;
+   font-family: "TTInterfacesMedium";
+   font-style: normal;
+   font-weight: 500;
+   font-size: 22vw;
+   color: #000000;
+   margin-top: -492vw;
+   margin-left: 47.2vw;
+   white-space: nowrap;
+ }
+ .cross {
+   position: absolute;
+   margin-left: 271vw;
+   margin-top: -498.5vw;
+   width: 53vw;
+   height: 39vw;
+ }
+ .form-input {
+  position: absolute;
+   font-family: "TTInterfacesMedium";
+   font-style: normal;
+   font-weight: 500;
+   font-size: 12vw;
+   color: #000000;
+   margin-top: -437vw;
+   margin-left: 49.2vw;
+   width: 263vw;
+   height: 21.5vw;
+ }
+ .form-input2 {
+   position: absolute;
+   font-family: "TTInterfacesMedium";
+   font-style: normal;
+   font-weight: 500;
+   font-size: 12vw;
+   color: #000000;
+   margin-top: -403vw;
+   margin-left: 49.2vw;
+   width: 263vw;
+   height: 21.5vw;
+ }
+ .telephone {
+   position: absolute;
+   font-family: "TTInterfacesMedium";
+   font-style: normal;
+   font-weight: 500;
+   font-size: 12vw;
+   color: #000000;
+   margin-top: -368vw;
+   margin-left: 49.2vw;
+   width: 263vw;
+   height: 21.5vw;
+ }
+ .mailme {
+   position: absolute;
+   font-family: "TTInterfacesMedium";
+   font-style: normal;
+   font-weight: 500;
+   font-size: 12vw;
+   color: #000000;
+   margin-top: -333vw;
+   margin-left: 49.2vw;
+   width: 263vw;
+   height: 21.5vw;
+ }
+ .formbut {
+   position: absolute;
+   width: 190vw;
+   height: 35vw;
+   background-color: #000000;
+   margin-left: 49vw;
+   margin-top: -293vw;
+ }
+ .formbut2 {
+   position: absolute;
+   width: 190vw;
+   height: 35vw;
+   background-color: #B4CEFA;
+   border: 0.1vw solid black;
+   margin-left: 49vw;
+   margin-top: -293vw;
+ }
+ .draw {
+   position: absolute;
+   width: 179vw;
+   height: 31vw;
+   margin-left: 54vw;
+   margin-top: -293vw;
+ }
+ .draw2 {
+   position: absolute;
+   width: 179vw;
+   height: 31vw;
+   margin-left: 54vw;
+   margin-top: -293vw;
+ }
+ .register4 {
+   position: absolute;
+   font-family: "TTInterfacesMedium";
+   font-style: normal;
+   font-weight: 500;
+   font-size: 12vw;
+   color: #FFFFFF;
+   margin-top: -282vw;
+   margin-left: 75vw;
+ }
+ .register6 {
+   position: absolute;
+   font-family: "TTInterfacesMedium";
+   font-style: normal;
+   font-weight: 500;
+   font-size: 12vw;
+   color: #000000;
+   margin-top: -282vw;
+   margin-left: 108vw;
+   white-space: nowrap;
+ }
+ /* Сдвиг форм */
+ .shiftmob {
+   margin-top: 442.5vw;
+ }
+ .shiftmob2 {
+   margin-top: 881.5vw;
+ }
+ .shiftmob3 {
+   margin-top: 1321.5vw;
+ }
+ .shiftmob4 {
+   margin-top: 1761.5vw;
+ }
+ .shiftmob5 {
+   margin-top: 2197.5vw;
+ }
+ .shiftmob6 {
+   margin-top: 2634.5vw;
+ }
+ .shiftmob7 {
+   margin-top: 3524.5vw;
+ }
+ /* Подложки товаров */
+ .cube {
+   position: absolute;
+   width: 300vw;
+   height: 300vw;
+   border: 0.3vw solid black;
+   background: #B4CEFA;
+   margin-top: -643vw;
+   margin-left: 32vw;
+ }
+ .cube2 {
+   position: absolute;
+   width: 300vw;
+   height: 300vw;
+   border: 0.3vw solid black;
+   background: #F2BED3;
+   margin-top: -243vw;
+   margin-left: 32vw;
+ }
+ .cube3 {
+   position: absolute;
+   width: 300vw;
+   height: 300vw;
+   border: 0.3vw solid black;
+   background: #BFC5FD;
+   margin-top: 151vw;
+   margin-left: 32vw;
+ }
+ .cube4 {
+   position: absolute;
+   width: 300vw;
+   height: 300vw;
+   border: 0.3vw solid black;
+   background: #F2BED3;
+   margin-top: 558vw;
+   margin-left: 32vw;
+ }
+ .cube5 {
+   position: absolute;
+   width: 300vw;
+   height: 300vw;
+   border: 0.3vw solid black;
+   background: #B4CEFA;
+   margin-top: 974vw;
+   margin-left: 32vw;
+ }
+ .cube6 {
+   position: absolute;
+   width: 300vw;
+   height: 300vw;
+   border: 0.3vw solid black;
+   background: #BFC5FD;
+   margin-top: 1387vw;
+   margin-left: 32vw;
+ }
+ .cube7 {
+   position: absolute;
+   width: 300vw;
+   height: 300vw;
+   border: 0.3vw solid black;
+   background: #F2BED3;
+   margin-top: 1801vw;
+   margin-left: 32vw;
+ }
+ .cube8 {
+   position: absolute;
+   width: 300vw;
+   height: 300vw;
+   border: 0.3vw solid black;
+   background: #B4CEFA;
+   margin-top: 2223vw;
+   margin-left: 32vw;
+ }
+ .cube9 {
+   position: absolute;
+   width: 300vw;
+   height: 300vw;
+   border: 0.3vw solid black;
+   background: #BFC5FD;
+   margin-top: 2639vw;
+   margin-left: 32vw;
+ }
+ /* Изображения товаров */
+ .notepad {
+   position: absolute;
+   width: 300vw;
+   height: 300vw;
+   margin-left: 45vw;
+   margin-top: -650vw;
+ }
+ .puantimg {
+   position: absolute;
+   width: 235vw;
+   height: 300vw;
+   margin-left: 67vw;
+   margin-top: -246vw;
+ }
+ .bag {
+   position: absolute;
+   width: 354vw;
+   height: 300vw;
+   margin-left: -16vw;
+   margin-top: 150vw;
+ }
+ .waybook {
+   position: absolute;
+   width: 355vw;
+   height: 225vw;
+   margin-left: 9vw;
+   margin-top: 593vw;
+ }
+ .baton {
+   position: absolute;
+   width: 284vw;
+   height: 225vw;
+   margin-left: 45vw;
+   margin-top: 1008vw;
+ }
+ .lightbox {
+   position: absolute;
+   width: 284vw;
+   height: 225vw;
+   margin-left: 39vw;
+   margin-top: 1426vw;
+ }
+ .bottle {
+   position: absolute;
+   width: 293vw;
+   height: 246vw;
+   margin-left: 39vw;
+   margin-top: 1826vw;
+ }
+ .convert {
+   position: absolute;
+   width: 284vw;
+   height: 246vw;
+   margin-left: 39vw;
+   margin-top: 2247vw;
+ }
+ .badge {
+   position: absolute;
+   width: 284vw;
+   height: 246vw;
+   margin-left: 43vw;
+   margin-top: 2639vw;
+ }
+ /* Заголовки карточек товаров */
+ .bloknottext {
+   position: absolute;
+   font-family: "TTInterfacesMedium";
+   font-style: normal;
+   font-weight: 500;
+   font-size: 15vw;
+   color: #000000;
+   margin-top: -332vw;
+   margin-left: 31vw;
+   white-space: nowrap;
+ }
+ .puantitext {
+   position: absolute;
+   font-family: "TTInterfacesMedium";
+   font-style: normal;
+   font-weight: 500;
+   font-size: 15vw;
+   color: #000000;
+   margin-top: 66vw;
+   margin-left: 31vw;
+   white-space: nowrap;
+ }
+ .bagtext {
+   position: absolute;
+   font-family: "TTInterfacesMedium";
+   font-style: normal;
+   font-weight: 500;
+   font-size: 15vw;
+   color: #000000;
+   margin-top: 466vw;
+   margin-left: 31vw;
+   white-space: nowrap;
+ }
+ .waytext {
+   position: absolute;
+   font-family: "TTInterfacesMedium";
+   font-style: normal;
+   font-weight: 500;
+   font-size: 15vw;
+   color: #000000;
+   margin-top: 877vw;
+   margin-left: 31vw;
+   white-space: nowrap;
+ }
+ .batontext {
+   position: absolute;
+   font-family: "TTInterfacesMedium";
+   font-style: normal;
+   font-weight: 500;
+   font-size: 15vw;
+   color: #000000;
+   margin-top: 1290vw;
+   margin-left: 31vw;
+   white-space: nowrap;
+ }
+ .boxtext {
+   position: absolute;
+   font-family: "TTInterfacesMedium";
+   font-style: normal;
+   font-weight: 500;
+   font-size: 15vw;
+   color: #000000;
+   margin-top: 1703vw;
+   margin-left: 31vw;
+   white-space: nowrap;
+ }
+ .bottletext {
+   position: absolute;
+   font-family: "TTInterfacesMedium";
+   font-style: normal;
+   font-weight: 500;
+   font-size: 15vw;
+   color: #000000;
+   margin-top: 2118vw;
+   margin-left: 31vw;
+   white-space: nowrap;
+ }
+ .converttext {
+   position: absolute;
+   font-family: "TTInterfacesMedium";
+   font-style: normal;
+   font-weight: 500;
+   font-size: 15vw;
+   color: #000000;
+   margin-top: 2538vw;
+   margin-left: 31vw;
+   white-space: nowrap;
+ }
+ .badgetext {
+   position: absolute;
+   font-family: "TTInterfacesMedium";
+   font-style: normal;
+   font-weight: 500;
+   font-size: 15vw;
+   color: #000000;
+   margin-top: 2956vw;
+   margin-left: 31vw;
+   white-space: nowrap;
+ }
+ /* Цены */
+ .price {
+   position: absolute;
+   font-family: "TTInterfacesMedium";
+   font-style: normal;
+   font-weight: 500;
+   font-size: 15vw;
+   color: #000000;
+   margin-top: -330vw;
+   margin-left: 273vw;
+   white-space: nowrap;
+ }
+ .price2 {
+   position: absolute;
+   font-family: "TTInterfacesMedium";
+   font-style: normal;
+   font-weight: 500;
+   font-size: 15vw;
+   color: #000000;
+   margin-top: 65vw;
+   margin-left: 273vw;
+   white-space: nowrap;
+ }
+ .price3 {
+   position: absolute;
+   font-family: "TTInterfacesMedium";
+   font-style: normal;
+   font-weight: 500;
+   font-size: 15vw;
+   color: #000000;
+   margin-top: 465vw;
+   margin-left: 273vw;
+   white-space: nowrap;
+ }
+ .price4 {
+   position: absolute;
+   font-family: "TTInterfacesMedium";
+   font-style: normal;
+   font-weight: 500;
+   font-size: 15vw;
+   color: #000000;
+   margin-top: 878vw;
+   margin-left: 273vw;
+   white-space: nowrap;
+ }
+ .price5 {
+   position: absolute;
+   font-family: "TTInterfacesMedium";
+   font-style: normal;
+   font-weight: 500;
+   font-size: 15vw;
+   color: #000000;
+   margin-top: 1290vw;
+   margin-left: 273vw;
+   white-space: nowrap;
+ }
+ .price6 {
+   position: absolute;
+   font-family: "TTInterfacesMedium";
+   font-style: normal;
+   font-weight: 500;
+   font-size: 15vw;
+   color: #000000;
+   margin-top: 1701vw;
+   margin-left: 273vw;
+   white-space: nowrap;
+ }
+ .price7 {
+   position: absolute;
+   font-family: "TTInterfacesMedium";
+   font-style: normal;
+   font-weight: 500;
+   font-size: 15vw;
+   color: #000000;
+   margin-top: 2120vw;
+   margin-left: 273vw;
+   white-space: nowrap;
+ }
+ .price8 {
+   position: absolute;
+   font-family: "TTInterfacesMedium";
+   font-style: normal;
+   font-weight: 500;
+   font-size: 15vw;
+   color: #000000;
+   margin-top: 2538vw;
+   margin-left: 273vw;
+   white-space: nowrap;
+ }
+ .price9 {
+   position: absolute;
+   font-family: "TTInterfacesMedium";
+   font-style: normal;
+   font-weight: 500;
+   font-size: 15vw;
+   color: #000000;
+   margin-top: 2957vw;
+   margin-left: 273vw;
+   white-space: nowrap;
+ }
+ .coprice {
+  position: absolute;
+   width: 22vw;
+   height: 40vw;
+   margin-left: 308vw;
+   margin-top: -344vw;
+ }
+ .coprice2 {
+  position: absolute;
+   width: 22vw;
+   height: 40vw;
+   margin-left: 308vw;
+   margin-top: 52vw;
+ }
+ .coprice3 {
+  position: absolute;
+   width: 22vw;
+   height: 40vw;
+   margin-left: 308vw;
+   margin-top: 452vw;
+ }
+ .coprice4 {
+  position: absolute;
+   width: 22vw;
+   height: 40vw;
+   margin-left: 308vw;
+   margin-top: 866vw;
+ }
+ .coprice5 {
+  position: absolute;
+   width: 22vw;
+   height: 40vw;
+   margin-left: 308vw;
+   margin-top: 1278vw;
+ }
+ .coprice6 {
+  position: absolute;
+   width: 22vw;
+   height: 40vw;
+   margin-left: 308vw;
+   margin-top: 1689vw;
+ }
+ .coprice7 {
+  position: absolute;
+   width: 22vw;
+   height: 40vw;
+   margin-left: 308vw;
+   margin-top: 2107vw;
+ }
+ .coprice8 {
+  position: absolute;
+   width: 22vw;
+   height: 40vw;
+   margin-left: 308vw;
+   margin-top: 2525vw;
+ }
+ .coprice9 {
+  position: absolute;
+   width: 22vw;
+   height: 40vw;
+   margin-left: 308vw;
+   margin-top: 2943vw;
+ }
+ /* Кнопки купить */
+ .press {
+   position: absolute;
+   width: 141vw;
+   height: 36vw;
+   background: #FFFFFF;
+   border: 0.3vw solid black;
+   margin-top: -304vw;
+   margin-left: 32.5vw;
+ }
+ .press4 {
+   position: absolute;
+   width: 141vw;
+   height: 36vw;
+   background: #FFFFFF;
+   border: 0.3vw solid black;
+   margin-top: 90vw;
+   margin-left: 32.5vw;
+ }
+ .press5 {
+   position: absolute;
+   width: 141vw;
+   height: 36vw;
+   background: #FFFFFF;
+   border: 0.3vw solid black;
+   margin-top: 496vw;
+   margin-left: 32vw;
+ }
+ .press7 {
+   position: absolute;
+   width: 141vw;
+   height: 36vw;
+   background: #FFFFFF;
+   border: 0.3vw solid black;
+   margin-top: 911vw;
+   margin-left: 32vw;
+ }
+ .press10 {
+   position: absolute;
+   width: 141vw;
+   height: 36vw;
+   background: #FFFFFF;
+   border: 0.3vw solid black;
+   margin-top: 1319vw;
+   margin-left: 32vw;
+ }
+ .press12 {
+   position: absolute;
+   width: 141vw;
+   height: 36vw;
+   background: #FFFFFF;
+   border: 0.3vw solid black;
+   margin-top: 1732vw;
+   margin-left: 32vw;
+ }
+ .press13 {
+   position: absolute;
+   width: 141vw;
+   height: 36vw;
+   background: #FFFFFF;
+   border: 0.3vw solid black;
+   margin-top: 2152vw;
+   margin-left: 32vw;
+ }
+ .press15 {
+   position: absolute;
+   width: 141vw;
+   height: 36vw;
+   background: #FFFFFF;
+   border: 0.3vw solid black;
+   margin-top: 2568vw;
+   margin-left: 32vw;
+ }
+ .press17 {
+   position: absolute;
+   width: 141vw;
+   height: 36vw;
+   background: #FFFFFF;
+   border: 0.3vw solid black;
+   margin-top: 2986vw;
+   margin-left: 32vw;
+ }
+ .press2 {
+   position: absolute;
+   width: 141vw;
+   height: 36vw;
+   background: #000000;
+   border: 0.3vw solid black;
+   margin-top: -304vw;
+   margin-left: 190.5vw;
+ }
+ .press2cl {
+   position: absolute;
+   width: 141vw;
+   height: 36vw;
+   background: #B4CEFA;
+   border: 0.3vw solid black;
+   margin-top: -304vw;
+   margin-left: 190.5vw;
+ }
+ .press14 {
+   position: absolute;
+   width: 141vw;
+   height: 36vw;
+   background: #000000;
+   border: 0.3vw solid black;
+   margin-top: 2152vw;
+   margin-left: 190.5vw;
+ }
+ .press14cl {
+   position: absolute;
+   width: 141vw;
+   height: 36vw;
+   background: #B4CEFA;
+   border: 0.3vw solid black;
+   margin-top: 2152vw;
+   margin-left: 190.5vw;
+ }
+ .press16 {
+   position: absolute;
+   width: 141vw;
+   height: 36vw;
+   background: #000000;
+   border: 0.3vw solid black;
+   margin-top: 2568vw;
+   margin-left: 190.5vw;
+ }
+ .press16cl {
+   position: absolute;
+   width: 141vw;
+   height: 36vw;
+   background: #B4CEFA;
+   border: 0.3vw solid black;
+   margin-top: 2568vw;
+   margin-left: 190.5vw;
+ }
+ .press18 {
+   position: absolute;
+   width: 141vw;
+   height: 36vw;
+   background: #000000;
+   border: 0.3vw solid black;
+   margin-top: 2986vw;
+   margin-left: 190.5vw;
+ }
+ .press18cl {
+   position: absolute;
+   width: 141vw;
+   height: 36vw;
+   background: #B4CEFA;
+   border: 0.3vw solid black;
+   margin-top: 2986vw;
+   margin-left: 190.5vw;
+ }
+ .press3 {
+   position: absolute;
+   width: 141vw;
+   height: 36vw;
+   background: #000000;
+   border: 0.3vw solid black;
+   margin-top: 90vw;
+   margin-left: 190.5vw;
+ }
+ .press3cl {
+   position: absolute;
+   width: 141vw;
+   height: 36vw;
+   background: #B4CEFA;
+   border: 0.3vw solid black;
+   margin-top: 90vw;
+   margin-left: 190.5vw;
+ }
+ .press6 {
+   position: absolute;
+   width: 141vw;
+   height: 36vw;
+   background: #000000;
+   border: 0.3vw solid black;
+   margin-top: 496vw;
+   margin-left: 190.5vw;
+ }
+ .press6cl {
+   position: absolute;
+   width: 141vw;
+   height: 40vw;
+   background: #B4CEFA;
+   border: 0.3vw solid black;
+   margin-top: 492vw;
+   margin-left: 190.5vw;
+ }
+ .press8 {
+   position: absolute;
+   width: 141vw;
+   height: 36vw;
+   background: #000000;
+   border: 0.3vw solid black;
+   margin-top: 911vw;
+   margin-left: 190.5vw;
+ }
+ .press9 {
+   position: absolute;
+   width: 141vw;
+   height: 36vw;
+   background: #000000;
+   border: 0.3vw solid black;
+   margin-top: 1319vw;
+   margin-left: 190.5vw;
+ }
+ .press9cl {
+   position: absolute;
+   width: 141vw;
+   height: 36vw;
+   background: #B4CEFA;
+   border: 0.3vw solid black;
+   margin-top: 1319vw;
+   margin-left: 190.5vw;
+ }
+ .press11 {
+   position: absolute;
+   width: 141vw;
+   height: 36vw;
+   background: #000000;
+   border: 0.3vw solid black;
+   margin-top: 1732vw;
+   margin-left: 190.5vw;
+ }
+ .press11cl {
+   position: absolute;
+   width: 141vw;
+   height: 38vw;
+   background: #B4CEFA;
+   border: 0.3vw solid black;
+   margin-top: 1730vw;
+   margin-left: 190.5vw;
+ }
+ .press8cl {
+   position: absolute;
+   width: 141vw;
+   height: 36vw;
+   background: #B4CEFA;
+   border: 0.3vw solid black;
+   margin-top: 911vw;
+   margin-left: 190.5vw;
+ }
+ .kupit {
+   position: absolute;
+   font-family: "TTInterfacesMedium";
+   font-style: normal;
+   font-weight: 500;
+   font-size: 16vw;
+   color: #FFFFFF;
+   margin-top: -295vw;
+   margin-left: 230vw;
+   white-space: nowrap;
+ }
+ .kupitcl {
+   position: absolute;
+   font-family: "TTInterfacesMedium";
+   font-style: normal;
+   font-weight: 500;
+   font-size: 16vw;
+   color: #FFFFFF;
+   margin-top: -295vw;
+   margin-left: 225vw;
+   white-space: nowrap;
+ }
+ .kupit2 {
+   position: absolute;
+   font-family: "TTInterfacesMedium";
+   font-style: normal;
+   font-weight: 500;
+   font-size: 16vw;
+   color: #FFFFFF;
+   margin-top: 99vw;
+   margin-left: 230vw;
+   white-space: nowrap;
+ }
+ .kupit2cl {
+   position: absolute;
+   font-family: "TTInterfacesMedium";
+   font-style: normal;
+   font-weight: 500;
+   font-size: 16vw;
+   color: #FFFFFF;
+   margin-top: 99vw;
+   margin-left: 225vw;
+   white-space: nowrap;
+ }
+ .kupitcl {
+   position: absolute;
+   font-family: "TTInterfacesMedium";
+   font-style: normal;
+   font-weight: 500;
+   font-size: 16vw;
+   color: #FFFFFF;
+   margin-top: -295vw;
+   margin-left: 225vw;
+   white-space: nowrap;
+ }
+ .kupit3 {
+   position: absolute;
+   font-family: "TTInterfacesMedium";
+   font-style: normal;
+   font-weight: 500;
+   font-size: 16vw;
+   color: #FFFFFF;
+   margin-top: 505vw;
+   margin-left: 230vw;
+   white-space: nowrap;
+ }
+ .kupit3cl {
+   position: absolute;
+   font-family: "TTInterfacesMedium";
+   font-style: normal;
+   font-weight: 500;
+   font-size: 16vw;
+   color: #FFFFFF;
+   margin-top: 504vw;
+   margin-left: 225vw;
+   white-space: nowrap;
+ }
+ .kupit4 {
+   position: absolute;
+   font-family: "TTInterfacesMedium";
+   font-style: normal;
+   font-weight: 500;
+   font-size: 16vw;
+   color: #FFFFFF;
+   margin-top: 920vw;
+   margin-left: 230vw;
+   white-space: nowrap;
+ }
+ .kupit4cl {
+   position: absolute;
+   font-family: "TTInterfacesMedium";
+   font-style: normal;
+   font-weight: 500;
+   font-size: 16vw;
+   color: #FFFFFF;
+   margin-top: 920vw;
+   margin-left: 225vw;
+   white-space: nowrap;
+ }
+ .kupit5 {
+   position: absolute;
+   font-family: "TTInterfacesMedium";
+   font-style: normal;
+   font-weight: 500;
+   font-size: 16vw;
+   color: #FFFFFF;
+   margin-top: 1328vw;
+   margin-left: 230vw;
+   white-space: nowrap;
+ }
+ .kupit5cl {
+   position: absolute;
+   font-family: "TTInterfacesMedium";
+   font-style: normal;
+   font-weight: 500;
+   font-size: 16vw;
+   color: #FFFFFF;
+   margin-top: 1328vw;
+   margin-left: 225vw;
+   white-space: nowrap;
+ }
+ .kupit6 {
+   position: absolute;
+   font-family: "TTInterfacesMedium";
+   font-style: normal;
+   font-weight: 500;
+   font-size: 16vw;
+   color: #FFFFFF;
+   margin-top: 1741vw;
+   margin-left: 230vw;
+   white-space: nowrap;
+ }
+ .kupit6cl {
+   position: absolute;
+   font-family: "TTInterfacesMedium";
+   font-style: normal;
+   font-weight: 500;
+   font-size: 16vw;
+   color: #FFFFFF;
+   margin-top: 1740vw;
+   margin-left: 225vw;
+   white-space: nowrap;
+ }
+ .kupit7 {
+   position: absolute;
+   font-family: "TTInterfacesMedium";
+   font-style: normal;
+   font-weight: 500;
+   font-size: 16vw;
+   color: #FFFFFF;
+   margin-top: 2160vw;
+   margin-left: 230vw;
+   white-space: nowrap;
+ }
+ .kupit7cl {
+   position: absolute;
+   font-family: "TTInterfacesMedium";
+   font-style: normal;
+   font-weight: 500;
+   font-size: 16vw;
+   color: #FFFFFF;
+   margin-top: 2160vw;
+   margin-left: 225vw;
+   white-space: nowrap;
+ }
+ .kupit8 {
+   position: absolute;
+   font-family: "TTInterfacesMedium";
+   font-style: normal;
+   font-weight: 500;
+   font-size: 16vw;
+   color: #FFFFFF;
+   margin-top: 2576vw;
+   margin-left: 230vw;
+   white-space: nowrap;
+ }
+ .kupit8cl {
+   position: absolute;
+   font-family: "TTInterfacesMedium";
+   font-style: normal;
+   font-weight: 500;
+   font-size: 16vw;
+   color: #FFFFFF;
+   margin-top: 2576vw;
+   margin-left: 225vw;
+   white-space: nowrap;
+ }
+ .kupit9 {
+   position: absolute;
+   font-family: "TTInterfacesMedium";
+   font-style: normal;
+   font-weight: 500;
+   font-size: 16vw;
+   color: #FFFFFF;
+   margin-top: 2994vw;
+   margin-left: 230vw;
+   white-space: nowrap;
+ }
+ .kupit9cl {
+   position: absolute;
+   font-family: "TTInterfacesMedium";
+   font-style: normal;
+   font-weight: 500;
+   font-size: 16vw;
+   color: #FFFFFF;
+   margin-top: 2994vw;
+   margin-left: 225vw;
+   white-space: nowrap;
+ }
+ /* Обводки */
+ .arcup {
+   position: absolute;
+   width: 145vw;
+   height: 32vw;
+   margin-top: -303vw;
+   margin-left: 190vw;
+ }
+ .arcup2 {
+   position: absolute;
+   width: 145vw;
+   height: 32vw;
+   margin-top: 91vw;
+   margin-left: 190vw;
+ }
+ .arcup3 {
+   position: absolute;
+   width: 145vw;
+   height: 32vw;
+   margin-top: 497vw;
+   margin-left: 190vw;
+ }
+ .arcup4 {
+   position: absolute;
+   width: 145vw;
+   height: 32vw;
+   margin-top: 912vw;
+   margin-left: 190vw;
+ }
+ .arcup5 {
+   position: absolute;
+   width: 145vw;
+   height: 32vw;
+   margin-top: 1320vw;
+   margin-left: 190vw;
+ }
+ .arcup6 {
+   position: absolute;
+   width: 145vw;
+   height: 32vw;
+   margin-top: 1733vw;
+   margin-left: 190vw;
+ }
+ .arcup7 {
+   position: absolute;
+   width: 145vw;
+   height: 32vw;
+   margin-top: 2152vw;
+   margin-left: 190vw;
+ }
+ .arcup8 {
+   position: absolute;
+   width: 145vw;
+   height: 32vw;
+   margin-top: 2568vw;
+   margin-left: 190vw;
+ }
+ .arcup9 {
+   position: absolute;
+   width: 145vw;
+   height: 32vw;
+   margin-top: 2987vw;
+   margin-left: 190vw;
+ }
+ /* О товаре */
+ .otovare {
+   position: absolute;
+   font-family: "TTInterfacesMedium";
+   font-style: normal;
+   font-weight: 500;
+   font-size: 16vw;
+   color: #000000;
+   margin-top: -294vw;
+   margin-left: 64vw;
+   white-space: nowrap;
+ }
+ .otovare2 {
+   position: absolute;
+   font-family: "TTInterfacesMedium";
+   font-style: normal;
+   font-weight: 500;
+   font-size: 16vw;
+   color: #000000;
+   margin-top: 100vw;
+   margin-left: 64vw;
+   white-space: nowrap;
+ }
+ .otovare3 {
+   position: absolute;
+   font-family: "TTInterfacesMedium";
+   font-style: normal;
+   font-weight: 500;
+   font-size: 16vw;
+   color: #000000;
+   margin-top: 506vw;
+   margin-left: 64vw;
+   white-space: nowrap;
+ }
+ .otovare4 {
+   position: absolute;
+   font-family: "TTInterfacesMedium";
+   font-style: normal;
+   font-weight: 500;
+   font-size: 16vw;
+   color: #000000;
+   margin-top: 921vw;
+   margin-left: 64vw;
+   white-space: nowrap;
+ }
+ .otovare5 {
+   position: absolute;
+   font-family: "TTInterfacesMedium";
+   font-style: normal;
+   font-weight: 500;
+   font-size: 16vw;
+   color: #000000;
+   margin-top: 1328vw;
+   margin-left: 64vw;
+   white-space: nowrap;
+ }
+ .otovare6 {
+   position: absolute;
+   font-family: "TTInterfacesMedium";
+   font-style: normal;
+   font-weight: 500;
+   font-size: 16vw;
+   color: #000000;
+   margin-top: 1741vw;
+   margin-left: 64vw;
+   white-space: nowrap;
+ }
+ .otovare7 {
+   position: absolute;
+   font-family: "TTInterfacesMedium";
+   font-style: normal;
+   font-weight: 500;
+   font-size: 16vw;
+   color: #000000;
+   margin-top: 2162vw;
+   margin-left: 64vw;
+   white-space: nowrap;
+ }
+ .otovare8 {
+   position: absolute;
+   font-family: "TTInterfacesMedium";
+   font-style: normal;
+   font-weight: 500;
+   font-size: 16vw;
+   color: #000000;
+   margin-top: 2578vw;
+   margin-left: 64vw;
+   white-space: nowrap;
+ }
+ .otovare9 {
+   position: absolute;
+   font-family: "TTInterfacesMedium";
+   font-style: normal;
+   font-weight: 500;
+   font-size: 16vw;
+   color: #000000;
+   margin-top: 2995vw;
+   margin-left: 64vw;
+   white-space: nowrap;
+ }
+ /* Вопросы */
+ .line4 {
+   display: none;
+ }
+ .vopros {
+   position: absolute;
+   width: 300vw;
+   height: 200vw;
+   background: #B4CEFA;
+   border: 0.1vw solid black;
+   margin-top: -561vw;
+   margin-left: 31vw;
+ }
+ .strelka {
+   position: absolute;
+   width: 37vw;
+   height: 15vw;
+   margin-top: -388vw;
+   margin-left: 35vw;
+ }
+ .strelka2 {
+   position: absolute;
+   width: 37vw;
+   height: 15vw;
+   margin-top: -174vw;
+   margin-left: 35vw;
+ }
+ .strelka3 {
+   position: absolute;
+   width: 37vw;
+   height: 15vw;
+   margin-top: 46vw;
+   margin-left: 35vw;
+ }
+ .strelka4 {
+   position: absolute;
+   width: 37vw;
+   height: 15vw;
+   margin-top: 263vw;
+   margin-left: 35vw;
+ }
+ .strelka5 {
+   position: absolute;
+   width: 37vw;
+   height: 15vw;
+   margin-top: 485vw;
+   margin-left: 35vw;
+ }
+ .strelka6 {
+   position: absolute;
+   width: 37vw;
+   height: 15vw;
+   margin-top: 711vw;
+   margin-left: 35vw;
+ }
+ .strelka7 {
+   position: absolute;
+   width: 37vw;
+   height: 15vw;
+   margin-top: 938vw;
+   margin-left: 35vw;
+ }
+ .strelka8 {
+   position: absolute;
+   width: 37vw;
+   height: 15vw;
+   margin-top: 1166vw;
+   margin-left: 35vw;
+ }
+ /* Вопросы */
+ .voproscl {
+   position: absolute;
+   width: 300vw;
+   height: 200vw;
+   background: #FFFFFF;
+   border: 0.3vw solid black;
+   margin-top: -561vw;
+   margin-left: 31vw;
+ }
+ .vopros2 {
+   position: absolute;
+   width: 300vw;
+   height: 200vw;
+   background: #F2BED3;
+   border: 0.3vw solid black;
+   margin-top: -345vw;
+   margin-left: 31vw;
+ }
+ .vopros2cl {
+   position: absolute;
+   width: 300vw;
+   height: 200vw;
+   background: #FFFFFF;
+   border: 0.3vw solid black;
+   margin-top: -345vw;
+   margin-left: 31vw;
+ }
+ .vopros3 {
+   position: absolute;
+   width: 300vw;
+   height: 200vw;
+   background: #BFC5FD;
+   border: 0.3vw solid black;
+   margin-top: -127vw;
+   margin-left: 31vw;
+ }
+ .vopros3cl {
+   position: absolute;
+   width: 300vw;
+   height: 200vw;
+   background: #FFFFFF;
+   border: 0.3vw solid black;
+   margin-top: -127vw;
+   margin-left: 31vw;
+ }
+ .vopros4 {
+   position: absolute;
+   width: 300vw;
+   height: 200vw;
+   background: #B4CEFA;
+   border: 0.3vw solid black;
+   margin-top: 93vw;
+   margin-left: 31vw;
+ }
+ .vopros4cl {
+   position: absolute;
+   width: 300vw;
+   height: 200vw;
+   background: #FFFFFF;
+   border: 0.3vw solid black;
+   margin-top: 93vw;
+   margin-left: 31vw;
+ }
+ .vopros5 {
+   position: absolute;
+   width: 300vw;
+   height: 200vw;
+   background: #F2BED3;
+   border: 0.3vw solid black;
+   margin-top: 316vw;
+   margin-left: 31vw;
+ }
+ .vopros5cl {
+   position: absolute;
+   width: 300vw;
+   height: 200vw;
+   background: #FFFFFF;
+   border: 0.3vw solid black;
+   margin-top: 316vw;
+   margin-left: 31vw;
+ }
+ .vopros6 {
+   position: absolute;
+   width: 300vw;
+   height: 200vw;
+   background: #BFC5FD;
+   border: 0.3vw solid black;
+   margin-top: 541vw;
+   margin-left: 31vw;
+ }
+ .vopros6cl {
+   position: absolute;
+   width: 300vw;
+   height: 200vw;
+   background: #FFFFFF;
+   border: 0.3vw solid black;
+   margin-top: 541vw;
+   margin-left: 31vw;
+ }
+ .vopros7 {
+   position: absolute;
+   width: 300vw;
+   height: 200vw;
+   background: #B4CEFA;
+   border: 0.3vw solid black;
+   margin-top: 769vw;
+   margin-left: 31vw;
+ }
+ .vopros7cl {
+   position: absolute;
+   width: 300vw;
+   height: 200vw;
+   background: #FFFFFF;
+   border: 0.3vw solid black;
+   margin-top: 769vw;
+   margin-left: 31vw;
+ }
+ .vopros8 {
+   position: absolute;
+   width: 300vw;
+   height: 200vw;
+   background: #F2BED3;
+   border: 0.3vw solid black;
+   margin-top: 996vw;
+   margin-left: 31vw;
+ }
+ .vopros8cl {
+   position: absolute;
+   width: 300vw;
+   height: 200vw;
+   background: #FFFFFF;
+   border: 0.3vw solid black;
+   margin-top: 996vw;
+   margin-left: 31vw;
+ }
+ .ques1 {
+   position: absolute;
+   font-family: "TTInterfacesMedium";
+   font-style: normal;
+   font-weight: 500;
+   font-size: 15vw;
+   color: #000000;
+   margin-top: -475.5vw;
+   margin-left: 69.7vw;
+   white-space: nowrap;
+   text-align: center;
+ }
+ .ques1cl {
+   position: absolute;
+   font-family: "TTInterfacesMedium";
+   font-style: normal;
+   font-weight: 500;
+   font-size: 15vw;
+   color: #000000;
+   margin-top: -492.5vw;
+   margin-left: 63.7vw;
+   white-space: nowrap;
+   text-align: center;
+ }
+ .ques2 {
+   position: absolute;
+   font-family: "TTInterfacesMedium";
+   font-style: normal;
+   font-weight: 500;
+   font-size: 15vw;
+   color: #000000;
+   margin-top: -253.5vw;
+   margin-left: 106.7vw;
+   white-space: nowrap;
+   text-align: center;
+ }
+ .ques2cl {
+   position: absolute;
+   font-family: "TTInterfacesMedium";
+   font-style: normal;
+   font-weight: 500;
+   font-size: 15vw;
+   color: #000000;
+   margin-top: -264.5vw;
+   margin-left: 90.7vw;
+   white-space: nowrap;
+   text-align: center;
+ }
+ .ques3 {
+   position: absolute;
+   font-family: "TTInterfacesMedium";
+   font-style: normal;
+   font-weight: 500;
+   font-size: 15vw;
+   color: #000000;
+   margin-top: -34.5vw;
+   margin-left: 93.7vw;
+   white-space: nowrap;
+   text-align: center;
+ }
+ .ques3cl {
+   position: absolute;
+   font-family: "TTInterfacesMedium";
+   font-style: normal;
+   font-weight: 500;
+   font-size: 15vw;
+   color: #000000;
+   margin-top: -48.5vw;
+   margin-left: 74.7vw;
+   white-space: nowrap;
+   text-align: center;
+ }
+ .ques4 {
+   position: absolute;
+   font-family: "TTInterfacesMedium";
+   font-style: normal;
+   font-weight: 500;
+   font-size: 15vw;
+   color: #000000;
+   margin-top: 175.5vw;
+   margin-left: 108.7vw;
+   white-space: nowrap;
+   text-align: center;
+ }
+ .ques4cl {
+   position: absolute;
+   font-family: "TTInterfacesMedium";
+   font-style: normal;
+   font-weight: 500;
+   font-size: 15vw;
+   color: #000000;
+   margin-top: 170.5vw;
+   margin-left: 87.7vw;
+   white-space: nowrap;
+   text-align: center;
+ }
+ .ques5 {
+   position: absolute;
+   font-family: "TTInterfacesMedium";
+   font-style: normal;
+   font-weight: 500;
+   font-size: 15vw;
+   color: #000000;
+   margin-top: 398.5vw;
+   margin-left: 85.7vw;
+   white-space: nowrap;
+   text-align: center;
+ }
+ .ques5cl {
+   position: absolute;
+   font-family: "TTInterfacesMedium";
+   font-style: normal;
+   font-weight: 500;
+   font-size: 15vw;
+   color: #000000;
+   margin-top: 393.5vw;
+   margin-left: 87.7vw;
+   white-space: nowrap;
+   text-align: center;
+ }
+ .ques6 {
+   position: absolute;
+   font-family: "TTInterfacesMedium";
+   font-style: normal;
+   font-weight: 500;
+   font-size: 15vw;
+   color: #000000;
+   margin-top: 625.5vw;
+   margin-left: 64.7vw;
+   white-space: nowrap;
+   text-align: center;
+ }
+ .ques6cl {
+   position: absolute;
+   font-family: "TTInterfacesMedium";
+   font-style: normal;
+   font-weight: 500;
+   font-size: 15vw;
+   color: #000000;
+   margin-top: 617.5vw;
+   margin-left: 72.7vw;
+   white-space: nowrap;
+   text-align: center;
+ }
+ .ques7 {
+   position: absolute;
+   font-family: "TTInterfacesMedium";
+   font-style: normal;
+   font-weight: 500;
+   font-size: 15vw;
+   color: #000000;
+   margin-top: 851.5vw;
+   margin-left: 104.7vw;
+   white-space: nowrap;
+   text-align: center;
+ }
+ .ques7cl {
+   position: absolute;
+   font-family: "TTInterfacesMedium";
+   font-style: normal;
+   font-weight: 500;
+   font-size: 15vw;
+   color: #000000;
+   margin-top: 849.5vw;
+   margin-left: 93.7vw;
+   white-space: nowrap;
+   text-align: center;
+ }
+ .ques8 {
+   position: absolute;
+   font-family: "TTInterfacesMedium";
+   font-style: normal;
+   font-weight: 500;
+   font-size: 15vw;
+   color: #000000;
+   margin-top: 1086.5vw;
+   margin-left: 78.7vw;
+   white-space: nowrap;
+   text-align: center;
+ }
+ .ques8cl {
+   position: absolute;
+   font-family: "TTInterfacesMedium";
+   font-style: normal;
+   font-weight: 500;
+   font-size: 15vw;
+   color: #000000;
+   margin-top: 1078.5vw;
+   margin-left: 62.7vw;
+   white-space: nowrap;
+   text-align: center;
+ }
+ .answermob {
+   position: absolute;
+   font-family: "TTInterfacesMedium";
+   font-style: normal;
+   font-weight: 500;
+   font-size: 15vw;
+   color: #000000;
+   margin-top: 1313.5vw;
+   margin-left: 56.7vw;
+   white-space: nowrap;
+ }
+ .mailme2 {
+   position: absolute;
+   font-family: "TTInterfacesMedium";
+   font-style: normal;
+   font-weight: 500;
+   font-size: 15vw;
+   color: #000000;
+   margin-top: 1371.5vw;
+   margin-left: 57.6vw;
+   width: 248vw;
+   height: 24.5vw;
+ }
+ .form-input3 {
+   position: absolute;
+   font-family: "TTInterfacesMedium";
+   font-style: normal;
+   font-weight: 500;
+   font-size: 15vw;
+   color: #000000;
+   margin-top: 1407.5vw;
+   margin-left: 57.6vw;
+   width: 248vw;
+   height: 24.5vw;
+ }
+ .form-input4 {
+   position: absolute;
+   font-family: "TTInterfacesMedium";
+   font-style: normal;
+   font-weight: 500;
+   font-size: 15vw;
+   color: #000000;
+   margin-top: 1443.5vw;
+   margin-left: 57.6vw;
+   width: 248vw;
+   height: 24.5vw;
+ }
+ .drawsen {
+   position: absolute;
+   margin-top: 1487.5vw;
+   margin-left: 19.6vw;
+   width: 248vw;
+   height: 29.5vw;
+ }
+ .answer {
+   display: none;
+ }
+ .card {
+   position: absolute;
+ }
+ .cardcl {
+   position: absolute;
+ }
+ .card2 {
+   position: absolute;
+ }
+ .card2cl {
+   position: absolute;
+ }
+ .card3 {
+   position: absolute;
+ }
+ .card3cl {
+   position: absolute;
+ }
+ .card4 {
+   position: absolute;
+ }
+ .card4cl {
+   position: absolute;
+ }
+ .card5 {
+   position: absolute;
+ }
+ .card5cl {
+   position: absolute;
+ }
+ .card6 {
+   position: absolute;
+ }
+ .card6cl {
+   position: absolute;
+ }
+ .card7 {
+   position: absolute;
+ }
+ .card7cl {
+   position: absolute;
+ }
+ .card8 {
+   position: absolute;
+ }
+ .card8cl {
+   position: absolute;
+ }
+ .base2 {
+   position: absolute;
+   margin-left: 32vw;
+   margin-top: 1224vw;
+   width: 299vw;
+   height: 328vw;
+   border: 0.3vw solid black;
+ }
+ .formtext2 {
+   position: absolute;
+   font-family: "TTInterfacesMedium";
+   font-style: normal;
+   font-weight: 500;
+   font-size: 30vw;
+   color: #000000;
+   margin-top: 1245vw;
+   margin-left: 55vw;
+   white-space: nowrap;
+ }
+ .formbutsen {
+   position: absolute;
+   width: 175vw;
+   height: 37vw;
+   background-color: #000000;
+   margin-left: 56.6vw;
+   margin-top: 1486vw;
+ }
+ .formbutsencl {
+   position: absolute;
+   width: 175vw;
+   height: 37vw;
+   background-color: #B4CEFA;
+   border: 0.1vw solid black;
+   margin-left: 56.6vw;
+   margin-top: 1486vw;
+ }
+ .registersen {
+   position: absolute;
+   font-family: "TTInterfacesMedium";
+   font-style: normal;
+   font-weight: 500;
+   font-size: 16vw;
+   color: #FFFFFF;
+   margin-top: 1495vw;
+   margin-left: 96vw;
+ }
+ .registersencl {
+   position: absolute;
+   font-family: "TTInterfacesMedium";
+   font-style: normal;
+   font-weight: 500;
+   font-size: 16vw;
+   color: #000000;
+   margin-top: 1495vw;
+   margin-left: 95vw;
+ }
+ /* Стили для карточек товаров */
+ .podlogka {
+   position: absolute;
+   width: 243vw;
+   height: 352vw;
+   border: 0.3vw solid black;
+   background: #F2BED3;
+   margin-top: -712vw;
+   margin-left: 61vw;
+ }
+ .podlogka2 {
+   position: absolute;
+   width: 243vw;
+   height: 352vw;
+   border: 0.3vw solid black;
+   background: #B4CEFA;
+   margin-top: -712vw;
+   margin-left: 61vw;
+ }
+ .podlogka3 {
+   position: absolute;
+   width: 243vw;
+   height: 352vw;
+   border: 0.3vw solid black;
+   background: #BFC5FD;
+   margin-top: -712vw;
+   margin-left: 61vw;
+ }
+ .podlogka4 {
+   position: absolute;
+   width: 243vw;
+   height: 352vw;
+   border: 0.3vw solid black;
+   background: #BFC5FD;
+   margin-top: -712vw;
+   margin-left: 61vw;
+ }
+ .booky {
+   position: absolute;
+   width: 341vw;
+   height: 291vw;
+   margin-left: 16vw;
+   margin-top: -681vw;
+ }
+ .signme {
+   position: absolute;
+   width: 217vw;
+   height: 249vw;
+   margin-left: 74vw;
+   margin-top: -711vw;
+ }
+ .baggy {
+   position: absolute;
+   width: 341vw;
+   height: 222vw;
+   margin-left: 9vw;
+   margin-top: -646vw;
+ }
+ .conv {
+   position: absolute;
+   width: 341vw;
+   height: 222vw;
+   margin-left: 9vw;
+   margin-top: -646vw;
+ }
+ .lightboxy {
+   position: absolute;
+   width: 341vw;
+   height: 222vw;
+   margin-left: 9vw;
+   margin-top: -646vw;
+ }
+ .batony {
+   position: absolute;
+   width: 254vw;
+   height: 291vw;
+   margin-left: 57vw;
+   margin-top: -681vw;
+ }
+ .puantimg2 {
+   position: absolute;
+   width: 280vw;
+   height: 222vw;
+   margin-left: 45vw;
+   margin-top: -644vw;
+ }
+ .bloknotimg2 {
+   position: absolute;
+   width: 280vw;
+   height: 222vw;
+   margin-left: 45vw;
+   margin-top: -644vw;
+ }
+ .bloknotmob {
+   position: absolute;
+   font-family: "TTInterfacesMedium";
+   font-style: normal;
+   font-weight: 500;
+   font-size: 30vw;
+   color: #000000;
+   margin-top: -342vw;
+   margin-left: 60vw;
+   white-space: nowrap;
+ }
+ .puantimob {
+   position: absolute;
+   font-family: "TTInterfacesMedium";
+   font-style: normal;
+   font-weight: 500;
+   font-size: 30vw;
+   color: #000000;
+   margin-top: -342vw;
+   margin-left: 60vw;
+   white-space: nowrap;
+ }
+ .bagmob {
+   position: absolute;
+   font-family: "TTInterfacesMedium";
+   font-style: normal;
+   font-weight: 500;
+   font-size: 30vw;
+   color: #000000;
+   margin-top: -342vw;
+   margin-left: 60vw;
+   white-space: nowrap;
+ }
+ .batmob {
+   position: absolute;
+   font-family: "TTInterfacesMedium";
+   font-style: normal;
+   font-weight: 500;
+   font-size: 30vw;
+   color: #000000;
+   margin-top: -342vw;
+   margin-left: 60vw;
+   white-space: nowrap;
+ }
+ .bookmob {
+   position: absolute;
+   font-family: "TTInterfacesMedium";
+   font-style: normal;
+   font-weight: 500;
+   font-size: 30vw;
+   color: #000000;
+   margin-top: -342vw;
+   margin-left: 60vw;
+   white-space: nowrap;
+ }
+ .badgemob {
+   position: absolute;
+   font-family: "TTInterfacesMedium";
+   font-style: normal;
+   font-weight: 500;
+   font-size: 30vw;
+   color: #000000;
+   margin-top: -342vw;
+   margin-left: 60vw;
+   white-space: nowrap;
+ }
+ .convmob {
+   position: absolute;
+   font-family: "TTInterfacesMedium";
+   font-style: normal;
+   font-weight: 500;
+   font-size: 30vw;
+   color: #000000;
+   margin-top: -342vw;
+   margin-left: 60vw;
+   white-space: nowrap;
+ }
+ .bottlemob {
+   position: absolute;
+   font-family: "TTInterfacesMedium";
+   font-style: normal;
+   font-weight: 500;
+   font-size: 30vw;
+   color: #000000;
+   margin-top: -342vw;
+   margin-left: 60vw;
+   white-space: nowrap;
+ }
+ .lightmob {
+   position: absolute;
+   font-family: "TTInterfacesMedium";
+   font-style: normal;
+   font-weight: 500;
+   font-size: 30vw;
+   color: #000000;
+   margin-top: -342vw;
+   margin-left: 60vw;
+   white-space: nowrap;
+ }
+ .outstrel {
+   position: absolute;
+   width: 43vw;
+   height: 38vw;
+   margin-top: -711vw;
+   margin-left: 9.2vw;
+ }
+ .backstrel {
+   position: absolute;
+   width: 21vw;
+   height: 30vw;
+   margin-top: -709vw;
+   margin-left: 18.6vw;
+ }
+ .return {
+   position: absolute;
+ }
+ .description {
+   position: absolute;
+   font-family: "TTInterfacesMedium";
+   font-style: normal;
+   font-weight: 500;
+   font-size: 16vw;
+   color: #000000;
+   margin-top: -302vw;
+   margin-left: 60vw;
+   white-space: nowrap;
+ }
+ .razmer {
+   position: absolute;
+   width: 60vw;
+   height: 40vw;
+   background: #FFFFFF;
+   border: 0.3vw solid black;
+   margin-top: -256vw;
+   margin-left: 60vw;
+ }
+ .razmercl {
+   position: absolute;
+   width: 60vw;
+   height: 40vw;
+   background: #B4CEFA;
+   border: 0.3vw solid black;
+   margin-top: -256vw;
+   margin-left: 60vw;
+ }
+ .razmer2 {
+   position: absolute;
+   width: 60vw;
+   height: 40vw;
+   background: #FFFFFF;
+   border: 0.3vw solid black;
+   margin-top: -255.5vw;
+   margin-left: 134vw;
+ }
+ .razmercl2 {
+   position: absolute;
+   width: 60vw;
+   height: 40vw;
+   background: #B4CEFA;
+   border: 0.3vw solid black;
+   margin-top: -255.5vw;
+   margin-left: 134vw;
+ }
+ .razmer3 {
+   position: absolute;
+   width: 60vw;
+   height: 40vw;
+   background: #FFFFFF;
+   border: 0.3vw solid black;
+   margin-top: -255.5vw;
+   margin-left: 209vw;
+ }
+ .razmercl3 {
+   position: absolute;
+   width: 60vw;
+   height: 40vw;
+   background: #B4CEFA;
+   border: 0.3vw solid black;
+   margin-top: -255.5vw;
+   margin-left: 209vw;
+ }
+ .naming {
+   position: absolute;
+   font-family: "TTInterfacesMedium";
+   font-style: normal;
+   font-weight: 500;
+   font-size: 20vw;
+   color: #000000;
+   margin-top: -246.7vw;
+   margin-left: 78vw;
+   white-space: nowrap;
+ }
+ .naming4 {
+   position: absolute;
+   font-family: "TTInterfacesMedium";
+   font-style: normal;
+   font-weight: 500;
+   font-size: 20vw;
+   color: #000000;
+   margin-top: -246.7vw;
+   margin-left: 72vw;
+   white-space: nowrap;
+ }
+ .naming7 {
+   position: absolute;
+   font-family: "TTInterfacesMedium";
+   font-style: normal;
+   font-weight: 500;
+   font-size: 20vw;
+   color: #000000;
+   margin-top: -246.7vw;
+   margin-left: 84vw;
+   white-space: nowrap;
+ }
+ .naming2 {
+   position: absolute;
+   font-family: "TTInterfacesMedium";
+   font-style: normal;
+   font-weight: 500;
+   font-size: 20vw;
+   color: #000000;
+   margin-top: -246.7vw;
+   margin-left: 152vw;
+   white-space: nowrap;
+ }
+ .naming5 {
+   position: absolute;
+   font-family: "TTInterfacesMedium";
+   font-style: normal;
+   font-weight: 500;
+   font-size: 20vw;
+   color: #000000;
+   margin-top: -246.7vw;
+   margin-left: 145vw;
+   white-space: nowrap;
+ }
+ .naming8 {
+   position: absolute;
+   font-family: "TTInterfacesMedium";
+   font-style: normal;
+   font-weight: 500;
+   font-size: 20vw;
+   color: #000000;
+   margin-top: -246.7vw;
+   margin-left: 156vw;
+   white-space: nowrap;
+ }
+ .naming3 {
+   position: absolute;
+   font-family: "TTInterfacesMedium";
+   font-style: normal;
+   font-weight: 500;
+   font-size: 20vw;
+   color: #000000;
+   margin-top: -246.7vw;
+   margin-left: 225vw;
+   white-space: nowrap;
+ }
+ .naming6 {
+   position: absolute;
+   font-family: "TTInterfacesMedium";
+   font-style: normal;
+   font-weight: 500;
+   font-size: 20vw;
+   color: #000000;
+   margin-top: -246.7vw;
+   margin-left: 220vw;
+   white-space: nowrap;
+ }
+ .naming9 {
+   position: absolute;
+   font-family: "TTInterfacesMedium";
+   font-style: normal;
+   font-weight: 500;
+   font-size: 20vw;
+   color: #000000;
+   margin-top: -246.7vw;
+   margin-left: 232vw;
+   white-space: nowrap;
+ }
+ .cena {
+   position: absolute;
+   font-family: "TTInterfacesLight";
+   font-style: normal;
+   font-weight: 500;
+   font-size: 20vw;
+   color: #000000;
+   margin-top: -203vw;
+   margin-left: 60vw;
+   white-space: nowrap;
+ }
+ .coprice10 {
+  position: absolute;
+   width: 22vw;
+   height: 40vw;
+   margin-left: 105vw;
+   margin-top: -212vw;
+ }
+ .cena2 {
+   position: absolute;
+   font-family: "TTInterfacesMedium";
+   font-style: normal;
+   font-weight: 500;
+   font-size: 20vw;
+   color: #000000;
+   margin-top: -203vw;
+   margin-left: 150vw;
+   white-space: nowrap;
+ }
+ .coprice11 {
+   position: absolute;
+   width: 22vw;
+   height: 40vw;
+   margin-left: 195vw;
+   margin-top: -213vw;
+ }
+ .cherk {
+   position: absolute;
+   width: 1vw;
+   height: 80vw;
+   background:#000000;
+   margin-top: -231vw;
+   margin-left: 91vw;
+   transform: rotate(-80deg);
+ }
+ .press20 {
+   position: absolute;
+   width: 141vw;
+   height: 40vw;
+   background: #000000;
+   border: 0.3vw solid black;
+   margin-top: -169vw;
+   margin-left: 61vw;
+ }
+ .pressim {
+   position: absolute;
+   width: 145vw;
+   height: 35vw;
+   margin-top: -165vw;
+   margin-left: 59vw;
+ }
+ .kupitka {
+   position: absolute;
+   font-family: "TTInterfacesMedium";
+   font-style: normal;
+   font-weight: 500;
+   font-size: 16vw;
+   color: #FFFFFF;
+   margin-top: -158vw;
+   margin-left: 102vw;
+   white-space: nowrap;
+ }
+ .okno {
+   position: absolute;
+ }
+ .pod {
+   position: absolute;
+   width: 300vw;
+   height: 322vw;
+   background: #FFFFFF;
+   border: 0.3vw solid black;
+   margin-top: -636.5vw;
+   margin-left: 32vw;
+ }
+ .obrabot {
+   position: absolute;
+   width: 264vw;
+   height: 351vw;
+   margin-top: -656vw;
+   margin-left: 50vw;
+ }
+ .accepted {
+   position: absolute;
+   font-family: "TTInterfacesMedium";
+   font-style: normal;
+   font-weight: 500;
+   font-size: 20vw;
+   color: #000000;
+   margin-top: -499vw;
+   margin-left: 81vw;
+   white-space: nowrap;
+   text-align: center;
+ }
+ .cross5 {
+   position: absolute;
+   margin-left: 275vw;
+   margin-top: -620vw;
+   width: 40vw;
+   height: 40vw;
+ }
+}

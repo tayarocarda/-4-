@@ -1,0 +1,27 @@
+@font-face {
+    font-family: "TTInterfacesMedium";
+    src: url("../fonts/TTInterfacesMedium/TTInterfacesMedium.eot");
+    src: url("../fonts/TTInterfacesMedium/TTInterfacesMedium.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/TTInterfacesMedium/TTInterfacesMedium.woff") format("woff"),
+    url("../fonts/TTInterfacesMedium/TTInterfacesMedium.ttf") format("truetype");
+    font-style: normal;
+    font-weight: 500;
+}
+@font-face {
+    font-family: "TTInterfacesLight";
+    src: url("../fonts/TTInterfacesLight/TTInterfacesLight.eot");
+    src: url("../fonts/TTInterfacesLight/TTInterfacesLight.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/TTInterfacesLight/TTInterfacesLight.woff") format("woff"),
+    url("../fonts/TTInterfacesLight/TTInterfacesLight.ttf") format("truetype");
+    font-style: normal;
+    font-weight: 300;
+}
+@font-face {
+    font-family: "TTInterfacesSemiBold";
+    src: url("../fonts/TTInterfacesSemiBold/TTInterfacesSemiBold.eot");
+    src: url("../fonts/TTInterfacesSemiBold/TTInterfacesSemiBold.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/TTInterfacesSemiBold/TTInterfacesSemiBold.woff") format("woff"),
+    url("../fonts/TTInterfacesSemiBold/TTInterfacesSemiBold.ttf") format("truetype");
+    font-style: normal;
+    font-weight: 600;
+}

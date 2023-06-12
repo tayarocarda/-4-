@@ -1,0 +1,7855 @@
+@media all and (min-width: 501px) {
+  body img, body p, body div{
+  position: absolute;
+}
+.none {
+  display: none;
+}
+/* Элементы мобильной версии */
+.burger {
+  display: none;
+}
+.aboutspace {
+  display: none;
+}
+.aboutus {
+  display: none;
+}
+.eventafisha {
+  display: none;
+}
+.cafetext {
+  display: none;
+}
+.curve11afisha {
+  display: none;
+}
+.merch22 {
+  display: none;
+}
+.curve11merch {
+  display: none;
+}
+.performance {
+  display: none;
+}
+.showroomtext {
+  display: none;
+}
+.cafetext {
+  display: none;
+}
+.wayforvisitor {
+  display: none;
+}
+.pupils {
+  display: none;
+}
+.textikmob {
+  display: none;
+}
+.textik2mob {
+  display: none;
+}
+.textik3mob {
+  display: none;
+}
+.textik4mob {
+  display: none;
+}
+.textik5mob {
+  display: none;
+}
+.textik6mob {
+  display: none;
+}
+.textik7mob {
+  display: none;
+}
+.aboutresepshen {
+  display: none;
+}
+.aboutdance {
+  display: none;
+}
+/* Логотипы*/
+.logo {
+  width: 5.3vw;
+  height: 5.3vw;
+  margin-left: 0.5vw;
+  margin-top: 0.3vw;
+  animation: logogo 5s linear infinite;
+}
+ @keyframes logogo {
+ 0% {transform: rotate(0deg);}
+ 50% {transform: rotate(180deg);}
+ 100% {transform: rotate(360deg);}
+}
+.logo2 {
+  width: 9vw;
+  height: 9vw;
+  margin-left: 4vw;
+  margin-top: 800vw;
+}
+.logo22 {
+  width: 9vw;
+  height: 9vw;
+  margin-left: 4vw;
+  margin-top: 82vw;
+  animation: logogo 5s linear infinite;
+}
+/* Постеры */
+.poster {
+  width: 28vw;
+  height: 50vw;
+  margin-left: 4vw;
+  margin-top: 26.8vw;
+}
+.posterback {
+  width: 28vw;
+  height: 50vw;
+  margin-left: 4vw;
+  margin-top: 26.8vw;
+}
+.poster2 {
+  width: 28.2vw;
+  height: 51vw;
+  margin-left: 34.7vw;
+  margin-top: 26.3vw;
+}
+.posterback2 {
+  width: 28.2vw;
+  height: 51vw;
+  margin-left: 34.7vw;
+  margin-top: 26.3vw;
+}
+.poster3 {
+  width: 28.1vw;
+  height: 51vw;
+  margin-left: 65.6vw;
+  margin-top: 26.4vw;
+}
+.posterback3 {
+  width: 28.1vw;
+  height: 51vw;
+  margin-left: 65.6vw;
+  margin-top: 26.4vw;
+}
+.poster4 {
+  width: 28vw;
+  height: 50vw;
+  margin-left: 4vw;
+  margin-top: 71vw;
+}
+.posterback4 {
+  width: 28vw;
+  height: 50vw;
+  margin-left: 4vw;
+  margin-top: 71vw;
+}
+.poster5 {
+  width: 28.2vw;
+  height: 51vw;
+  margin-left: 34.7vw;
+  margin-top: 70.5vw;
+}
+.posterback5 {
+  width: 28vw;
+  height: 51vw;
+  margin-left: 34.7vw;
+  margin-top: 70.5vw;
+}
+.poster6 {
+  width: 28.1vw;
+  height: 51vw;
+  margin-left: 65.6vw;
+  margin-top: 70.5vw;
+}
+.posterback6 {
+  width: 28.1vw;
+  height: 51vw;
+  margin-left: 65.6vw;
+  margin-top: 70.5vw;
+}
+.poster7 {
+  width: 28vw;
+  height: 50vw;
+  margin-left: 4vw;
+  margin-top: 115.5vw;
+}
+.posterback7 {
+  width: 28vw;
+  height: 50vw;
+  margin-left: 4vw;
+  margin-top: 115.5vw;
+}
+.poster8 {
+  width: 28.2vw;
+  height: 51vw;
+  margin-left: 34.7vw;
+  margin-top: 115vw;
+}
+.poster9 {
+  width: 28.2vw;
+  height: 51vw;
+  margin-left: 65.6vw;
+  margin-top: 115vw;
+}
+.posterback9 {
+  width: 28.2vw;
+  height: 51vw;
+  margin-left: 65.6vw;
+  margin-top: 115vw;
+}
+/* Книга */
+.book {
+  width: 82vw;
+  height: 70vw;
+  margin-left: 8.7vw;
+  margin-top: 644vw;
+}
+.book2 {
+  width: 82vw;
+  height: 70vw;
+  margin-left: 8.7vw;
+  margin-top: 644vw;
+}
+.book3 {
+  width: 82vw;
+  height: 70vw;
+  margin-left: 8.7vw;
+  margin-top: 644vw;
+}
+.book4 {
+  width: 82vw;
+  height: 70vw;
+  margin-left: 8.7vw;
+  margin-top: 644vw;
+}
+.circle {
+  width: 2vw;
+  height: 5vw;
+  margin-left: 43vw;
+  margin-top: 711vw;
+  cursor: pointer;
+}
+.circlefilled {
+  width: 2vw;
+  height: 5vw;
+  margin-left: 43vw;
+  margin-top: 711vw;
+  cursor: pointer;
+}
+.circle2 {
+  width: 2vw;
+  height: 5vw;
+  margin-left: 47vw;
+  margin-top: 711vw;
+  cursor: pointer;
+}
+.circlefilled2 {
+  width: 2vw;
+  height: 5vw;
+  margin-left: 47vw;
+  margin-top: 711vw;
+  cursor: pointer;
+}
+.circle3 {
+  width: 2vw;
+  height: 5vw;
+  margin-left: 51vw;
+  margin-top: 711vw;
+  cursor: pointer;
+}
+.circlefilled3 {
+  width: 2vw;
+  height: 5vw;
+  margin-left: 51vw;
+  margin-top: 711vw;
+  cursor: pointer;
+}
+.circle4 {
+  width: 2vw;
+  height: 5vw;
+  margin-left: 55vw;
+  margin-top: 711vw;
+  cursor: pointer;
+}
+.circlefilled4 {
+  width: 2vw;
+  height: 5vw;
+  margin-left: 55vw;
+  margin-top: 711vw;
+  cursor: pointer;
+}
+.circle5 {
+  width: 2vw;
+  height: 5vw;
+  margin-left: 46vw;
+  margin-top: 787vw;
+  cursor: pointer;
+}
+.circle5f {
+  width: 2vw;
+  height: 5vw;
+  margin-left: 46vw;
+  margin-top: 787vw;
+  cursor: pointer;
+}
+.circle6 {
+  width: 2vw;
+  height: 5vw;
+  margin-left: 50vw;
+  margin-top: 787vw;
+  cursor: pointer;
+}
+.circle6f {
+  width: 2vw;
+  height: 5vw;
+  margin-left: 50vw;
+  margin-top: 787vw;
+  cursor: pointer;
+}
+.circle7 {
+  width: 2vw;
+  height: 5vw;
+  margin-left: 54vw;
+  margin-top: 787vw;
+  cursor: pointer;
+}
+.circle7f {
+  width: 2vw;
+  height: 5vw;
+  margin-left: 54vw;
+  margin-top: 787vw;
+  cursor: pointer;
+}
+/* Кнопки */
+.button {
+  width: 50vw;
+  height: 6vw;
+  border: 0.1vw solid black;
+  background-color: #FFFFFF;
+  margin-left: 25vw;
+  margin-top: 718vw;
+  cursor: pointer;
+}
+.buttonh {
+  width: 50vw;
+  height: 6vw;
+  border: 0.1vw solid black;
+  background-color: #B4CEFA;
+  margin-left: 25vw;
+  margin-top: 718vw;
+  cursor: pointer;
+}
+.buttonp {
+  width: 22vw;
+  height: 5vw;
+  background-color: #FFFFFF;
+  border: 0.1vw solid black;
+  margin-left: 7vw;
+  margin-top: 50vw;
+}
+.buttonp2 {
+  width: 22vw;
+  height: 5vw;
+  background-color: #FFFFFF;
+  border: 0.1vw solid black;
+  margin-left: 37.7vw;
+  margin-top: 50vw;
+}
+.buttonp3 {
+  width: 22vw;
+  height: 5vw;
+  background-color: #FFFFFF;
+  border: 0.1vw solid black;
+  margin-left: 68.7vw;
+  margin-top: 50vw;
+}
+.buttonp4 {
+  width: 22vw;
+  height: 5vw;
+  background-color: #FFFFFF;
+  border: 0.1vw solid black;
+  margin-left: 7vw;
+  margin-top: 93vw;
+}
+.buttonp5 {
+  width: 22vw;
+  height: 5vw;
+  background-color: #FFFFFF;
+  border: 0.1vw solid black;
+  margin-left: 37.7vw;
+  margin-top: 93vw;
+}
+.buttonp6 {
+  width: 22vw;
+  height: 5vw;
+  background-color: #FFFFFF;
+  border: 0.1vw solid black;
+  margin-left: 68.7vw;
+  margin-top: 93vw;
+}
+.buttonp7 {
+  width: 22vw;
+  height: 5vw;
+  background-color: #FFFFFF;
+  border: 0.1vw solid black;
+  margin-left: 7vw;
+  margin-top: 137vw;
+}
+.buttonp9 {
+  width: 22vw;
+  height: 5vw;
+  background-color: #FFFFFF;
+  border: 0.1vw solid black;
+  margin-left: 68.7vw;
+  margin-top: 137vw;
+}
+.formbut {
+  width: 30vw;
+  height: 6vw;
+  background-color: #000000;
+  margin-left: 26.3vw;
+  margin-top: 67vw;
+}
+.knopkaform {
+  cursor: pointer;
+}
+.knopkaform2 {
+  cursor: pointer;
+}
+.knopkaform3 {
+  cursor: pointer;
+}
+.knopkaform4 {
+  cursor: pointer;
+}
+.knopkaform5 {
+  cursor: pointer;
+}
+.knopkaform6 {
+  cursor: pointer;
+}
+.formbutsen {
+  width: 30vw;
+  height: 6vw;
+  background-color: #000000;
+  margin-left: 10.6vw;
+  margin-top: 218vw;
+}
+.formbutsencl {
+  width: 30vw;
+  height: 6vw;
+  background-color: #B4CEFA;
+  border: 0.1vw solid black;
+  margin-left: 10.6vw;
+  margin-top: 218vw;
+}
+.sendform {
+  z-index: 2;
+  cursor: pointer;
+}
+.register {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 1.5vw;
+  color: #000000;
+  margin-top: 51.8vw;
+  margin-left: 9.3vw;
+}
+.register2 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 1.5vw;
+  color: #000000;
+  margin-top: 51.8vw;
+  margin-left: 40.2vw;
+}
+.register3 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 1.5vw;
+  color: #000000;
+  margin-top: 51.8vw;
+  margin-left: 71.3vw;
+}
+.register5 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 1.5vw;
+  color: #000000;
+  margin-top: 94.85vw;
+  margin-left: 9.3vw;
+}
+.register7 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 1.5vw;
+  color: #000000;
+  margin-top: 94.85vw;
+  margin-left: 40.2vw;
+}
+.register8 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 1.5vw;
+  color: #000000;
+  margin-top: 94.85vw;
+  margin-left: 71.3vw;
+}
+/* Курсор*/
+.card {
+  cursor: pointer;
+}
+.cardcl {
+  cursor: pointer;
+}
+.card2 {
+  cursor: pointer;
+}
+.cardcl2 {
+  cursor: pointer;
+}
+.card3 {
+  cursor: pointer;
+}
+.cardcl3 {
+  cursor: pointer;
+}
+.card4 {
+  cursor: pointer;
+}
+.cardcl4 {
+  cursor: pointer;
+}
+.card5 {
+  cursor: pointer;
+}
+.cardcl5 {
+  cursor: pointer;
+}
+.card6 {
+  cursor: pointer;
+}
+.cardcl6 {
+  cursor: pointer;
+}
+.card7 {
+  cursor: pointer;
+}
+.cardcl7 {
+  cursor: pointer;
+}
+.card8 {
+  cursor: pointer;
+}
+.cardcl8 {
+  cursor: pointer;
+}
+.buy {
+  cursor: pointer;
+}
+.buy2 {
+  cursor: pointer;
+}
+.buy3 {
+  cursor: pointer;
+}
+.buy4 {
+  cursor: pointer;
+}
+.buy5 {
+  cursor: pointer;
+}
+.buy6 {
+  cursor: pointer;
+}
+.buy7 {
+  cursor: pointer;
+}
+.buy8 {
+  cursor: pointer;
+}
+.buy9 {
+  cursor: pointer;
+}
+.raz {
+  cursor: pointer;
+}
+.raz2 {
+  cursor: pointer;
+}
+.raz3 {
+  cursor: pointer;
+}
+.clickme {
+  display: none;
+}
+.clickme2 {
+  display: none;
+}
+.clickme3 {
+  display: none;
+}
+.clickme4 {
+  display: none;
+}
+.knopka {
+ cursor: pointer;
+}
+.knopka2 {
+ cursor: pointer;
+}
+.knopka3 {
+ cursor: pointer;
+}
+.knopka4 {
+ cursor: pointer;
+}
+.knopka5 {
+ cursor: pointer;
+}
+.knopka6 {
+ cursor: pointer;
+}
+.knopka7 {
+ cursor: pointer;
+}
+.knopka9 {
+ cursor: pointer;
+}
+.sendformcl {
+  z-index: 2;
+}
+.formbut2 {
+  width: 30vw;
+  height: 6vw;
+  background-color: #B4CEFA;
+  border: 0.1vw solid black;
+  margin-left: 26.3vw;
+  margin-top: 67vw;
+}
+/* Отзывы */
+.fon {
+  width: 84vw;
+  height: 32vw;
+  background-color: #B4CEFA;
+  border: 0.1vw solid black;
+  margin-left: 9vw;
+  margin-top: 752vw;
+}
+.fon2 {
+  width: 84vw;
+  height: 32vw;
+  background-color: #F2BED3;
+  border: 0.1vw solid black;
+  margin-left: 9vw;
+  margin-top: 752vw;
+}
+.fon3 {
+  width: 84vw;
+  height: 32vw;
+  background-color: #BFC5FD;
+  border: 0.1vw solid black;
+  margin-left: 9vw;
+  margin-top: 752vw;
+}
+.jack {
+  width: 20vw;
+  height: 20vw;
+  margin-left: 15vw;
+  margin-top: 758vw;
+}
+.adele {
+  width: 20vw;
+  height: 20vw;
+  margin-left: 15vw;
+  margin-top: 758vw;
+}
+.mary {
+  width: 20vw;
+  height: 20vw;
+  margin-left: 15vw;
+  margin-top: 758vw;
+}
+/* Стрелки */
+.around {
+  width: 47vw;
+  height: 5.3vw;
+  margin-left: 26.8vw;
+  margin-top: 718.3vw;
+}
+.arrow {
+  width: 11vw;
+  height: 11vw;
+  margin-left: 15vw;
+  margin-top: 142vw;
+}
+.arrow2 {
+  width: 11vw;
+  height: 11vw;
+  margin-left: 55vw;
+  margin-top: 214vw;
+}
+.arrow3 {
+  width: 11vw;
+  height: 11vw;
+  margin-left: 62vw;
+  margin-top: 304vw;
+}
+.arrow4 {
+  width: 11vw;
+  height: 11vw;
+  margin-left: 52vw;
+  margin-top: 402vw;
+}
+.arrow5 {
+  width: 11vw;
+  height: 11vw;
+  margin-left: 16vw;
+  margin-top: 488vw;
+}
+.arrow6 {
+  width: 11vw;
+  height: 11vw;
+  margin-left: 16vw;
+  margin-top: 569vw;
+}
+/* Анимированные картинки с главной страницы */
+.fountain {
+  width: 82vw;
+  height: 46vw;
+  margin-left: 11vw;
+  margin-top: 146vw;
+  animation: fountain 5s ease infinite;
+}
+@keyframes fountain {
+  0% {width: 72vw; height: 40vw;}
+  50% {width: 82vw; height: 46vw;}
+  100% {width: 72vw; height: 40vw;}
+}
+.resep {
+  width: 82vw;
+  height: 46vw;
+  margin-left: 7vw;
+  margin-top: 224vw;
+  animation: resep 5s ease infinite;
+}
+@keyframes resep {
+  0% {width: 72vw; height: 40vw;}
+  50% {width: 82vw; height: 46vw;}
+  100% {width: 72vw; height: 40vw;}
+}
+.showroom {
+  margin-left: 8.5vw;
+  margin-top: 495vw;
+  width: 82vw;
+  height: 44vw;
+  animation: showroom 5s ease infinite;
+}
+@keyframes showroom {
+ 0% {width: 72vw; height: 34vw;}
+ 50% {width: 82vw; height: 44vw;}
+ 100% {width: 72vw; height: 34vw;}
+}
+@keyframes danceim {
+ 0% {width: 35vw; height: 22vw;}
+ 50% {width: 40vw; height: 28vw;}
+ 100% {width: 35vw; height: 22vw;}
+}
+.zal {
+  margin-left: 51vw;
+  margin-top: 315vw;
+  width: 34vw;
+  height: 28vw;
+  animation: zal 5s ease infinite;
+}
+@keyframes zal {
+ 0% {width: 28vw; height: 22vw;}
+ 50% {width: 34vw; height: 28vw;}
+ 100% {width: 28vw; height: 22vw;}
+}
+.zal2 {
+  margin-left: 8vw;
+  margin-top: 347vw;
+  width: 36vw;
+  height: 28vw;
+  animation: zal2 5s ease infinite;
+}
+@keyframes zal2 {
+ 0% {width: 28vw; height: 22vw;}
+ 50% {width: 36vw; height: 28vw;}
+ 100% {width: 28vw; height: 22vw;}
+}
+.zal3 {
+  margin-left: 47vw;
+  margin-top: 341vw;
+  width: 42vw;
+  height: 34vw;
+  animation: zal3 5s ease infinite;
+}
+@keyframes zal3 {
+ 0% {width: 32vw; height: 26vw;}
+ 50% {width: 42vw; height: 34vw;}
+ 100% {width: 32vw; height: 26vw;}
+}
+.scene {
+  margin-left: 8.3vw;
+  margin-top: 408vw;
+  width: 72vw;
+  height: 49vw;
+  animation: scene 5s ease infinite;
+}
+@keyframes scene {
+ 0% {width: 62vw; height: 39vw;}
+ 50% {width: 72vw; height: 49vw;}
+ 100% {width: 62vw; height: 39vw;}
+}
+.cafe {
+  margin-left: 9vw;
+  margin-top: 576vw;
+  width: 81vw;
+  height: 49vw;
+  animation: cafe 5s ease infinite;
+}
+@keyframes cafe {
+ 0% {width: 75vw; height: 43vw;}
+ 50% {width: 81vw; height: 49vw;}
+ 100% {width: 75vw; height: 43vw;}
+}
+/* Копыта */
+.copito {
+  width: 9vw;
+  height: 10vw;
+  margin-left: 70vw;
+  margin-top: 85vw;
+  cursor: pointer;
+}
+.copitoh {
+  width: 9vw;
+  height: 10vw;
+  margin-left: 70vw;
+  margin-top: 85vw;
+  cursor: pointer;
+}
+.copito2 {
+  width: 7vw;
+  height: 8vw;
+  margin-left: 81.5vw;
+  margin-top: 85vw;
+  cursor: pointer;
+}
+.copitoh2 {
+  width: 7vw;
+  height: 8vw;
+  margin-left: 81.5vw;
+  margin-top: 85vw;
+  cursor: pointer;
+}
+.copito3 {
+  width: 5vw;
+  height: 6vw;
+  margin-left: 89vw;
+  margin-top: 81vw;
+  cursor: pointer;
+}
+.copitoh3 {
+  width: 5vw;
+  height: 6vw;
+  margin-left: 89vw;
+  margin-top: 81vw;
+  cursor: pointer;
+}
+.copito4 {
+  width: 16vw;
+  height: 20vw;
+  margin-left: 70vw;
+  margin-top: 126vw;
+  cursor: pointer;
+}
+.copitoh4 {
+  width: 16vw;
+  height: 20vw;
+  margin-left: 70vw;
+  margin-top: 126vw;
+  cursor: pointer;
+}
+.copito5 {
+  width: 10vw;
+  height: 16vw;
+  margin-left: 83vw;
+  margin-top: 120vw;
+  cursor: pointer;
+}
+.copitoh5 {
+  width: 7.5vw;
+  height: 16vw;
+  margin-left: 84vw;
+  margin-top: 120vw;
+  cursor: pointer;
+}
+.copito6 {
+  width: 7.5vw;
+  height: 13.5vw;
+  margin-left: 78vw;
+  margin-top: 112vw;
+  cursor: pointer;
+}
+.copitoh6 {
+  width: 7.5vw;
+  height: 13.5vw;
+  margin-left: 78vw;
+  margin-top: 112vw;
+  cursor: pointer;
+}
+.copito8 {
+  width: 7.5vw;
+  height: 13.5vw;
+  margin-left: 79vw;
+  margin-top: 200vw;
+  cursor: pointer;
+}
+.copitoh8 {
+  width: 7.5vw;
+  height: 13.5vw;
+  margin-left: 79vw;
+  margin-top: 200vw;
+  cursor: pointer;
+}
+.copito9 {
+  width: 7.5vw;
+  height: 13.5vw;
+  margin-left: 71vw;
+  margin-top: 208vw;
+  cursor: pointer;
+}
+.copitoh9 {
+  width: 7.5vw;
+  height: 13.5vw;
+  margin-left: 71vw;
+  margin-top: 208vw;
+  cursor: pointer;
+}
+.copito10 {
+  width: 12vw;
+  height: 15vw;
+  margin-left: 78vw;
+  margin-top: 218vw;
+  cursor: pointer;
+}
+.copitoh10 {
+  width: 12vw;
+  height: 15vw;
+  margin-left: 78vw;
+  margin-top: 218vw;
+}
+.copito18 {
+  width: 8vw;
+  height: 15vw;
+  margin-left: 78vw;
+  margin-top: 462vw;
+  cursor: pointer;
+}
+.copitoh18 {
+  width: 8vw;
+  height: 15vw;
+  margin-left: 78vw;
+  margin-top: 462vw;
+  cursor: pointer;
+}
+.copito19 {
+  width: 11vw;
+  height: 15vw;
+  margin-left: 69vw;
+  margin-top: 471vw;
+  cursor: pointer;
+}
+.copitoh19 {
+  width: 11vw;
+  height: 15vw;
+  margin-left: 69vw;
+  margin-top: 471vw;
+  cursor: pointer;
+}
+.copito20 {
+  width: 13vw;
+  height: 15vw;
+  margin-left: 80vw;
+  margin-top: 477vw;
+  cursor: pointer;
+}
+.copitoh20 {
+  width: 13vw;
+  height: 15vw;
+  margin-left: 80vw;
+  margin-top: 477vw;
+  cursor: pointer;
+}
+.copito22 {
+  width: 7vw;
+  height: 15vw;
+  margin-left: 83vw;
+  margin-top: 546vw;
+  cursor: pointer;
+}
+.copitoh22 {
+  width: 7vw;
+  height: 15vw;
+  margin-left: 83vw;
+  margin-top: 546vw;
+  cursor: pointer;
+}
+.copito23 {
+  width: 8vw;
+  height: 15vw;
+  margin-left: 73vw;
+  margin-top: 552vw;
+  cursor: pointer;
+}
+.copitoh23 {
+  width: 8vw;
+  height: 15vw;
+  margin-left: 73vw;
+  margin-top: 552vw;
+  cursor: pointer;
+}
+.copito24 {
+  width: 14vw;
+  height: 15vw;
+  margin-left: 76vw;
+  margin-top: 564vw;
+  cursor: pointer;
+}
+.copitoh24 {
+  width: 14vw;
+  height: 15vw;
+  margin-left: 76vw;
+  margin-top: 564vw;
+  cursor: pointer;
+}
+.copito11 {
+  width: 5.5vw;
+  height: 10.5vw;
+  margin-left: 82vw;
+  margin-top: 285vw;
+  cursor: pointer;
+}
+.copitoh11 {
+  width: 5.5vw;
+  height: 10.5vw;
+  margin-left: 82vw;
+  margin-top: 285vw;
+  cursor: pointer;
+}
+.copito12 {
+  width: 9vw;
+  height: 12vw;
+  margin-left: 76vw;
+  margin-top: 291vw;
+  cursor: pointer;
+}
+.copitoh12 {
+  width: 9vw;
+  height: 12vw;
+  margin-left: 76vw;
+  margin-top: 291vw;
+  cursor: pointer;
+}
+.copito13 {
+  width: 9vw;
+  height: 12vw;
+  margin-left: 87vw;
+  margin-top: 291vw;
+  cursor: pointer;
+}
+.copitoh13 {
+  width: 9vw;
+  height: 12vw;
+  margin-left: 87vw;
+  margin-top: 291vw;
+  cursor: pointer;
+}
+.copito14 {
+  width: 14vw;
+  height: 16vw;
+  margin-left: 79vw;
+  margin-top: 300vw;
+  cursor: pointer;
+}
+.copitoh14 {
+  width: 14vw;
+  height: 16vw;
+  margin-left: 79vw;
+  margin-top: 300vw;
+  cursor: pointer;
+}
+.copito15 {
+  width: 7vw;
+  height: 10vw;
+  margin-left: 84vw;
+  margin-top: 387vw;
+  cursor: pointer;
+}
+.copitoh15 {
+  width: 7vw;
+  height: 10vw;
+  margin-left: 84vw;
+  margin-top: 387vw;
+  cursor: pointer;
+}
+.copito16 {
+  width: 11vw;
+  height: 12vw;
+  margin-left: 72vw;
+  margin-top: 393vw;
+  cursor: pointer;
+}
+.copitoh16 {
+  width: 11vw;
+  height: 12vw;
+  margin-left: 72vw;
+  margin-top: 393vw;
+  cursor: pointer;
+}
+.copito17 {
+  width: 23vw;
+  height: 17vw;
+  margin-left: 76vw;
+  margin-top: 401vw;
+  cursor: pointer;
+}
+.copitoh17 {
+  width: 23vw;
+  height: 17vw;
+  margin-left: 76vw;
+  margin-top: 401vw;
+  cursor: pointer;
+}
+/* Бабблы со стартового экрана */
+.bubble {
+  margin-left: 0.3vw;
+  margin-top: 13vw;
+  width: 28vw;
+  height: 28vw;
+}
+.bubbleclick {
+  margin-left: 0.3vw;
+  margin-top: 13vw;
+  width: 28vw;
+  height: 28vw;
+}
+.bubble2 {
+  width: 45vw;
+  height: 28vw;
+  margin-left: 27vw;
+  margin-top: 13vw;
+}
+.bubbleclick2 {
+  width: 45vw;
+  height: 28vw;
+  margin-left: 27vw;
+  margin-top: 13vw;
+}
+.bubble3 {
+  width: 28vw;
+  height: 28vw;
+  margin-left: 71vw;
+  margin-top: 13vw;
+}
+.bubbleclick3 {
+  width: 28vw;
+  height: 28vw;
+  margin-left: 71vw;
+  margin-top: 13vw;
+}
+.bubble4 {
+  width: 28vw;
+  height: 28vw;
+  margin-left: 0.3vw;
+  margin-top: 41vw;
+}
+.bubbleclick4 {
+  width: 28vw;
+  height: 28vw;
+  margin-left: 0.3vw;
+  margin-top: 41vw;
+}
+.bubble5 {
+  width: 31vw;
+  height: 31vw;
+  margin-left: 25.5vw;
+  margin-top: 38vw;
+}
+.bubbleclick5 {
+  width: 31vw;
+  height: 31vw;
+  margin-left: 25.5vw;
+  margin-top: 38vw;
+}
+.bubble6 {
+  width: 23vw;
+  height: 39vw;
+  margin-left: 55.7vw;
+  margin-top: 30.3vw;
+}
+.bubbleclick6 {
+  width: 23vw;
+  height: 39vw;
+  margin-left: 55.7vw;
+  margin-top: 30.3vw;
+}
+.bubble7 {
+  width: 22vw;
+  height: 25vw;
+  margin-left: 76.7vw;
+  margin-top: 40.9vw;
+}
+.bubbleclick7 {
+  width: 22vw;
+  height: 25vw;
+  margin-left: 76.7vw;
+  margin-top: 40.9vw;
+}
+/* Разделители */
+.curve {
+  margin-top: 71vw;
+  width: 98.7vw;
+}
+.curve2 {
+  margin-top: 103vw;
+  width: 98.7vw;
+}
+.curve3 {
+  margin-top: 194vw;
+  width: 98.7vw;
+}
+.curve4 {
+  margin-top: 274vw;
+  width: 98.7vw;
+}
+.curve5 {
+  margin-top: 378vw;
+  width: 98.7vw;
+}
+.curve6 {
+  margin-top: 454vw;
+  width: 98.7vw;
+}
+.curve7 {
+  margin-top: 541vw;
+  width: 98.7vw;
+}
+.curve8 {
+  margin-top: 625vw;
+  width: 98.7vw;
+}
+.curve9 {
+  margin-top: 728vw;
+  width: 98.7vw;
+}
+.curve10 {
+  margin-top: 795vw;
+  width: 98.7vw;
+}
+.curve102 {
+  margin-top: 78vw;
+  width: 98.7vw;
+}
+.curve11 {
+  margin-top: 19vw;
+  width: 98.7vw;
+}
+.curve12 {
+  margin-top: 26vw;
+  width: 98.7vw;
+}
+/* Бегущие строки */
+.container {
+  width: 98vw;
+  height: 6vw;
+  margin-top: 6vw;
+  overflow: hidden;
+  box-sizing: border-box;
+}
+.container2 {
+  width: 98vw;
+  height: 6vw;
+  margin-top: 22.5vw;
+  overflow: hidden;
+  box-sizing: border-box;
+}
+.container3m {
+  width: 98vw;
+  height: 6vw;
+  margin-top: 22.5vw;
+  overflow: hidden;
+  box-sizing: border-box;
+}
+.container3 {
+  width: 98vw;
+  height: 6vw;
+  margin-top: 30.2vw;
+  overflow: hidden;
+  box-sizing: border-box;
+}
+.row {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 3.5vw;
+  margin-top: 1vw;
+  white-space: nowrap;
+  display: block;
+  width: 98vw;
+  height: 4vw;
+  box-sizing: border-box;
+  animation: row 5s linear infinite;
+}
+@keyframes row {
+  0% {right: -99vw;}
+  100% {right: 100%;}
+}
+/* Обводки */
+.line {
+  width: 7.7vw;
+  height: 7.7vw;
+  margin-left: 38.5vw;
+  margin-top: -0.8vw;
+}
+.outliner {
+  width: 20vw;
+  height: 5.5vw;
+  margin-left: 8vw;
+  margin-top: 49.6vw;
+}
+.outliner2 {
+  width: 20vw;
+  height: 5.5vw;
+  margin-left: 38.8vw;
+  margin-top: 49.6vw;
+}
+.outliner3 {
+  width: 20vw;
+  height: 5.5vw;
+  margin-left: 69.8vw;
+  margin-top: 49.7vw;
+}
+.outliner4 {
+  width: 20vw;
+  height: 5.5vw;
+  margin-left: 8vw;
+  margin-top: 92.7vw;
+}
+.outliner5 {
+  width: 20vw;
+  height: 5.5vw;
+  margin-left: 38.8vw;
+  margin-top: 92.7vw;
+}
+.outliner6 {
+  width: 20vw;
+  height: 5.5vw;
+  margin-left: 69.8vw;
+  margin-top: 92.7vw;
+}
+.outliner7 {
+  width: 20vw;
+  height: 5.5vw;
+  margin-left: 8vw;
+  margin-top: 136.7vw;
+}
+.outliner9 {
+  width: 20vw;
+  height: 5.5vw;
+  margin-left: 69.8vw;
+  margin-top: 136.7vw;
+}
+.draw {
+  width: 27vw;
+  height: 5.5vw;
+  margin-left: 28vw;
+  margin-top: 67vw;
+}
+.drawsen {
+  width: 27vw;
+  height: 5.5vw;
+  margin-left: 12vw;
+  margin-top: 218vw;
+}
+.draw2 {
+  width: 27vw;
+  height: 5.5vw;
+  margin-left: 28vw;
+  margin-top: 67vw;
+}
+/* Кнопки регистрации */
+.pressim {
+  width: 14vw;
+  height: 5.5vw;
+  margin-left: 57.7vw;
+  margin-top: 58.7vw;
+}
+.register4 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 2vw;
+  color: #FFFFFF;
+  margin-top: 69vw;
+  margin-left: 30vw;
+}
+.register6 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 2vw;
+  color: #000000;
+  margin-top: 69vw;
+  margin-left: 36vw;
+  white-space: nowrap;
+}
+.obrabotka {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 3.5vw;
+  color: #000000;
+  margin-top: 47vw;
+  margin-left: 33vw;
+  white-space: nowrap;
+  text-align: center;
+}
+.registersen {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 2.6vw;
+  color: #FFFFFF;
+  margin-top: 219.6vw;
+  margin-left: 18vw;
+}
+.registersencl {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 2.6vw;
+  color: #000000;
+  margin-top: 219.6vw;
+  margin-left: 17vw;
+}
+.register5 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 2vw;
+  color: #000000;
+  margin-top: 69vw;
+  margin-left: 36vw;
+  white-space: nowrap;
+}
+.register9 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 1.5vw;
+  color: #000000;
+  margin-top: 138.9vw;
+  margin-left: 9.2vw;
+  white-space: nowrap;
+}
+.register11 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 1.5vw;
+  color: #000000;
+  margin-top: 138.9vw;
+  margin-left: 71.3vw;
+}
+/* Формы  */
+.form-input {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 2vw;
+  color: #000000;
+  margin-top: 44vw;
+  margin-left: 26.2vw;
+  width: 46vw;
+  height: 3.5vw;
+}
+.form-input2 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 2vw;
+  color: #000000;
+  margin-top: 1.5vw;
+  margin-left: 26.2vw;
+  width: 46vw;
+  height: 3.5vw;
+}
+.form-input3 {
+  position: absolute;
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 2vw;
+  color: #000000;
+  margin-top: 170vw;
+  margin-left: 26.2vw;
+  width: 46vw;
+  height: 3.5vw;
+}
+.telephone {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 2vw;
+  color: #000000;
+  margin-top: 1.5vw;
+  margin-left: 26.2vw;
+  width: 46vw;
+  height: 3.5vw;
+}
+.mailme {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 2vw;
+  color: #000000;
+  margin-top: 1.5vw;
+  margin-left: 26.2vw;
+  width: 46vw;
+  height: 3.5vw;
+}
+.mailme2 {
+  position: absolute;
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 2vw;
+  color: #000000;
+  margin-top: 197.5vw;
+  margin-left: 10.6vw;
+  width: 77vw;
+  height: 3.5vw;
+  z-index: 2;
+}
+.form-input3 {
+  position: absolute;
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 2vw;
+  color: #000000;
+  margin-top: 204vw;
+  margin-left: 10.6vw;
+  width: 77vw;
+  height: 3.5vw;
+  z-index: 2;
+}
+.form-input4 {
+  position: absolute;
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 2vw;
+  color: #000000;
+  margin-top: 210.5vw;
+  margin-left: 10.6vw;
+  width: 77vw;
+  height: 3.5vw;
+  z-index: 2;
+}
+.bloknottext {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 1.7vw;
+  color: #000000;
+  margin-top: 65vw;
+  margin-left: 2vw;
+  white-space: nowrap;
+}
+.buttontext {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 2.5vw;
+  color: #FFFFFF;
+  margin-top: 719.8vw;
+  margin-left: 32vw;
+}
+.formtext {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 4.5vw;
+  color: #000000;
+  margin-top: 33vw;
+  margin-left: 26.2vw;
+  white-space: nowrap;
+}
+.formtext2 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #000000;
+  margin-top: 178.7vw;
+  margin-left: 10.2vw;
+  white-space: nowrap;
+}
+/* Вопросы в карточках */
+.ques1 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 2vw;
+  color: #000000;
+  margin-top: 53.5vw;
+  margin-left: 11.7vw;
+  white-space: nowrap;
+  text-align: center;
+}
+.ques1cl {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 2vw;
+  color: #000000;
+  margin-top: 50.8vw;
+  margin-left: 11vw;
+  white-space: nowrap;
+  text-align: center;
+}
+.ques2 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 2vw;
+  color: #000000;
+  margin-top: 54.5vw;
+  margin-left: 62.7vw;
+  white-space: nowrap;
+  text-align: center;
+}
+.ques2cl {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 2vw;
+  color: #000000;
+  margin-top: 52.8vw;
+  margin-left: 60.7vw;
+  white-space: nowrap;
+  text-align: center;
+}
+.ques3 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 2vw;
+  color: #000000;
+  margin-top: 87vw;
+  margin-left: 14.7vw;
+  white-space: nowrap;
+  text-align: center;
+}
+.ques3cl {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 2vw;
+  color: #000000;
+  margin-top: 85.5vw;
+  margin-left: 12.6vw;
+  white-space: nowrap;
+  text-align: center;
+}
+.ques4 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 2vw;
+  color: #000000;
+  margin-top: 86vw;
+  margin-left: 62.7vw;
+  white-space: nowrap;
+  text-align: center;
+}
+.ques4cl {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 2vw;
+  color: #000000;
+  margin-top: 85vw;
+  margin-left: 60.7vw;
+  white-space: nowrap;
+  text-align: center;
+}
+.ques5 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 2vw;
+  color: #000000;
+  margin-top: 119.5vw;
+  margin-left: 14vw;
+  white-space: nowrap;
+  text-align: center;
+}
+.ques5cl {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 2vw;
+  color: #000000;
+  margin-top: 119vw;
+  margin-left: 14vw;
+  white-space: nowrap;
+  text-align: center;
+}
+.ques6 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 2vw;
+  color: #000000;
+  margin-top: 119.5vw;
+  margin-left: 56.7vw;
+  white-space: nowrap;
+  text-align: center;
+}
+.ques6cl {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 2vw;
+  color: #000000;
+  margin-top: 119vw;
+  margin-left: 57.9vw;
+  white-space: nowrap;
+  text-align: center;
+}
+.ques7 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 2vw;
+  color: #000000;
+  margin-top: 153vw;
+  margin-left: 16vw;
+  white-space: nowrap;
+  text-align: center;
+}
+.ques7cl {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 2vw;
+  color: #000000;
+  margin-top: 153vw;
+  margin-left: 15.2vw;
+  white-space: nowrap;
+  text-align: center;
+}
+.ques8 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 2vw;
+  color: #000000;
+  margin-top: 154.5vw;
+  margin-left: 59vw;
+  white-space: nowrap;
+  text-align: center;
+}
+.ques8cl {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 2vw;
+  color: #000000;
+  margin-top: 153.7vw;
+  margin-left: 57.2vw;
+  white-space: nowrap;
+  text-align: center;
+}
+.vopros8cl {
+  width: 43vw;
+  height: 30vw;
+  background: #FFFFFF;
+  border: 0.1vw solid black;
+  margin-top: 140vw;
+  margin-left: 51vw;
+}
+.answer {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 2vw;
+  color: #000000;
+  margin-top: 192vw;
+  margin-left: 10.5vw;
+  white-space: nowrap;
+  text-align: center;
+}
+/* Заголовки в карточках товаров */
+.bloknottext {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 1.7vw;
+  color: #000000;
+  margin-top: 65vw;
+  margin-left: 2vw;
+  white-space: nowrap;
+}
+.puantitext {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 1.7vw;
+  color: #000000;
+  margin-top: 65vw;
+  margin-left: 34.8vw;
+  white-space: nowrap;
+}
+.batontext {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 1.7vw;
+  color: #000000;
+  margin-top: 111vw;
+  margin-left: 34.8vw;
+  white-space: nowrap;
+}
+.converttext {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 1.7vw;
+  color: #000000;
+  margin-top: 157.5vw;
+  margin-left: 34.8vw;
+  white-space: nowrap;
+}
+.bagtext {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 1.7vw;
+  color: #000000;
+  margin-top: 65vw;
+  margin-left: 67.8vw;
+  white-space: nowrap;
+}
+.waytext {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 1.7vw;
+  color: #000000;
+  margin-top: 111vw;
+  margin-left: 1.8vw;
+  white-space: nowrap;
+}
+.bottletext {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 1.7vw;
+  color: #000000;
+  margin-top: 157.5vw;
+  margin-left: 1.8vw;
+  white-space: nowrap;
+}
+.boxtext {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 1.7vw;
+  color: #000000;
+  margin-top: 111vw;
+  margin-left: 67.8vw;
+  white-space: nowrap;
+}
+.badgetext {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 1.7vw;
+  color: #000000;
+  margin-top: 157.5vw;
+  margin-left: 67.8vw;
+  white-space: nowrap;
+}
+.price {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 1.7vw;
+  color: #000000;
+  margin-top: 65.2vw;
+  margin-left: 24.8vw;
+  white-space: nowrap;
+}
+.price2 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 1.7vw;
+  color: #000000;
+  margin-top: 65.2vw;
+  margin-left: 58vw;
+  white-space: nowrap;
+}
+.price3 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 1.7vw;
+  color: #000000;
+  margin-top: 65.2vw;
+  margin-left: 90vw;
+  white-space: nowrap;
+}
+.price4 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 1.7vw;
+  color: #000000;
+  margin-top: 111vw;
+  margin-left: 24.8vw;
+  white-space: nowrap;
+}
+.price5 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 1.7vw;
+  color: #000000;
+  margin-top: 111vw;
+  margin-left: 58vw;
+  white-space: nowrap;
+}
+.price6 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 1.7vw;
+  color: #000000;
+  margin-top: 111vw;
+  margin-left: 90vw;
+  white-space: nowrap;
+}
+.price7 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 1.7vw;
+  color: #000000;
+  margin-top: 157.5vw;
+  margin-left: 24.8vw;
+  white-space: nowrap;
+}
+.price8 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 1.7vw;
+  color: #000000;
+  margin-top: 157.5vw;
+  margin-left: 58vw;
+  white-space: nowrap;
+}
+.price9 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 1.7vw;
+  color: #000000;
+  margin-top: 157.5vw;
+  margin-left: 90vw;
+  white-space: nowrap;
+}
+/* Копыта с ценами */
+.coprice {
+  width: 2.7vw;
+  height: 7.7vw;
+  margin-left: 28.7vw;
+  margin-top: 62.3vw;
+}
+.coprice2 {
+  width: 2.7vw;
+  height: 7.7vw;
+  margin-left: 62vw;
+  margin-top: 62.3vw;
+}
+.coprice3 {
+  width: 2.7vw;
+  height: 7.7vw;
+  margin-left: 94vw;
+  margin-top: 62.3vw;
+}
+.coprice4 {
+  width: 2.7vw;
+  height: 7.7vw;
+  margin-left: 28.7vw;
+  margin-top: 108vw;
+}
+.coprice5 {
+  width: 2.7vw;
+  height: 7.7vw;
+  margin-left: 62vw;
+  margin-top: 108vw;
+}
+.coprice6 {
+  width: 2.7vw;
+  height: 7.7vw;
+  margin-left: 94vw;
+  margin-top: 108vw;
+}
+.coprice7 {
+  width: 2.7vw;
+  height: 7.7vw;
+  margin-left: 28.7vw;
+  margin-top: 154.5vw;
+}
+.coprice8 {
+  width: 2.7vw;
+  height: 7.7vw;
+  margin-left: 62vw;
+  margin-top: 154.5vw;
+}
+.coprice9 {
+  width: 2.7vw;
+  height: 7.7vw;
+  margin-left: 94vw;
+  margin-top: 154.5vw;
+}
+.coprice10 {
+  width: 8vw;
+  height: 3vw;
+  margin-left: 58.3vw;
+  margin-top: 54.5vw;
+}
+.coprice11 {
+  width: 8vw;
+  height: 3vw;
+  margin-left: 68vw;
+  margin-top: 54.5vw;
+}
+.coprice2 {
+  width: 2.7vw;
+  height: 7.7vw;
+  margin-left: 62vw;
+  margin-top: 62.3vw;
+}
+/* Прямые разделители */
+.line2 {
+  width: 7.7vw;
+  height: 7.7vw;
+  margin-left: 48.7vw;
+  margin-top: -0.8vw;
+}
+.line3 {
+  width: 7.7vw;
+  height: 7.7vw;
+  margin-left: 59vw;
+  margin-top: -0.8vw;
+}
+.line4 {
+  width: 10.7vw;
+  height: 8.7vw;
+  margin-left: 87.2vw;
+  margin-top: -1.3vw;
+}
+.liner {
+  width: 0.05vw;
+  height: 200vw;
+  background:#000000;
+  top: -93.5vw;
+  transform: rotate(90deg);
+}
+/* Подложки */
+.cube {
+  width: 33.3vw;
+  height: 33.3vw;
+  background:#B4CEFA;
+  margin-top: 30vw;
+}
+.cube4 {
+  width: 33.3vw;
+  height: 33.3vw;
+  background:#BFC5FD;
+  margin-top: 76vw;
+}
+.cube7 {
+  width: 33.3vw;
+  height: 33.3vw;
+  background:#B4CEFA;
+  margin-top: 122.5vw;
+}
+.cube8 {
+  width: 33.3vw;
+  height: 33.3vw;
+  background:#F2BED3;
+  margin-left: 33.3vw;
+  margin-top: 122.5vw;
+}
+.cube9 {
+  width: 32.3vw;
+  height: 33.3vw;
+  background: #BFC5FD;
+  margin-left: 66.6vw;
+  margin-top: 122.5vw;
+}
+.cube2 {
+  width: 33.3vw;
+  height: 33.3vw;
+  background:#F2BED3;
+  margin-left: 33.3vw;
+  margin-top: 30vw;
+}
+.cube3 {
+  width: 32.3vw;
+  height: 33.3vw;
+  background: #BFC5FD;
+  margin-left: 66.6vw;
+  margin-top: 30vw;
+}
+.cube5 {
+  width: 33.3vw;
+  height: 33.3vw;
+  background:#B4CEFA;
+  margin-left: 33.3vw;
+  margin-top: 76vw;
+}
+.cube6 {
+  width: 32.3vw;
+  height: 33.3vw;
+  background:#F2BED3;
+  margin-left: 66.6vw;
+  margin-top: 76vw;
+}
+.podlogka {
+  width: 36vw;
+  height: 49vw;
+  background:#F2BED3;
+  margin-left: 15vw;
+  margin-top: 27vw;
+}
+.podlogka2 {
+  width: 36vw;
+  height: 49vw;
+  background:#B4CEFA;
+  margin-left: 15vw;
+  margin-top: 27vw;
+}
+.podlogka3 {
+  width: 36vw;
+  height: 49vw;
+  background:#BFC5FD;
+  margin-left: 15vw;
+  margin-top: 27vw;
+}
+.podlogka4 {
+  width: 36vw;
+  height: 49vw;
+  background:#BFC5FD;
+  margin-left: 15vw;
+  margin-top: 27vw;
+}
+.cherk {
+  width: 0.15vw;
+  height: 8.2vw;
+  background:#000000;
+  margin-top: 51.7vw;
+  margin-left: 60.2vw;
+  transform: rotate(-70deg);
+}
+/* Вопросы */
+.vopros {
+  width: 43vw;
+  height: 30vw;
+  background: #B4CEFA;
+  border: 0.1vw solid black;
+  margin-top: 40vw;
+  margin-left: 5vw;
+}
+.voproscl {
+  width: 43vw;
+  height: 30vw;
+  background: #FFFFFF;
+  border: 0.1vw solid black;
+  margin-top: 40vw;
+  margin-left: 5vw;
+}
+.vopros2 {
+  width: 43vw;
+  height: 30vw;
+  background: #F2BED3;
+  border: 0.1vw solid black;
+  margin-top: 40vw;
+  margin-left: 51vw;
+}
+.vopros2cl {
+  width: 43vw;
+  height: 30vw;
+  background: #FFFFFF;
+  border: 0.1vw solid black;
+  margin-top: 40vw;
+  margin-left: 51vw;
+}
+.vopros3 {
+  width: 43vw;
+  height: 30vw;
+  background: #BFC5FD;
+  border: 0.1vw solid black;
+  margin-top: 73vw;
+  margin-left: 5vw;
+}
+.vopros3cl {
+  width: 43vw;
+  height: 30vw;
+  background: #FFFFFF;
+  border: 0.1vw solid black;
+  margin-top: 73vw;
+  margin-left: 5vw;
+}
+.vopros4 {
+  width: 43vw;
+  height: 30vw;
+  background: #B4CEFA;
+  border: 0.1vw solid black;
+  margin-top: 73vw;
+  margin-left: 51vw;
+}
+.vopros4cl {
+  width: 43vw;
+  height: 30vw;
+  background: #FFFFFF;
+  border: 0.1vw solid black;
+  margin-top: 73vw;
+  margin-left: 51vw;
+}
+.vopros5 {
+  width: 43vw;
+  height: 30vw;
+  background: #B4CEFA;
+  border: 0.1vw solid black;
+  margin-top: 106.3vw;
+  margin-left: 5vw;
+}
+.vopros5cl {
+  width: 43vw;
+  height: 30vw;
+  background: #FFFFFF;
+  border: 0.1vw solid black;
+  margin-top: 106.3vw;
+  margin-left: 5vw;
+}
+.vopros6 {
+  width: 43vw;
+  height: 30vw;
+  background: #F2BED3;
+  border: 0.1vw solid black;
+  margin-top: 106.3vw;
+  margin-left: 51vw;
+}
+.vopros6cl {
+  width: 43vw;
+  height: 30vw;
+  background: #FFFFFF;
+  border: 0.1vw solid black;
+  margin-top: 106.3vw;
+  margin-left: 51vw;
+}
+.vopros7 {
+  width: 43vw;
+  height: 30vw;
+  background: #BFC5FD;
+  border: 0.1vw solid black;
+  margin-top: 140vw;
+  margin-left: 5vw;
+}
+.vopros7cl {
+  width: 43vw;
+  height: 30vw;
+  background: #FFFFFF;
+  border: 0.1vw solid black;
+  margin-top: 140vw;
+  margin-left: 5vw;
+}
+.vopros8 {
+  width: 43vw;
+  height: 30vw;
+  background: #B4CEFA;
+  border: 0.1vw solid black;
+  margin-top: 140vw;
+  margin-left: 51vw;
+}
+/* Элементы возврата */
+.strelka {
+  width: 3.5vw;
+  height: 5vw;
+  margin-top: 64vw;
+  margin-left: 7.2vw;
+}
+.outstrel {
+  width: 7.5vw;
+  height: 6vw;
+  margin-top: 27.5vw;
+  margin-left: 4.2vw;
+}
+.obrabot {
+  width: 43vw;
+  height: 21vw;
+  margin-top: -7.5vw;
+  margin-left: -3.8vw;
+}
+.backstrel {
+  width: 4vw;
+  height: 5vw;
+  margin-top: 27.8vw;
+  margin-left: 5.6vw;
+}
+.strelka2 {
+  width: 3.5vw;
+  height: 5vw;
+  margin-top: 64vw;
+  margin-left: 53vw;
+}
+.strelka3 {
+  width: 3.5vw;
+  height: 5vw;
+  margin-top: 97vw;
+  margin-left: 7.2vw;
+}
+.strelka4 {
+  width: 3.5vw;
+  height: 5vw;
+  margin-top: 97vw;
+  margin-left: 53vw;
+}
+.strelka5 {
+  width: 3.5vw;
+  height: 5vw;
+  margin-top: 130.3vw;
+  margin-left: 7.2vw;
+}
+.strelka6 {
+  width: 3.5vw;
+  height: 5vw;
+  margin-top: 130.3vw;
+  margin-left: 53vw;
+}
+.strelka7 {
+  width: 3.5vw;
+  height: 5vw;
+  margin-top: 164vw;
+  margin-left: 7.2vw;
+}
+.strelka8 {
+  width: 3.5vw;
+  height: 5vw;
+  margin-top: 164vw;
+  margin-left: 53vw;
+}
+/* Кнопки */
+.press {
+  width: 13vw;
+  height: 4.5vw;
+  background: #FFFFFF;
+  border: 0.1vw solid black;
+  margin-top: 68.5vw;
+  margin-left: 2vw;
+}
+.press2 {
+  width: 13vw;
+  height: 4.7vw;
+  background: #000000;
+  margin-top: 68.5vw;
+  margin-left: 17.7vw;
+}
+.press2cl {
+  width: 13vw;
+  height: 4.7vw;
+  background: #B4CEFA;
+  border: 0.1vw solid black;
+  margin-top: 68.5vw;
+  margin-left: 17.7vw;
+}
+.pod {
+  width: 50vw;
+  height: 30vw;
+  background: #FFFFFF;
+  border: 0.1vw solid black;
+  margin-top: 35.5vw;
+  margin-left: 25vw;
+}
+.press3 {
+  width: 13vw;
+  height: 4.7vw;
+  background: #000000;
+  margin-top: 68.5vw;
+  margin-left: 50.7vw;
+}
+.press3cl {
+  width: 13vw;
+  height: 4.7vw;
+  background: #F2BED3;
+  border: 0.1vw solid black;
+  margin-top: 68.5vw;
+  margin-left: 50.7vw;
+}
+.press4 {
+  width: 13vw;
+  height: 4.5vw;
+  background: #FFFFFF;
+  border: 0.1vw solid black;
+  margin-top: 68.5vw;
+  margin-left: 35vw;
+}
+.press5 {
+  width: 13vw;
+  height: 4.5vw;
+  background: #FFFFFF;
+  border: 0.1vw solid black;
+  margin-top: 68.5vw;
+  margin-left: 68vw;
+}
+.press6 {
+  width: 13vw;
+  height: 4.7vw;
+  background: #000000;
+  margin-top: 68.5vw;
+  margin-left: 83.7vw;
+}
+.press6cl {
+  width: 13vw;
+  height: 4.7vw;
+  border: 0.1vw solid black;
+  background: #BFC5FD;
+  margin-top: 68.5vw;
+  margin-left: 83.7vw;
+}
+.press7 {
+  width: 13vw;
+  height: 4.5vw;
+  background: #FFFFFF;
+  border: 0.1vw solid black;
+  margin-top: 114.5vw;
+  margin-left: 2vw;
+}
+.press8 {
+  width: 13vw;
+  height: 4.7vw;
+  background: #000000;
+  margin-top: 114.5vw;
+  margin-left: 17.7vw;
+}
+.press8cl {
+  width: 13vw;
+  height: 4.7vw;
+  background: #BFC5FD;
+  border: 0.1vw solid black;
+  margin-top: 114.5vw;
+  margin-left: 17.7vw;
+}
+.press9 {
+  width: 13vw;
+  height: 4.7vw;
+  background: #000000;
+  margin-top: 114.5vw;
+  margin-left: 50.7vw;
+}
+.press9cl {
+  width: 13vw;
+  height: 4.7vw;
+  background: #B4CEFA;
+  border: 0.1vw solid black;
+  margin-top: 114.5vw;
+  margin-left: 50.7vw;
+}
+.press10 {
+  width: 13vw;
+  height: 4.5vw;
+  background: #FFFFFF;
+  border: 0.1vw solid black;
+  margin-top: 114.5vw;
+  margin-left: 35vw;
+}
+.press11 {
+  width: 13vw;
+  height: 4.7vw;
+  background: #000000;
+  margin-top: 114.5vw;
+  margin-left: 83.7vw;
+}
+.press11cl {
+  width: 13vw;
+  height: 4.7vw;
+  background: #F2BED3;
+  border: 0.1vw solid black;
+  margin-top: 114.5vw;
+  margin-left: 83.7vw;
+}
+.press12 {
+  width: 13vw;
+  height: 4.7vw;
+  background: #FFFFFF;
+  border: 0.1vw solid black;
+  margin-top: 114.5vw;
+  margin-left: 68vw;
+}
+.press13 {
+  width: 13vw;
+  height: 4.5vw;
+  background: #FFFFFF;
+  border: 0.1vw solid black;
+  margin-top: 161vw;
+  margin-left: 2vw;
+}
+.press14 {
+  width: 13vw;
+  height: 4.7vw;
+  background: #000000;
+  margin-top: 161vw;
+  margin-left: 17.7vw;
+}
+.press14cl {
+  width: 13vw;
+  height: 4.7vw;
+  background: #B4CEFA;
+  border: 0.1vw solid black;
+  margin-top: 161vw;
+  margin-left: 17.7vw;
+}
+.press15 {
+  width: 13vw;
+  height: 4.5vw;
+  background: #FFFFFF;
+  border: 0.1vw solid black;
+  margin-top: 161vw;
+  margin-left: 35vw;
+}
+.press16 {
+  width: 13vw;
+  height: 4.5vw;
+  background: #000000;
+  margin-top: 161vw;
+  margin-left: 50.7vw;
+}
+.press16cl {
+  width: 13vw;
+  height: 4.5vw;
+  background: #F2BED3;
+  border: 0.1vw solid black;
+  margin-top: 161vw;
+  margin-left: 50.7vw;
+}
+.press17 {
+  width: 13vw;
+  height: 4.7vw;
+  background: #FFFFFF;
+  border: 0.1vw solid black;
+  margin-top: 161vw;
+  margin-left: 68vw;
+}
+.press18 {
+  width: 13vw;
+  height: 4.7vw;
+  background: #000000;
+  margin-top: 161vw;
+  margin-left: 83.7vw;
+}
+.press18cl {
+  width: 13vw;
+  height: 4.7vw;
+  background: #BFC5FD;
+  border: 0.1vw solid black;
+  margin-top: 161vw;
+  margin-left: 83.7vw;
+}
+.press20 {
+  width: 16vw;
+  height: 4.5vw;
+  background: #000000;
+  border: 0.1vw solid black;
+  margin-top: 59vw;
+  margin-left: 56.6vw;
+}
+.clicker {
+  cursor: pointer;
+}
+/* Размеры товаров */
+.razmer {
+  width: 6vw;
+  height: 4.5vw;
+  background: #FFFFFF;
+  border: 0.1vw solid black;
+  margin-top: 48.5vw;
+  margin-left: 56.5vw;
+}
+.razmercl {
+  width: 6vw;
+  height: 4.5vw;
+  background: #B4CEFA;
+  border: 0.1vw solid black;
+  margin-top: 48.5vw;
+  margin-left: 56.5vw;
+}
+.razmer2 {
+  width: 6vw;
+  height: 4.5vw;
+  background: #FFFFFF;
+  border: 0.1vw solid black;
+  margin-top: 48.5vw;
+  margin-left: 63.5vw;
+}
+.razmercl2 {
+  width: 6vw;
+  height: 4.5vw;
+  background: #B4CEFA;
+  border: 0.1vw solid black;
+  margin-top: 48.5vw;
+  margin-left: 63.5vw;
+}
+.razmer3 {
+  width: 6vw;
+  height: 4.5vw;
+  background: #FFFFFF;
+  border: 0.1vw solid black;
+  margin-top: 48.5vw;
+  margin-left: 70.5vw;
+}
+.razmercl3 {
+  width: 6vw;
+  height: 4.5vw;
+  background: #B4CEFA;
+  border: 0.1vw solid black;
+  margin-top: 48.5vw;
+  margin-left: 70.5vw;
+}
+.arcup {
+  width: 12.5vw;
+  height: 4.5vw;
+  margin-top: 68.5vw;
+  margin-left: 18vw;
+}
+.arcup2 {
+  width: 12.5vw;
+  height: 4.5vw;
+  margin-top: 68.5vw;
+  margin-left: 51vw;
+}
+.arcup3 {
+  width: 12.5vw;
+  height: 4.5vw;
+  margin-top: 68.5vw;
+  margin-left: 84vw;
+}
+.arcup4 {
+  width: 12.5vw;
+  height: 4.5vw;
+  margin-top: 114.5vw;
+  margin-left: 18vw;
+}
+.arcup5 {
+  width: 12.5vw;
+  height: 4.5vw;
+  margin-top: 114.5vw;
+  margin-left: 51vw;
+}
+.arcup6 {
+  width: 12.5vw;
+  height: 4.5vw;
+  margin-top: 114.5vw;
+  margin-left: 84vw;
+}
+.arcup7 {
+  width: 12.5vw;
+  height: 4.5vw;
+  margin-top: 161vw;
+  margin-left: 18vw;
+}
+.arcup8 {
+  width: 12.5vw;
+  height: 4.5vw;
+  margin-top: 161vw;
+  margin-left: 51vw;
+}
+.arcup9 {
+  width: 12.5vw;
+  height: 4.5vw;
+  margin-top: 161vw;
+  margin-left: 84vw;
+}
+/* Подвалы */
+/* Подвал */
+.school {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 1.7vw;
+  color: #000000;
+  margin-top: 803vw;
+  margin-left: 13.7vw;
+  white-space: nowrap;
+}
+.school2 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 1.7vw;
+  color: #000000;
+  margin-top: 85vw;
+  margin-left: 13.7vw;
+  white-space: nowrap;
+}
+.number {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 1.7vw;
+  color: #000000;
+  margin-top: 803vw;
+  margin-left: 60.7vw;
+  white-space: nowrap;
+}
+.number2 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 1.7vw;
+  color: #000000;
+  margin-top: 85vw;
+  margin-left: 60.7vw;
+  white-space: nowrap;
+}
+.mail {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 1.7vw;
+  color: #000000;
+  margin-top: 804.7vw;
+  margin-left: 60.7vw;
+  white-space: nowrap;
+}
+.mail2 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 1.7vw;
+  color: #000000;
+  margin-top: 86.7vw;
+  margin-left: 60.7vw;
+  white-space: nowrap;
+}
+.year {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 1.7vw;
+  color: #000000;
+  margin-top: 804.7vw;
+  margin-left: 90.7vw;
+  white-space: nowrap;
+}
+.year2 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 1.7vw;
+  color: #000000;
+  margin-top: 86.7vw;
+  margin-left: 90.7vw;
+  white-space: nowrap;
+}
+.footeraf {
+  margin-top: 86vw;
+}
+.footer3 {
+  margin-top: 92vw;
+}
+.footer4 {
+  margin-top: 156vw;
+}
+.footer5 {
+  margin-top: 3vw;
+}
+/* Элементы мобильной версии */
+.mobilequestions {
+  display: none;
+}
+.bloknotmob {
+  display: none;
+}
+.puantimob {
+  display: none;
+}
+.bagmob {
+  display: none;
+}
+.batmob {
+  display: none;
+}
+.bookmob {
+  display: none;
+}
+.lightmob {
+  display: none;
+}
+.bottlemob {
+  display: none;
+}
+.convmob {
+  display: none;
+}
+.badgemob {
+  display: none;
+}
+/* Заголовки карточек */
+.otovare {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 2vw;
+  color: #000000;
+  margin-top: 69.8vw;
+  margin-left: 3.8vw;
+  white-space: nowrap;
+}
+.otovare2 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 2vw;
+  color: #000000;
+  margin-top: 69.8vw;
+  margin-left: 36.8vw;
+  white-space: nowrap;
+}
+.otovare3 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 2vw;
+  color: #000000;
+  margin-top: 69.8vw;
+  margin-left: 69.9vw;
+  white-space: nowrap;
+}
+.otovare4 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 2vw;
+  color: #000000;
+  margin-top: 115.8vw;
+  margin-left: 3.8vw;
+  white-space: nowrap;
+}
+.otovare5 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 2vw;
+  color: #000000;
+  margin-top: 115.8vw;
+  margin-left: 36.8vw;
+  white-space: nowrap;
+}
+.otovare6 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 2vw;
+  color: #000000;
+  margin-top: 115.8vw;
+  margin-left: 69.9vw;
+  white-space: nowrap;
+}
+.otovare7 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 2vw;
+  color: #000000;
+  margin-top: 162.2vw;
+  margin-left: 3.8vw;
+  white-space: nowrap;
+}
+.otovare8 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 2vw;
+  color: #000000;
+  margin-top: 162.2vw;
+  margin-left: 36.8vw;
+  white-space: nowrap;
+}
+.otovare9 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 2vw;
+  color: #000000;
+  margin-top: 162.4vw;
+  margin-left: 69.9vw;
+  white-space: nowrap;
+}
+/* Кнопки купить */
+.kupit {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 2vw;
+  color: #FFFFFF;
+  margin-top: 69.8vw;
+  margin-left: 20.5vw;
+  white-space: nowrap;
+}
+.kupitcl {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 1.8vw;
+  color: #FFFFFF;
+  margin-top: 69.9vw;
+  margin-left: 20.2vw;
+  white-space: nowrap;
+}
+.kupitka {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 2vw;
+  color: #FFFFFF;
+  margin-top: 60.2vw;
+  margin-left: 60.8vw;
+  white-space: nowrap;
+}
+.kupit2 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 2vw;
+  color: #FFFFFF;
+  margin-top: 69.8vw;
+  margin-left: 53.6vw;
+  white-space: nowrap;
+}
+.kupit2cl {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 1.8vw;
+  color: #FFFFFF;
+  margin-top: 69.9vw;
+  margin-left: 53.1vw;
+  white-space: nowrap;
+}
+.kupit3 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 2vw;
+  color: #FFFFFF;
+  margin-top: 69.8vw;
+  margin-left: 86.5vw;
+  white-space: nowrap;
+}
+.kupit3cl {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 1.8vw;
+  color: #FFFFFF;
+  margin-top: 69.9vw;
+  margin-left: 86.1vw;
+  white-space: nowrap;
+}
+.kupit4 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 2vw;
+  color: #FFFFFF;
+  margin-top: 115.7vw;
+  margin-left: 20.5vw;
+  white-space: nowrap;
+}
+.kupit4cl {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 1.8vw;
+  color: #FFFFFF;
+  margin-top: 115.9vw;
+  margin-left: 20.3vw;
+  white-space: nowrap;
+}
+.kupit5 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 2vw;
+  color: #FFFFFF;
+  margin-top: 115.7vw;
+  margin-left: 53.6vw;
+  white-space: nowrap;
+}
+.kupit5cl {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 1.8vw;
+  color: #FFFFFF;
+  margin-top: 115.9vw;
+  margin-left: 53.2vw;
+  white-space: nowrap;
+}
+.kupit6 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 2vw;
+  color: #FFFFFF;
+  margin-top: 115.8vw;
+  margin-left: 86.5vw;
+  white-space: nowrap;
+}
+.kupit6cl {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 1.8vw;
+  color: #FFFFFF;
+  margin-top: 115.9vw;
+  margin-left: 86.1vw;
+  white-space: nowrap;
+}
+.kupit7 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 2vw;
+  color: #FFFFFF;
+  margin-top: 162.3vw;
+  margin-left: 20.5vw;
+  white-space: nowrap;
+}
+.kupit7cl {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 1.8vw;
+  color: #FFFFFF;
+  margin-top: 162.35vw;
+  margin-left: 20.1vw;
+  white-space: nowrap;
+}
+.kupit8 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 2vw;
+  color: #FFFFFF;
+  margin-top: 162.3vw;
+  margin-left: 53.6vw;
+  white-space: nowrap;
+}
+.kupit8cl {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 1.8vw;
+  color: #FFFFFF;
+  margin-top: 162.3vw;
+  margin-left: 53.1vw;
+  white-space: nowrap;
+}
+.kupit9 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 2vw;
+  color: #FFFFFF;
+  margin-top: 162.3vw;
+  margin-left: 86.5vw;
+  white-space: nowrap;
+}
+.kupit9cl {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 1.8vw;
+  color: #FFFFFF;
+  margin-top: 162.35vw;
+  margin-left: 86.2vw;
+  white-space: nowrap;
+}
+/* Картинки товаров */
+.notepad {
+  width: 33.3vw;
+  height: 33.3vw;
+  margin-left: 1vw;
+  margin-top: 30vw;
+}
+.waybook {
+  width: 31.3vw;
+  height: 31.3vw;
+  margin-left: 2.1vw;
+  margin-top: 76.6vw;
+}
+.bottle {
+  width: 31.3vw;
+  height: 31.3vw;
+  margin-left: 1.1vw;
+  margin-top: 123.6vw;
+}
+.puantimg {
+  width: 27.3vw;
+  height: 33.3vw;
+  margin-left: 36vw;
+  margin-top: 30vw;
+}
+.puantimg2 {
+  width: 29.3vw;
+  height: 33.3vw;
+  margin-left: 18.5vw;
+  margin-top: 34vw;
+}
+.bloknotimg2 {
+  width: 29.3vw;
+  height: 33.3vw;
+  margin-left: 18.5vw;
+  margin-top: 35vw;
+}
+.baggy {
+  width: 54.3vw;
+  height: 33.3vw;
+  margin-left: 5.8vw;
+  margin-top: 34vw;
+}
+.signme {
+  width: 32.3vw;
+  height: 37.3vw;
+  margin-left: 16.9vw;
+  margin-top: 27vw;
+}
+.lightboxy {
+  width: 54.3vw;
+  height: 27.3vw;
+  margin-left: 5.8vw;
+  margin-top: 37vw;
+}
+.booky {
+  width: 59.3vw;
+  height: 40.3vw;
+  margin-left: 4vw;
+  margin-top: 31vw;
+}
+.conv {
+  width: 58.3vw;
+  height: 31.3vw;
+  margin-left: 3.6vw;
+  margin-top: 35.2vw;
+}
+.batony {
+  width: 38.3vw;
+  height: 44.3vw;
+  margin-left: 14.6vw;
+  margin-top: 29.3vw;
+}
+.baton {
+  width: 30.3vw;
+  height: 33.3vw;
+  margin-left: 35vw;
+  margin-top: 76vw;
+}
+.convert {
+  width: 30.3vw;
+  height: 33.3vw;
+  margin-left: 35vw;
+  margin-top: 123.6vw;
+}
+.bag {
+  width: 36.3vw;
+  height: 33.3vw;
+  margin-left: 62.2vw;
+  margin-top: 30vw;
+}
+.lightbox {
+  width: 34.3vw;
+  height: 26.3vw;
+  margin-left: 65.7vw;
+  margin-top: 79.5vw;
+}
+.badge {
+  width: 34.3vw;
+  height: 26.3vw;
+  margin-left: 65.7vw;
+  margin-top: 122.5vw;
+}
+/* Описание товаров */
+.about {
+  font-family: "TTInterfacesSemiBold";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 1.8vw;
+  color: #000000;
+  margin-top: 2vw;
+  margin-left: 40vw;
+  white-space: nowrap;
+}
+.about2 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 1.8vw;
+  color: #000000;
+  margin-top: 2vw;
+  margin-left: 40vw;
+  white-space: nowrap;
+}
+.afisha {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 1.8vw;
+  color: #000000;
+  margin-top: 2vw;
+  margin-left: 50vw;
+}
+.afisha2 {
+  font-family: "TTInterfacesSemiBold";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 1.8vw;
+  color: #000000;
+  margin-top: 2vw;
+  margin-left: 50vw;
+}
+.merch {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 1.8vw;
+  color: #000000;
+  margin-top: 2vw;
+  margin-left: 61vw;
+}
+.merch2 {
+  font-family: "TTInterfacesSemiBold";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 1.8vw;
+  color: #000000;
+  margin-top: 2vw;
+  margin-left: 61vw;
+}
+.try {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 1.8vw;
+  color: #000000;
+  margin-top: 2vw;
+  margin-left: 70vw;
+  white-space: nowrap;
+}
+.questions {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 1.8vw;
+  color: #000000;
+  margin-top: 2vw;
+  margin-left: 89vw;
+}
+.questions2 {
+  font-family: "TTInterfacesSemiBold";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 1.8vw;
+  color: #000000;
+  margin-top: 2vw;
+  margin-left: 89vw;
+}
+.cena {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 2vw;
+  color: #000000;
+  margin-top: 54.8vw;
+  margin-left: 56.5vw;
+}
+.cena2 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 2vw;
+  color: #000000;
+  margin-top: 54.8vw;
+  margin-left: 66vw;
+}
+.description {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 1.8vw;
+  color: #000000;
+  margin-top: 42vw;
+  margin-left: 56.2vw;
+  white-space: nowrap;
+}
+.description2 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 1.8vw;
+  color: #000000;
+  margin-top: 49vw;
+  margin-left: 56vw;
+  white-space: nowrap;
+}
+.fears {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 2vw;
+  color: #000000;
+  margin-top: 24vw;
+  margin-left: 7.5vw;
+  text-align: center;
+}
+.way {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 2vw;
+  color: #000000;
+  margin-top: 24vw;
+  margin-left: 40.5vw;
+  text-align: center;
+}
+.inspire {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 2vw;
+  color: #000000;
+  margin-top: 24vw;
+  margin-left: 77.5vw;
+  text-align: center;
+}
+.dance {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 2vw;
+  color: #000000;
+  margin-top: 51vw;
+  margin-left: 5.2vw;
+  text-align: center;
+}
+.puanti {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 2vw;
+  color: #000000;
+  margin-top: 51.5vw;
+  margin-left: 32vw;
+  text-align: center;
+}
+.perform {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 2vw;
+  color: #000000;
+  margin-top: 47vw;
+  margin-left: 60vw;
+  text-align: center;
+}
+.confidence {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 2vw;
+  color: #000000;
+  margin-top: 49vw;
+  margin-left: 82vw;
+  text-align: center;
+}
+/* Описание комнат */
+.textik {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 1.7vw;
+  color: #000000;
+  margin-top: 87vw;
+  margin-left: 8vw;
+  white-space: nowrap;
+}
+.textik2 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 1.7vw;
+  color: #000000;
+  margin-top: 129vw;
+  margin-left: 8vw;
+  white-space: nowrap;
+}
+.textik3 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 1.7vw;
+  color: #000000;
+  margin-top: 211vw;
+  margin-left: 8vw;
+  white-space: nowrap;
+}
+.textik4 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 1.7vw;
+  color: #000000;
+  margin-top: 299vw;
+  margin-left: 8.7vw;
+  white-space: nowrap;
+}
+.textik5 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 1.7vw;
+  color: #000000;
+  margin-top: 393vw;
+  margin-left: 8.7vw;
+  white-space: nowrap;
+}
+.textik6 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 1.7vw;
+  color: #000000;
+  margin-top: 476vw;
+  margin-left: 8.7vw;
+  white-space: nowrap;
+}
+.textik7 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 1.7vw;
+  color: #000000;
+  margin-top: 557vw;
+  margin-left: 8.7vw;
+  white-space: nowrap;
+}
+.textik8 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 1.7vw;
+  color: #000000;
+  margin-top: 766vw;
+  margin-left: 38.7vw;
+  white-space: nowrap;
+}
+.textik8mob {
+  display: none;
+}
+.textik9 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 1.7vw;
+  color: #000000;
+  margin-top: 766vw;
+  margin-left: 38.7vw;
+  white-space: nowrap;
+}
+.textik10 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 1.7vw;
+  color: #000000;
+  margin-top: 766vw;
+  margin-left: 38.7vw;
+  white-space: nowrap;
+}
+.naming {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 2.2vw;
+  color: #000000;
+  margin-top: 49.7vw;
+  margin-left: 58.3vw;
+  white-space: nowrap;
+}
+.naming2 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 2.2vw;
+  color: #000000;
+  margin-top: 49.7vw;
+  margin-left: 65.3vw;
+  white-space: nowrap;
+}
+.naming3 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 2.2vw;
+  color: #000000;
+  margin-top: 49.7vw;
+  margin-left: 72.3vw;
+  white-space: nowrap;
+}
+.naming4 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 2.2vw;
+  color: #000000;
+  margin-top: 49.7vw;
+  margin-left: 57.8vw;
+  white-space: nowrap;
+}
+.naming5 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 2.2vw;
+  color: #000000;
+  margin-top: 49.7vw;
+  margin-left: 64.7vw;
+  white-space: nowrap;
+}
+.naming6 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 2.2vw;
+  color: #000000;
+  margin-top: 49.7vw;
+  margin-left: 71.6vw;
+  white-space: nowrap;
+}
+.naming7 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 2.2vw;
+  color: #000000;
+  margin-top: 49.7vw;
+  margin-left: 59vw;
+  white-space: nowrap;
+}
+.naming8 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 2.2vw;
+  color: #000000;
+  margin-top: 49.7vw;
+  margin-left: 65.7vw;
+  white-space: nowrap;
+}
+.naming9 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 2.2vw;
+  color: #000000;
+  margin-top: 49.7vw;
+  margin-left: 72.8vw;
+  white-space: nowrap;
+}
+/* Анимация букв */
+.firstletter {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #000000;
+  margin-top: 79vw;
+  margin-left: 8vw;
+}
+.firstletter:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #BFC5FD;
+  margin-top: 79vw;
+  margin-left: 8vw;
+  transform: rotate(20deg);
+}
+.secondletter {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #000000;
+  margin-top: 79vw;
+  margin-left: 15vw;
+}
+.secondletter:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #F2BED3;
+  margin-top: 79vw;
+  margin-left: 15vw;
+  transform: rotate(20deg);
+}
+.thirdletter {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #000000;
+  margin-top: 79vw;
+  margin-left: 19.4vw;
+}
+.thirdletter:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #B4CEFA;
+  margin-top: 79vw;
+  margin-left: 19.4vw;
+  transform: rotate(20deg);
+}
+.fourthletter {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #000000;
+  margin-top: 79vw;
+  margin-left: 23.2vw;
+}
+.fourthletter:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #BFC5FD;
+  margin-top: 79vw;
+  margin-left: 23.2vw;
+  transform: rotate(20deg);
+}
+.letter5 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #000000;
+  margin-top: 113vw;
+  margin-left: 8vw;
+}
+.letter5:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #BFC5FD;
+  margin-top: 113vw;
+  margin-left: 8vw;
+  transform: rotate(20deg);
+}
+.letter6 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #000000;
+  margin-top: 113vw;
+  margin-left: 15vw;
+}
+.letter6:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #F2BED3;
+  margin-top: 113vw;
+  margin-left: 15vw;
+  transform: rotate(20deg);
+}
+.letter7 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #000000;
+  margin-top: 113vw;
+  margin-left: 19.3vw;
+}
+.letter7:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #B4CEFA;
+  margin-top: 113vw;
+  margin-left: 20.5vw;
+  transform: rotate(20deg);
+}
+.letter8 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #000000;
+  margin-top: 113vw;
+  margin-left: 23.1vw;
+}
+.letter8:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #BFC5FD;
+  margin-top: 113vw;
+  margin-left: 23.1vw;
+  transform: rotate(20deg);
+}
+.letter9 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #000000;
+  margin-top: 113vw;
+  margin-left: 27.6vw;
+}
+.letter9:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #F2BED3;
+  margin-top: 113vw;
+  margin-left: 27.6vw;
+  transform: rotate(20deg);
+}
+.letter10 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #000000;
+  margin-top: 113vw;
+  margin-left: 32vw;
+}
+.letter10:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #BFC5FD;
+  margin-top: 113vw;
+  margin-left: 32vw;
+  transform: rotate(20deg);
+}
+.letter11 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #000000;
+  margin-top: 113vw;
+  margin-left: 35.9vw;
+}
+.letter11:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #B4CEFA;
+  margin-top: 113vw;
+  margin-left: 35.9vw;
+  transform: rotate(20deg);
+}
+.letter12 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #000000;
+  margin-top: 113vw;
+  margin-left: 39.6vw;
+}
+.letter12:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #F2BED3;
+  margin-top: 113vw;
+  margin-left: 39.6vw;
+  transform: rotate(20deg);
+}
+.letter13 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #000000;
+  margin-top: 113vw;
+  margin-left: 43.8vw;
+}
+.letter13:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #BFC5FD;
+  margin-top: 113vw;
+  margin-left: 43.8vw;
+  transform: rotate(20deg);
+}
+.letter14 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #000000;
+  margin-top: 113vw;
+  margin-left: 48.3vw;
+}
+.letter14:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #B4CEFA;
+  margin-top: 113vw;
+  margin-left: 48.3vw;
+  transform: rotate(20deg);
+}
+.letter15 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #000000;
+  margin-top: 113vw;
+  margin-left: 52.7vw;
+}
+.letter15:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #F2BED3;
+  margin-top: 113vw;
+  margin-left: 52.7vw;
+  transform: rotate(20deg);
+}
+.letter16 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #000000;
+  margin-top: 113vw;
+  margin-left: 56.6vw;
+}
+.letter16:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #BFC5FD;
+  margin-top: 113vw;
+  margin-left: 56.6vw;
+  transform: rotate(20deg);
+}
+.letter17 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #000000;
+  margin-top: 113vw;
+  margin-left: 61vw;
+}
+.letter17:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #B4CEFA;
+  margin-top: 113vw;
+  margin-left: 61vw;
+  transform: rotate(20deg);
+}
+.letter18 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #000000;
+  margin-top: 120vw;
+  margin-left: 8vw;
+}
+.letter18:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #F2BED3;
+  margin-top: 120vw;
+  margin-left: 8vw;
+  transform: rotate(20deg);
+}
+.letter19 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #000000;
+  margin-top: 120vw;
+  margin-left: 14vw;
+}
+.letter19:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #BFC5FD;
+  margin-top: 120vw;
+  margin-left: 14vw;
+  transform: rotate(20deg);
+}
+.letter20 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #000000;
+  margin-top: 120vw;
+  margin-left: 17.5vw;
+}
+.letter20:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #B4CEFA;
+  margin-top: 120vw;
+  margin-left: 17.5vw;
+  transform: rotate(20deg);
+}
+.letter21 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #000000;
+  margin-top: 120vw;
+  margin-left: 22vw;
+}
+.letter21:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #F2BED3;
+  margin-top: 120vw;
+  margin-left: 22vw;
+  transform: rotate(20deg);
+}
+.letter22 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #000000;
+  margin-top: 120vw;
+  margin-left: 26.3vw;
+}
+.letter22:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #BFC5FD;
+  margin-top: 120vw;
+  margin-left: 26.3vw;
+  transform: rotate(20deg);
+}
+.letter23 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #000000;
+  margin-top: 203vw;
+  margin-left: 8vw;
+}
+.letter23:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #BFC5FD;
+  margin-top: 203vw;
+  margin-left: 8vw;
+  transform: rotate(20deg);
+}
+.letter24 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #000000;
+  margin-top: 203vw;
+  margin-left: 11.7vw;
+}
+.letter24:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #F2BED3;
+  margin-top: 203vw;
+  margin-left: 11.7vw;
+  transform: rotate(20deg);
+}
+.letter25 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #000000;
+  margin-top: 203vw;
+  margin-left: 15.3vw;
+}
+.letter25:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #B4CEFA;
+  margin-top: 203vw;
+  margin-left: 15.3vw;
+  transform: rotate(20deg);
+}
+.letter26 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #000000;
+  margin-top: 203vw;
+  margin-left: 19.6vw;
+}
+.letter26:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #BFC5FD;
+  margin-top: 203vw;
+  margin-left: 19.6vw;
+  transform: rotate(20deg);
+}
+.letter27 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #000000;
+  margin-top: 203vw;
+  margin-left: 23.4vw;
+}
+.letter27:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #B4CEFA;
+  margin-top: 203vw;
+  margin-left: 24.5vw;
+  transform: rotate(20deg);
+}
+.letter28 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #000000;
+  margin-top: 203vw;
+  margin-left: 27.9vw;
+}
+.letter28:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #F2BED3;
+  margin-top: 203vw;
+  margin-left: 27.9vw;
+  transform: rotate(20deg);
+}
+.letter29 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #000000;
+  margin-top: 203vw;
+  margin-left: 33.9vw;
+}
+.letter29:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #BFC5FD;
+  margin-top: 203vw;
+  margin-left: 33.9vw;
+  transform: rotate(20deg);
+}
+.letter30 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #000000;
+  margin-top: 203vw;
+  margin-left: 37.6vw;
+}
+.letter30:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #B4CEFA;
+  margin-top: 203vw;
+  margin-left: 37.6vw;
+  transform: rotate(20deg);
+}
+.letter31 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #000000;
+  margin-top: 283vw;
+  margin-left: 8vw;
+}
+.letter31:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #B4CEFA;
+  margin-top: 283vw;
+  margin-left: 8vw;
+  transform: rotate(20deg);
+}
+.letter32 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #000000;
+  margin-top: 283vw;
+  margin-left: 11.5vw;
+}
+.letter32:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #BFC5FD;
+  margin-top: 283vw;
+  margin-left: 11.5vw;
+  transform: rotate(20deg);
+}
+.letter33 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #000000;
+  margin-top: 283vw;
+  margin-left: 15.5vw;
+}
+.letter33:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #F2BED3;
+  margin-top: 283vw;
+  margin-left: 15.5vw;
+  transform: rotate(20deg);
+}
+.letter34 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #000000;
+  margin-top: 283vw;
+  margin-left: 20vw;
+}
+.letter34:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #B4CEFA;
+  margin-top: 283vw;
+  margin-left: 20vw;
+  transform: rotate(20deg);
+}
+.letter35 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #000000;
+  margin-top: 283vw;
+  margin-left: 24.5vw;
+}
+.letter35:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #F2BED3;
+  margin-top: 283vw;
+  margin-left: 24.5vw;
+  transform: rotate(20deg);
+}
+.letter36 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #000000;
+  margin-top: 283vw;
+  margin-left: 28.5vw;
+}
+.letter36:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #B4CEFA;
+  margin-top: 283vw;
+  margin-left: 28.5vw;
+  transform: rotate(20deg);
+}
+.letter37 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #000000;
+  margin-top: 283vw;
+  margin-left: 32.7vw;
+}
+.letter37:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #BFC5FD;
+  margin-top: 283vw;
+  margin-left: 32.7vw;
+  transform: rotate(20deg);
+}
+.letter38 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #000000;
+  margin-top: 283vw;
+  margin-left: 37vw;
+}
+.letter38:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #F2BED3;
+  margin-top: 283vw;
+  margin-left: 37vw;
+  transform: rotate(20deg);
+}
+.letter39 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #000000;
+  margin-top: 283vw;
+  margin-left: 41.4vw;
+}
+.letter39:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #B4CEFA;
+  margin-top: 283vw;
+  margin-left: 41.4vw;
+  transform: rotate(20deg);
+}
+.letter40 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #000000;
+  margin-top: 283vw;
+  margin-left: 45.5vw;
+}
+.letter40:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #F2BED3;
+  margin-top: 283vw;
+  margin-left: 45.5vw;
+  transform: rotate(20deg);
+}
+.letter41 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #000000;
+  margin-top: 283vw;
+  margin-left: 50vw;
+}
+.letter41:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #BFC5FD;
+  margin-top: 283vw;
+  margin-left: 50vw;
+  transform: rotate(20deg);
+}
+.letter42 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #000000;
+  margin-top: 283vw;
+  margin-left: 55.3vw;
+}
+.letter42:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #F2BED3;
+  margin-top: 283vw;
+  margin-left: 55.3vw;
+  transform: rotate(20deg);
+}
+.letter43 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #000000;
+  margin-top: 290vw;
+  margin-left: 8.5vw;
+}
+.letter43:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #BFC5FD;
+  margin-top: 290vw;
+  margin-left: 8.5vw;
+  transform: rotate(20deg);
+}
+.letter44 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #000000;
+  margin-top: 290vw;
+  margin-left: 12.4vw;
+}
+.letter44:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #B4CEFA;
+  margin-top: 290vw;
+  margin-left: 12.4vw;
+  transform: rotate(20deg);
+}
+.letter45 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #000000;
+  margin-top: 290vw;
+  margin-left: 16.8vw;
+}
+.letter45:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #BFC5FD;
+  margin-top: 290vw;
+  margin-left: 16.8vw;
+  transform: rotate(20deg);
+}
+.letter46 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #000000;
+  margin-top: 290vw;
+  margin-left: 21.2vw;
+}
+.letter46:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #F2BED3;
+  margin-top: 290vw;
+  margin-left: 21.2vw;
+  transform: rotate(20deg);
+}
+.letter47 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #000000;
+  margin-top: 384vw;
+  margin-left: 8.5vw;
+}
+.letter47:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #F2BED3;
+  margin-top: 384vw;
+  margin-left: 8.5vw;
+  transform: rotate(20deg);
+}
+.letter48 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #000000;
+  margin-top: 384vw;
+  margin-left: 12.8vw;
+}
+.letter48:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #B4CEFA;
+  margin-top: 384vw;
+  margin-left: 12.8vw;
+  transform: rotate(20deg);
+}
+.letter49 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #000000;
+  margin-top: 384vw;
+  margin-left: 17.5vw;
+}
+.letter49:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #BFC5FD;
+  margin-top: 384vw;
+  margin-left: 17.5vw;
+  transform: rotate(20deg);
+}
+.letter50 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #000000;
+  margin-top: 384vw;
+  margin-left: 21.3vw;
+}
+.letter50:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #F2BED3;
+  margin-top: 384vw;
+  margin-left: 21.3vw;
+  transform: rotate(20deg);
+}
+.letter51 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #000000;
+  margin-top: 384vw;
+  margin-left: 26vw;
+}
+.letter51:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #B4CEFA;
+  margin-top: 384vw;
+  margin-left: 26vw;
+  transform: rotate(20deg);
+}
+.letter52 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #000000;
+  margin-top: 460vw;
+  margin-left: 8.5vw;
+}
+.letter52:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #B4CEFA;
+  margin-top: 460vw;
+  margin-left: 8.5vw;
+  transform: rotate(20deg);
+}
+.letter53 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #000000;
+  margin-top: 460vw;
+  margin-left: 12.5vw;
+}
+.letter53:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #BFC5FD;
+  margin-top: 460vw;
+  margin-left: 12.5vw;
+  transform: rotate(20deg);
+}
+.letter54 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #000000;
+  margin-top: 460vw;
+  margin-left: 17vw;
+}
+.letter54:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #F2BED3;
+  margin-top: 460vw;
+  margin-left: 17vw;
+  transform: rotate(20deg);
+}
+.letter55 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #000000;
+  margin-top: 460vw;
+  margin-left: 21.3vw;
+}
+.letter55:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #B4CEFA;
+  margin-top: 460vw;
+  margin-left: 21.3vw;
+  transform: rotate(20deg);
+}
+.letter56 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #000000;
+  margin-top: 460vw;
+  margin-left: 25.2vw;
+}
+.letter56:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #F2BED3;
+  margin-top: 460vw;
+  margin-left: 25.2vw;
+  transform: rotate(20deg);
+}
+.letter57 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #000000;
+  margin-top: 460vw;
+  margin-left: 29vw;
+}
+.letter57:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #BFC5FD;
+  margin-top: 460vw;
+  margin-left: 29vw;
+  transform: rotate(20deg);
+}
+.letter58 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #000000;
+  margin-top: 460vw;
+  margin-left: 33.5vw;
+}
+.letter58:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #B4CEFA;
+  margin-top: 460vw;
+  margin-left: 33.5vw;
+  transform: rotate(20deg);
+}
+.letter59 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #000000;
+  margin-top: 460vw;
+  margin-left: 38.6vw;
+}
+.letter59:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #F2BED3;
+  margin-top: 460vw;
+  margin-left: 38.6vw;
+  transform: rotate(20deg);
+}
+.letter60 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #000000;
+  margin-top: 467vw;
+  margin-left: 8.5vw;
+}
+.letter60:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #F2BED3;
+  margin-top: 467vw;
+  margin-left: 8.5vw;
+  transform: rotate(20deg);
+}
+.letter61 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #000000;
+  margin-top: 467vw;
+  margin-left: 14.5vw;
+}
+.letter61:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #B4CEFA;
+  margin-top: 467vw;
+  margin-left: 14.5vw;
+  transform: rotate(20deg);
+}
+.letter62 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #000000;
+  margin-top: 467vw;
+  margin-left: 19vw;
+}
+.letter62:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #BFC5FD;
+  margin-top: 467vw;
+  margin-left: 19vw;
+  transform: rotate(20deg);
+}
+.letter63 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #000000;
+  margin-top: 467vw;
+  margin-left: 22.5vw;
+}
+.letter63:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #B4CEFA;
+  margin-top: 467vw;
+  margin-left: 22.5vw;
+  transform: rotate(20deg);
+}
+.letter64 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #000000;
+  margin-top: 467vw;
+  margin-left: 26.5vw;
+}
+.letter64:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #F2BED3;
+  margin-top: 467vw;
+  margin-left: 26.5vw;
+  transform: rotate(20deg);
+}
+.letter65 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #000000;
+  margin-top: 467vw;
+  margin-left: 30vw;
+}
+.letter65:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #B4CEFA;
+  margin-top: 467vw;
+  margin-left: 30vw;
+  transform: rotate(20deg);
+}
+.letter66 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #000000;
+  margin-top: 548vw;
+  margin-left: 8.5vw;
+}
+.letter66:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #B4CEFA;
+  margin-top: 548vw;
+  margin-left: 8.5vw;
+  transform: rotate(20deg);
+}
+.letter67 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #000000;
+  margin-top: 548vw;
+  margin-left: 12.5vw;
+}
+.letter67:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #F2BED3;
+  margin-top: 548vw;
+  margin-left: 12.5vw;
+  transform: rotate(20deg);
+}
+.letter68 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #000000;
+  margin-top: 548vw;
+  margin-left: 16.5vw;
+}
+.letter68:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #B4CEFA;
+  margin-top: 548vw;
+  margin-left: 16.5vw;
+  transform: rotate(20deg);
+}
+.letter69 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #000000;
+  margin-top: 548vw;
+  margin-left: 21.5vw;
+}
+.letter69:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #BFC5FD;
+  margin-top: 548vw;
+  margin-left: 21.5vw;
+  transform: rotate(20deg);
+}
+.letter70 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #000000;
+  margin-top: 632vw;
+  margin-left: 8.5vw;
+}
+.letter70:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #BFC5FD;
+  margin-top: 632vw;
+  margin-left: 8.5vw;
+  transform: rotate(20deg);
+}
+.letter71 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #000000;
+  margin-top: 632vw;
+  margin-left: 13vw;
+}
+.letter71:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #F2BED3;
+  margin-top: 632vw;
+  margin-left: 13vw;
+  transform: rotate(20deg);
+}
+.letter72 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #000000;
+  margin-top: 632vw;
+  margin-left: 17vw;
+}
+.letter72:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #B4CEFA;
+  margin-top: 632vw;
+  margin-left: 17vw;
+  transform: rotate(20deg);
+}
+.letter73 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #000000;
+  margin-top: 632vw;
+  margin-left: 20.9vw;
+}
+.letter73:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #BFC5FD;
+  margin-top: 632vw;
+  margin-left: 20.9vw;
+  transform: rotate(20deg);
+}
+.letter74 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #000000;
+  margin-top: 632vw;
+  margin-left: 24.9vw;
+}
+.letter74:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #F2BED3;
+  margin-top: 632vw;
+  margin-left: 24.9vw;
+  transform: rotate(20deg);
+}
+.letter75 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #000000;
+  margin-top: 632vw;
+  margin-left: 29vw;
+}
+.letter75:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #B4CEFA;
+  margin-top: 632vw;
+  margin-left: 29vw;
+  transform: rotate(20deg);
+}
+.letter76 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #000000;
+  margin-top: 632vw;
+  margin-left: 33.6vw;
+}
+.letter76:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #BFC5FD;
+  margin-top: 632vw;
+  margin-left: 33.6vw;
+  transform: rotate(20deg);
+}
+.letter77 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #000000;
+  margin-top: 632vw;
+  margin-left: 38vw;
+}
+.letter77:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #F2BED3;
+  margin-top: 632vw;
+  margin-left: 38vw;
+  transform: rotate(20deg);
+}
+.letter78 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #000000;
+  margin-top: 632vw;
+  margin-left: 42.8vw;
+}
+.letter78:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #B4CEFA;
+  margin-top: 632vw;
+  margin-left: 42.8vw;
+  transform: rotate(20deg);
+}
+.letter79 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #000000;
+  margin-top: 632vw;
+  margin-left: 46.7vw;
+}
+.letter79:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #BFC5FD;
+  margin-top: 632vw;
+  margin-left: 46.7vw;
+  transform: rotate(20deg);
+}
+.letter80 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #000000;
+  margin-top: 632vw;
+  margin-left: 50.7vw;
+}
+.letter80:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #F2BED3;
+  margin-top: 632vw;
+  margin-left: 50.7vw;
+  transform: rotate(20deg);
+}
+.letter81 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #000000;
+  margin-top: 632vw;
+  margin-left: 55.2vw;
+}
+.letter81:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #B4CEFA;
+  margin-top: 632vw;
+  margin-left: 55.2vw;
+  transform: rotate(20deg);
+}
+.letter82 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #000000;
+  margin-top: 640vw;
+  margin-left: 8.5vw;
+}
+.letter82:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #B4CEFA;
+  margin-top: 640vw;
+  margin-left: 8.5vw;
+  transform: rotate(20deg);
+}
+.letter83 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #000000;
+  margin-top: 640vw;
+  margin-left: 13vw;
+}
+.letter83:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #BFC5FD;
+  margin-top: 640vw;
+  margin-left: 13vw;
+  transform: rotate(20deg);
+}
+.letter84 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #000000;
+  margin-top: 640vw;
+  margin-left: 20vw;
+}
+.letter84:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #F2BED3;
+  margin-top: 640vw;
+  margin-left: 20vw;
+  transform: rotate(20deg);
+}
+.letter85 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #000000;
+  margin-top: 640vw;
+  margin-left: 26vw;
+}
+.letter85:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #B4CEFA;
+  margin-top: 640vw;
+  margin-left: 26vw;
+  transform: rotate(20deg);
+}
+.letter86 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #000000;
+  margin-top: 640vw;
+  margin-left: 29.5vw;
+}
+.letter86:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #BFC5FD;
+  margin-top: 640vw;
+  margin-left: 29.5vw;
+  transform: rotate(20deg);
+}
+.letter87 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #000000;
+  margin-top: 640vw;
+  margin-left: 34vw;
+}
+.letter87:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #F2BED3;
+  margin-top: 640vw;
+  margin-left: 34vw;
+  transform: rotate(20deg);
+}
+.letter88 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #000000;
+  margin-top: 640vw;
+  margin-left: 38.4vw;
+}
+.letter88:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #B4CEFA;
+  margin-top: 640vw;
+  margin-left: 38.4vw;
+  transform: rotate(20deg);
+}
+.letter89 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #000000;
+  margin-top: 734vw;
+  margin-left: 8.5vw;
+}
+.letter89:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #B4CEFA;
+  margin-top: 734vw;
+  margin-left: 8.5vw;
+  transform: rotate(20deg);
+}
+.letter90 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #000000;
+  margin-top: 734vw;
+  margin-left: 13vw;
+}
+.letter90:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #F2BED3;
+  margin-top: 734vw;
+  margin-left: 13vw;
+  transform: rotate(20deg);
+}
+.letter91 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #000000;
+  margin-top: 734vw;
+  margin-left: 16.8vw;
+}
+.letter91:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #BFC5FD;
+  margin-top: 734vw;
+  margin-left: 16.8vw;
+  transform: rotate(20deg);
+}
+.letter92 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #000000;
+  margin-top: 734vw;
+  margin-left: 20.7vw;
+}
+.letter92:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #F2BED3;
+  margin-top: 734vw;
+  margin-left: 20.7vw;
+  transform: rotate(20deg);
+}
+.letter93 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #000000;
+  margin-top: 734vw;
+  margin-left: 26vw;
+}
+.letter93:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #B4CEFA;
+  margin-top: 734vw;
+  margin-left: 26vw;
+  transform: rotate(20deg);
+}
+.letter94 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #000000;
+  margin-top: 734vw;
+  margin-left: 30vw;
+}
+.letter94:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #F2BED3;
+  margin-top: 734vw;
+  margin-left: 30vw;
+  transform: rotate(20deg);
+}
+.letter95 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #000000;
+  margin-top: 741vw;
+  margin-left: 8.7vw;
+}
+.letter95:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #F2BED3;
+  margin-top: 741vw;
+  margin-left: 8.7vw;
+  transform: rotate(20deg);
+}
+.letter96 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #000000;
+  margin-top: 741vw;
+  margin-left: 12.7vw;
+}
+.letter96:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #B4CEFA;
+  margin-top: 741vw;
+  margin-left: 12.7vw;
+  transform: rotate(20deg);
+}
+.letter97 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #000000;
+  margin-top: 741vw;
+  margin-left: 17vw;
+}
+.letter97:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #BFC5FD;
+  margin-top: 741vw;
+  margin-left: 17vw;
+  transform: rotate(20deg);
+}
+.letter98 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #000000;
+  margin-top: 741vw;
+  margin-left: 21vw;
+}
+.letter98:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #B4CEFA;
+  margin-top: 741vw;
+  margin-left: 21vw;
+  transform: rotate(20deg);
+}
+.letter99 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #000000;
+  margin-top: 741vw;
+  margin-left: 25.5vw;
+}
+.letter99:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #F2BED3;
+  margin-top: 741vw;
+  margin-left: 25.5vw;
+  transform: rotate(20deg);
+}
+.letter100 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #000000;
+  margin-top: 741vw;
+  margin-left: 30vw;
+}
+.letter100:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #B4CEFA;
+  margin-top: 741vw;
+  margin-left: 30vw;
+  transform: rotate(20deg);
+}
+.letter101 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #000000;
+  margin-top: 741vw;
+  margin-left: 33.5vw;
+}
+.letter101:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #BFC5FD;
+  margin-top: 741vw;
+  margin-left: 33.5vw;
+  transform: rotate(20deg);
+}
+.letter102 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #000000;
+  margin-top: 741vw;
+  margin-left: 38vw;
+}
+.letter102:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #F2BED3;
+  margin-top: 741vw;
+  margin-left: 38vw;
+  transform: rotate(20deg);
+}
+.letter103 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #000000;
+  margin-top: 10vw;
+  margin-left: 4vw;
+}
+.letter103:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #F2BED3;
+  margin-top: 10vw;
+  margin-left: 4vw;
+  transform: rotate(20deg);
+}
+.letter104 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #000000;
+  margin-top: 10vw;
+  margin-left: 8vw;
+}
+.letter104:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #B4CEFA;
+  margin-top: 10vw;
+  margin-left: 8vw;
+  transform: rotate(20deg);
+}
+.letter105 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #000000;
+  margin-top: 10vw;
+  margin-left: 13vw;
+}
+.letter105:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #BFC5FD;
+  margin-top: 10vw;
+  margin-left: 13vw;
+  transform: rotate(20deg);
+}
+.letter106 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #000000;
+  margin-top: 10vw;
+  margin-left: 17.5vw;
+}
+.letter106:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #F2BED3;
+  margin-top: 10vw;
+  margin-left: 17.5vw;
+  transform: rotate(20deg);
+}
+.letter107 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #000000;
+  margin-top: 10vw;
+  margin-left: 23.5vw;
+}
+.letter107:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #B4CEFA;
+  margin-top: 10vw;
+  margin-left: 23.5vw;
+  transform: rotate(20deg);
+}
+.letter108 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #000000;
+  margin-top: 10vw;
+  margin-left: 30.5vw;
+}
+.letter108:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #BFC5FD;
+  margin-top: 10vw;
+  margin-left: 30.5vw;
+  transform: rotate(20deg);
+}
+.letter109 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #000000;
+  margin-top: 10vw;
+  margin-left: 36vw;
+}
+.letter109:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #F2BED3;
+  margin-top: 10vw;
+  margin-left: 36vw;
+  transform: rotate(20deg);
+}
+.letter110 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #000000;
+  margin-top: 10vw;
+  margin-left: 40vw;
+}
+.letter110:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #B4CEFA;
+  margin-top: 10vw;
+  margin-left: 40vw;
+  transform: rotate(20deg);
+}
+.letter111 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #000000;
+  margin-top: 10vw;
+  margin-left: 44vw;
+}
+.letter111:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #BFC5FD;
+  margin-top: 10vw;
+  margin-left: 44vw;
+  transform: rotate(20deg);
+}
+.letter112 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #000000;
+  margin-top: 10vw;
+  margin-left: 48.5vw;
+}
+.letter112:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #F2BED3;
+  margin-top: 10vw;
+  margin-left: 48.5vw;
+  transform: rotate(20deg);
+}
+.letter113 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #000000;
+  margin-top: 10vw;
+  margin-left: 53vw;
+}
+.letter113:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #B4CEFA;
+  margin-top: 10vw;
+  margin-left: 53vw;
+  transform: rotate(20deg);
+}
+.letter114 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #000000;
+  margin-top: 10vw;
+  margin-left: 57vw;
+}
+.letter114:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #BFC5FD;
+  margin-top: 10vw;
+  margin-left: 57vw;
+  transform: rotate(20deg);
+}
+.letter115 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #000000;
+  margin-top: 10vw;
+  margin-left: 61.5vw;
+}
+.letter115:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #F2BED3;
+  margin-top: 10vw;
+  margin-left: 61.5vw;
+  transform: rotate(20deg);
+}
+.letter116 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #000000;
+  margin-top: 10vw;
+  margin-left: 65.5vw;
+}
+.letter116:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #B4CEFA;
+  margin-top: 10vw;
+  margin-left: 65.5vw;
+  transform: rotate(20deg);
+}
+.letter116 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #000000;
+  margin-top: 10vw;
+  margin-left: 65.5vw;
+}
+.letter116:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #B4CEFA;
+  margin-top: 10vw;
+  margin-left: 65.5vw;
+  transform: rotate(20deg);
+}
+.letter117 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #000000;
+  margin-top: 10vw;
+  margin-left: 69.2vw;
+}
+.letter117:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #BFC5FD;
+  margin-top: 10vw;
+  margin-left: 69.5vw;
+  transform: rotate(20deg);
+}
+.letter118 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #000000;
+  margin-top: 10vw;
+  margin-left: 73.7vw;
+}
+.letter118:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #B4CEFA;
+  margin-top: 10vw;
+  margin-left: 74vw;
+  transform: rotate(20deg);
+}
+.letter119 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #000000;
+  margin-top: 10vw;
+  margin-left: 3.5vw;
+}
+.letter119:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #B4CEFA;
+  margin-top: 10vw;
+  margin-left: 3.5vw;
+  transform: rotate(20deg);
+}
+.letter120 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #000000;
+  margin-top: 10vw;
+  margin-left: 9vw;
+}
+.letter120:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #F2BED3;
+  margin-top: 10vw;
+  margin-left: 9vw;
+  transform: rotate(20deg);
+}
+.letter121 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #000000;
+  margin-top: 10vw;
+  margin-left: 13vw;
+}
+.letter121:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #BFC5FD;
+  margin-top: 10vw;
+  margin-left: 13vw;
+  transform: rotate(20deg);
+}
+.letter122 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #000000;
+  margin-top: 10vw;
+  margin-left: 17vw;
+}
+.letter122:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #B4CEFA;
+  margin-top: 10vw;
+  margin-left: 17vw;
+  transform: rotate(20deg);
+}
+.letter123 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #000000;
+  margin-top: 10vw;
+  margin-left: 3.5vw;
+}
+.letter123:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #B4CEFA;
+  margin-top: 10vw;
+  margin-left: 3.5vw;
+  transform: rotate(20deg);
+}
+.letter124 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #000000;
+  margin-top: 10vw;
+  margin-left: 8vw;
+}
+.letter124:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #F2BED3;
+  margin-top: 10vw;
+  margin-left: 8vw;
+  transform: rotate(20deg);
+}
+.letter125 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #000000;
+  margin-top: 10vw;
+  margin-left: 12vw;
+}
+.letter125:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #BFC5FD;
+  margin-top: 10vw;
+  margin-left: 12vw;
+  transform: rotate(20deg);
+}
+.letter126 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #000000;
+  margin-top: 10vw;
+  margin-left: 16.3vw;
+}
+.letter126:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #B4CEFA;
+  margin-top: 10vw;
+  margin-left: 16.3vw;
+  transform: rotate(20deg);
+}
+.letter127 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #000000;
+  margin-top: 10vw;
+  margin-left: 20vw;
+}
+.letter127:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #F2BED3;
+  margin-top: 10vw;
+  margin-left: 20vw;
+  transform: rotate(20deg);
+}
+.letter128 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #000000;
+  margin-top: 10vw;
+  margin-left: 27.3vw;
+}
+.letter128:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #BFC5FD;
+  margin-top: 10vw;
+  margin-left: 27.3vw;
+  transform: rotate(20deg);
+}
+.letter129 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #000000;
+  margin-top: 10vw;
+  margin-left: 31.3vw;
+}
+.letter129:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #B4CEFA;
+  margin-top: 10vw;
+  margin-left: 31.3vw;
+  transform: rotate(20deg);
+}
+.letter130 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #000000;
+  margin-top: 10vw;
+  margin-left: 35.8vw;
+}
+.letter130:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #F2BED3;
+  margin-top: 10vw;
+  margin-left: 35.8vw;
+  transform: rotate(20deg);
+}
+.letter131 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #000000;
+  margin-top: 10vw;
+  margin-left: 40.5vw;
+}
+.letter131:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #BFC5FD;
+  margin-top: 10vw;
+  margin-left: 40.5vw;
+  transform: rotate(20deg);
+}
+.letter132 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #000000;
+  margin-top: 10vw;
+  margin-left: 44.7vw;
+}
+.letter132:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #B4CEFA;
+  margin-top: 10vw;
+  margin-left: 44.7vw;
+  transform: rotate(20deg);
+}
+.letter133 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #000000;
+  margin-top: 10vw;
+  margin-left: 49vw;
+}
+.letter133:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #F2BED3;
+  margin-top: 10vw;
+  margin-left: 49vw;
+  transform: rotate(20deg);
+}
+.letter134 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #000000;
+  margin-top: 10vw;
+  margin-left: 53.2vw;
+}
+.letter134:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #BFC5FD;
+  margin-top: 10vw;
+  margin-left: 53.2vw;
+  transform: rotate(20deg);
+}
+.letter135 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #000000;
+  margin-top: 10vw;
+  margin-left: 57vw;
+}
+.letter135:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #B4CEFA;
+  margin-top: 10vw;
+  margin-left: 57vw;
+  transform: rotate(20deg);
+}
+.letter136 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #000000;
+  margin-top: 10vw;
+  margin-left: 62.4vw;
+}
+.letter136:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #F2BED3;
+  margin-top: 10vw;
+  margin-left: 62.4vw;
+  transform: rotate(20deg);
+}
+.letter137 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #000000;
+  margin-top: 10vw;
+  margin-left: 67.7vw;
+}
+.letter137:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #BFC5FD;
+  margin-top: 10vw;
+  margin-left: 67.7vw;
+  transform: rotate(20deg);
+}
+.letter138 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #000000;
+  margin-top: 17vw;
+  margin-left: 3.5vw;
+}
+.letter138:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #B4CEFA;
+  margin-top: 17vw;
+  margin-left: 3.5vw;
+  transform: rotate(20deg);
+}
+.letter139 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #000000;
+  margin-top: 17vw;
+  margin-left: 7.6vw;
+}
+.letter139:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #F2BED3;
+  margin-top: 17vw;
+  margin-left: 7.6vw;
+  transform: rotate(20deg);
+}
+.letter140 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #000000;
+  margin-top: 17vw;
+  margin-left: 12.2vw;
+}
+.letter140:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #BFC5FD;
+  margin-top: 17vw;
+  margin-left: 12.2vw;
+  transform: rotate(20deg);
+}
+.letter141 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #000000;
+  margin-top: 17vw;
+  margin-left: 16.6vw;
+}
+.letter141:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #B4CEFA;
+  margin-top: 17vw;
+  margin-left: 16.6vw;
+  transform: rotate(20deg);
+}
+.letter142 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #000000;
+  margin-top: 17vw;
+  margin-left: 20.5vw;
+}
+.letter142:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #F2BED3;
+  margin-top: 17vw;
+  margin-left: 20.5vw;
+  transform: rotate(20deg);
+}
+.letter143 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #000000;
+  margin-top: 17vw;
+  margin-left: 25.2vw;
+}
+.letter143:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #BFC5FD;
+  margin-top: 17vw;
+  margin-left: 25.2vw;
+  transform: rotate(20deg);
+}
+.letter144 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #000000;
+  margin-top: 17vw;
+  margin-left: 29.7vw;
+}
+.letter144:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #B4CEFA;
+  margin-top: 17vw;
+  margin-left: 29.7vw;
+  transform: rotate(20deg);
+}
+.letter145 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #000000;
+  margin-top: 10vw;
+  margin-left: 3.5vw;
+}
+.letter145:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #B4CEFA;
+  margin-top: 10vw;
+  margin-left: 3.5vw;
+  transform: rotate(20deg);
+}
+.letter146 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #000000;
+  margin-top: 10vw;
+  margin-left: 9.5vw;
+}
+.letter146:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #F2BED3;
+  margin-top: 10vw;
+  margin-left: 9.5vw;
+  transform: rotate(20deg);
+}
+.letter147 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #000000;
+  margin-top: 10vw;
+  margin-left: 13vw;
+}
+.letter147:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #BFC5FD;
+  margin-top: 10vw;
+  margin-left: 13vw;
+  transform: rotate(20deg);
+}
+.letter148 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #000000;
+  margin-top: 10vw;
+  margin-left: 17.5vw;
+}
+.letter148:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #B4CEFA;
+  margin-top: 10vw;
+  margin-left: 17.5vw;
+  transform: rotate(20deg);
+}
+.letter149 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #000000;
+  margin-top: 10vw;
+  margin-left: 21.5vw;
+}
+.letter149:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #F2BED3;
+  margin-top: 10vw;
+  margin-left: 21.5vw;
+  transform: rotate(20deg);
+}
+.letter150 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #000000;
+  margin-top: 10vw;
+  margin-left: 25.5vw;
+}
+.letter150:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #BFC5FD;
+  margin-top: 10vw;
+  margin-left: 25.5vw;
+  transform: rotate(20deg);
+}
+.letter151 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #000000;
+  margin-top: 10vw;
+  margin-left: 29.5vw;
+}
+.letter151:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 6vw;
+  color: #B4CEFA;
+  margin-top: 10vw;
+  margin-left: 29.5vw;
+  transform: rotate(20deg);
+}
+.letter152 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 5vw;
+  color: #000000;
+  margin-top: 35vw;
+  margin-left: 56vw;
+}
+.letter152:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 5vw;
+  color: #B4CEFA;
+  margin-top: 35vw;
+  margin-left: 56vw;
+  transform: rotate(20deg);
+}
+.letter153 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 5vw;
+  color: #000000;
+  margin-top: 35vw;
+  margin-left: 59.6vw;
+}
+.letter153:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 5vw;
+  color: #F2BED3;
+  margin-top: 35vw;
+  margin-left: 59.6vw;
+  transform: rotate(20deg);
+}
+.letter154 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 5vw;
+  color: #000000;
+  margin-top: 35vw;
+  margin-left: 62.2vw;
+}
+.letter154:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 5vw;
+  color: #BFC5FD;
+  margin-top: 35vw;
+  margin-left: 62.2vw;
+  transform: rotate(20deg);
+}
+.letter155 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 5vw;
+  color: #000000;
+  margin-top: 35vw;
+  margin-left: 65.5vw;
+}
+.letter155:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 5vw;
+  color: #F2BED3;
+  margin-top: 35vw;
+  margin-left: 65.5vw;
+  transform: rotate(20deg);
+}
+.letter156 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 5vw;
+  color: #000000;
+  margin-top: 35vw;
+  margin-left: 69vw;
+}
+.letter156:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 5vw;
+  color: #BFC5FD;
+  margin-top: 35vw;
+  margin-left: 69vw;
+  transform: rotate(20deg);
+}
+.letter157 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 5vw;
+  color: #000000;
+  margin-top: 35vw;
+  margin-left: 72vw;
+}
+.letter157:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 5vw;
+  color: #B4CEFA;
+  margin-top: 35vw;
+  margin-left: 72vw;
+  transform: rotate(20deg);
+}
+.letter158 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 5vw;
+  color: #000000;
+  margin-top: 35vw;
+  margin-left: 56vw;
+}
+.letter158:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 5vw;
+  color: #B4CEFA;
+  margin-top: 35vw;
+  margin-left: 56vw;
+  transform: rotate(20deg);
+}
+.letter159 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 5vw;
+  color: #000000;
+  margin-top: 35vw;
+  margin-left: 59.5vw;
+}
+.letter159:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 5vw;
+  color: #BFC5FD;
+  margin-top: 35vw;
+  margin-left: 59.5vw;
+  transform: rotate(20deg);
+}
+.letter160 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 5vw;
+  color: #000000;
+  margin-top: 35vw;
+  margin-left: 63vw;
+}
+.letter160:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 5vw;
+  color: #F2BED3;
+  margin-top: 35vw;
+  margin-left: 63vw;
+  transform: rotate(20deg);
+}
+.letter161 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 5vw;
+  color: #000000;
+  margin-top: 35vw;
+  margin-left: 67vw;
+}
+.letter161:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 5vw;
+  color: #B4CEFA;
+  margin-top: 35vw;
+  margin-left: 67vw;
+  transform: rotate(20deg);
+}
+.letter162 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 5vw;
+  color: #000000;
+  margin-top: 35vw;
+  margin-left: 70.5vw;
+}
+.letter162:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 5vw;
+  color: #F2BED3;
+  margin-top: 35vw;
+  margin-left: 70.5vw;
+  transform: rotate(20deg);
+}
+.letter163 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 5vw;
+  color: #000000;
+  margin-top: 35vw;
+  margin-left: 74.2vw;
+}
+.letter163:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 5vw;
+  color: #BFC5FD;
+  margin-top: 35vw;
+  margin-left: 74.2vw;
+  transform: rotate(20deg);
+}
+.letter164 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 5vw;
+  color: #000000;
+  margin-top: 35vw;
+  margin-left: 77.7vw;
+}
+.letter164:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 5vw;
+  color: #B4CEFA;
+  margin-top: 35vw;
+  margin-left: 77.7vw;
+  transform: rotate(20deg);
+}
+.letter165 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 5vw;
+  color: #000000;
+  margin-top: 42vw;
+  margin-left: 56vw;
+}
+.letter165:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 5vw;
+  color: #B4CEFA;
+  margin-top: 42vw;
+  margin-left: 56vw;
+  transform: rotate(20deg);
+}
+.letter166 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 5vw;
+  color: #000000;
+  margin-top: 42vw;
+  margin-left: 59.9vw;
+}
+.letter166:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 5vw;
+  color: #F2BED3;
+  margin-top: 42vw;
+  margin-left: 59.9vw;
+  transform: rotate(20deg);
+}
+.letter167 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 5vw;
+  color: #000000;
+  margin-top: 42vw;
+  margin-left: 63.5vw;
+}
+.letter167:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 5vw;
+  color: #BFC5FD;
+  margin-top: 42vw;
+  margin-left: 63.5vw;
+  transform: rotate(20deg);
+}
+.letter168 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 5vw;
+  color: #000000;
+  margin-top: 42vw;
+  margin-left: 68.5vw;
+}
+.letter168:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 5vw;
+  color: #B4CEFA;
+  margin-top: 42vw;
+  margin-left: 68.5vw;
+  transform: rotate(20deg);
+}
+.letter169 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 5vw;
+  color: #000000;
+  margin-top: 42vw;
+  margin-left: 72.2vw;
+}
+.letter169:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 5vw;
+  color: #BFC5FD;
+  margin-top: 42vw;
+  margin-left: 72.2vw;
+  transform: rotate(20deg);
+}
+.letter170 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 5vw;
+  color: #000000;
+  margin-top: 42vw;
+  margin-left: 75.7vw;
+}
+.letter170:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 5vw;
+  color: #B4CEFA;
+  margin-top: 42vw;
+  margin-left: 75.7vw;
+  transform: rotate(20deg);
+}
+.letter171 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 5vw;
+  color: #000000;
+  margin-top: 42vw;
+  margin-left: 78.6vw;
+}
+.letter171:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 5vw;
+  color: #F2BED3;
+  margin-top: 42vw;
+  margin-left: 78.6vw;
+  transform: rotate(20deg);
+}
+.letter172 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 5vw;
+  color: #000000;
+  margin-top: 42vw;
+  margin-left: 81.9vw;
+}
+.letter172:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 5vw;
+  color: #F2BED3;
+  margin-top: 42vw;
+  margin-left: 81.9vw;
+  transform: rotate(20deg);
+}
+.letter173 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 5vw;
+  color: #000000;
+  margin-top: 42vw;
+  margin-left: 85.7vw;
+}
+.letter173:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 5vw;
+  color: #BFC5FD;
+  margin-top: 42vw;
+  margin-left: 85.7vw;
+  transform: rotate(20deg);
+}
+.letter174 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 5vw;
+  color: #000000;
+  margin-top: 42vw;
+  margin-left: 89.5vw;
+}
+.letter174:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 5vw;
+  color: #B4CEFA;
+  margin-top: 42vw;
+  margin-left: 89.5vw;
+  transform: rotate(20deg);
+}
+.letter175 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 5vw;
+  color: #000000;
+  margin-top: 35vw;
+  margin-left: 56vw;
+}
+.letter175:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 5vw;
+  color: #B4CEFA;
+  margin-top: 35vw;
+  margin-left: 56vw;
+  transform: rotate(20deg);
+}
+.letter176 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 5vw;
+  color: #000000;
+  margin-top: 35vw;
+  margin-left: 59.5vw;
+}
+.letter176:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 5vw;
+  color: #F2BED3;
+  margin-top: 35vw;
+  margin-left: 59.5vw;
+  transform: rotate(20deg);
+}
+.letter177 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 5vw;
+  color: #000000;
+  margin-top: 35vw;
+  margin-left: 62.6vw;
+}
+.letter177:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 5vw;
+  color: #BFC5FD;
+  margin-top: 35vw;
+  margin-left: 62.6vw;
+  transform: rotate(20deg);
+}
+.letter178 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 5vw;
+  color: #000000;
+  margin-top: 35vw;
+  margin-left: 67vw;
+}
+.letter178:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 5vw;
+  color: #B4CEFA;
+  margin-top: 35vw;
+  margin-left: 67vw;
+  transform: rotate(20deg);
+}
+.letter179 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 5vw;
+  color: #000000;
+  margin-top: 35vw;
+  margin-left: 70.3vw;
+}
+.letter179:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 5vw;
+  color: #B4CEFA;
+  margin-top: 35vw;
+  margin-left: 70.3vw;
+  transform: rotate(20deg);
+}
+.letter180 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 5vw;
+  color: #000000;
+  margin-top: 35vw;
+  margin-left: 56vw;
+}
+.letter180:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 5vw;
+  color: #B4CEFA;
+  margin-top: 35vw;
+  margin-left: 56vw;
+  transform: rotate(20deg);
+}
+.letter181 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 5vw;
+  color: #000000;
+  margin-top: 35vw;
+  margin-left: 59.5vw;
+}
+.letter181:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 5vw;
+  color: #F2BED3;
+  margin-top: 35vw;
+  margin-left: 59.5vw;
+  transform: rotate(20deg);
+}
+.letter182 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 5vw;
+  color: #000000;
+  margin-top: 35vw;
+  margin-left: 62.5vw;
+}
+.letter182:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 5vw;
+  color: #BFC5FD;
+  margin-top: 35vw;
+  margin-left: 62.5vw;
+  transform: rotate(20deg);
+}
+.letter183 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 5vw;
+  color: #000000;
+  margin-top: 35vw;
+  margin-left: 65.5vw;
+}
+.letter183:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 5vw;
+  color: #B4CEFA;
+  margin-top: 35vw;
+  margin-left: 65.5vw;
+  transform: rotate(20deg);
+}
+.letter184 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 5vw;
+  color: #000000;
+  margin-top: 35vw;
+  margin-left: 68.5vw;
+}
+.letter184:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 5vw;
+  color: #F2BED3;
+  margin-top: 35vw;
+  margin-left: 68.5vw;
+  transform: rotate(20deg);
+}
+.letter185 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 5vw;
+  color: #000000;
+  margin-top: 35vw;
+  margin-left: 71.8vw;
+}
+.letter185:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 5vw;
+  color: #BFC5FD;
+  margin-top: 35vw;
+  margin-left: 71.8vw;
+  transform: rotate(20deg);
+}
+.letter185 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 5vw;
+  color: #000000;
+  margin-top: 35vw;
+  margin-left: 71.8vw;
+}
+.letter185:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 5vw;
+  color: #BFC5FD;
+  margin-top: 35vw;
+  margin-left: 71.8vw;
+  transform: rotate(20deg);
+}
+.letter186 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 5vw;
+  color: #000000;
+  margin-top: 35vw;
+  margin-left: 75.4vw;
+}
+.letter186:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 5vw;
+  color: #B4CEFA;
+  margin-top: 35vw;
+  margin-left: 75.4vw;
+  transform: rotate(20deg);
+}
+.letter187 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 5vw;
+  color: #000000;
+  margin-top: 35vw;
+  margin-left: 78.8vw;
+}
+.letter187:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 5vw;
+  color: #F2BED3;
+  margin-top: 35vw;
+  margin-left: 78.8vw;
+  transform: rotate(20deg);
+}
+.letter188 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 5vw;
+  color: #000000;
+  margin-top: 35vw;
+  margin-left: 82.6vw;
+}
+.letter188:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 5vw;
+  color: #BFC5FD;
+  margin-top: 35vw;
+  margin-left: 82.6vw;
+  transform: rotate(20deg);
+}
+.letter189 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 5vw;
+  color: #000000;
+  margin-top: 35vw;
+  margin-left: 85.6vw;
+}
+.letter189:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 5vw;
+  color: #F2BED3;
+  margin-top: 35vw;
+  margin-left: 85.6vw;
+  transform: rotate(20deg);
+}
+.letter190 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 5vw;
+  color: #000000;
+  margin-top: 35vw;
+  margin-left: 88.6vw;
+}
+.letter190:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 5vw;
+  color: #BFC5FD;
+  margin-top: 35vw;
+  margin-left: 88.6vw;
+  transform: rotate(20deg);
+}
+.letter191 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 5vw;
+  color: #000000;
+  margin-top: 35vw;
+  margin-left: 91.9vw;
+}
+.letter191:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 5vw;
+  color: #B4CEFA;
+  margin-top: 35vw;
+  margin-left: 91.9vw;
+  transform: rotate(20deg);
+}
+.letter192 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 5vw;
+  color: #000000;
+  margin-top: 35vw;
+  margin-left: 56vw;
+}
+.letter192:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 5vw;
+  color: #B4CEFA;
+  margin-top: 35vw;
+  margin-left: 56vw;
+  transform: rotate(20deg);
+}
+.letter193 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 5vw;
+  color: #000000;
+  margin-top: 35vw;
+  margin-left: 59.5vw;
+}
+.letter193:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 5vw;
+  color: #BFC5FD;
+  margin-top: 35vw;
+  margin-left: 59.5vw;
+  transform: rotate(20deg);
+}
+.letter194 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 5vw;
+  color: #000000;
+  margin-top: 35vw;
+  margin-left: 62.7vw;
+}
+.letter194:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 5vw;
+  color: #F2BED3;
+  margin-top: 35vw;
+  margin-left: 62.7vw;
+  transform: rotate(20deg);
+}
+.letter195 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 5vw;
+  color: #000000;
+  margin-top: 35vw;
+  margin-left: 65.6vw;
+}
+.letter195:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 5vw;
+  color: #BFC5FD;
+  margin-top: 35vw;
+  margin-left: 65.6vw;
+  transform: rotate(20deg);
+}
+.letter196 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 5vw;
+  color: #000000;
+  margin-top: 35vw;
+  margin-left: 69.5vw;
+}
+.letter196:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 5vw;
+  color: #B4CEFA;
+  margin-top: 35vw;
+  margin-left: 69.5vw;
+  transform: rotate(20deg);
+}
+.letter197 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 5vw;
+  color: #000000;
+  margin-top: 35vw;
+  margin-left: 73.2vw;
+}
+.letter197:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 5vw;
+  color: #F2BED3;
+  margin-top: 35vw;
+  margin-left: 73.2vw;
+  transform: rotate(20deg);
+}
+.letter198 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 5vw;
+  color: #000000;
+  margin-top: 35vw;
+  margin-left: 76.7vw;
+}
+.letter198:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 5vw;
+  color: #BFC5FD;
+  margin-top: 35vw;
+  margin-left: 76.7vw;
+  transform: rotate(20deg);
+}
+.letter199 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 5vw;
+  color: #000000;
+  margin-top: 35vw;
+  margin-left: 80.4vw;
+}
+.letter199:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 5vw;
+  color: #BFC5FD;
+  margin-top: 35vw;
+  margin-left: 80.4vw;
+  transform: rotate(20deg);
+}
+.letter200 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 5vw;
+  color: #000000;
+  margin-top: 35vw;
+  margin-left: 56vw;
+}
+.letter200:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 5vw;
+  color: #BFC5FD;
+  margin-top: 35vw;
+  margin-left: 56vw;
+  transform: rotate(20deg);
+}
+.letter201 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 5vw;
+  color: #000000;
+  margin-top: 35vw;
+  margin-left: 59.7vw;
+}
+.letter201:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 5vw;
+  color: #F2BED3;
+  margin-top: 35vw;
+  margin-left: 59.7vw;
+  transform: rotate(20deg);
+}
+.letter202 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 5vw;
+  color: #000000;
+  margin-top: 35vw;
+  margin-left: 63.1vw;
+}
+.letter202:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 5vw;
+  color: #B4CEFA;
+  margin-top: 35vw;
+  margin-left: 63.1vw;
+  transform: rotate(20deg);
+}
+.letter203 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 5vw;
+  color: #000000;
+  margin-top: 35vw;
+  margin-left: 67.1vw;
+}
+.letter203:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 5vw;
+  color: #F2BED3;
+  margin-top: 35vw;
+  margin-left: 67.1vw;
+  transform: rotate(20deg);
+}
+.letter204 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 5vw;
+  color: #000000;
+  margin-top: 35vw;
+  margin-left: 70.3vw;
+}
+.letter204:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 5vw;
+  color: #BFC5FD;
+  margin-top: 35vw;
+  margin-left: 70.3vw;
+  transform: rotate(20deg);
+}
+.letter205 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 5vw;
+  color: #000000;
+  margin-top: 35vw;
+  margin-left: 73.6vw;
+}
+.letter205:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 5vw;
+  color: #B4CEFA;
+  margin-top: 35vw;
+  margin-left: 73.6vw;
+  transform: rotate(20deg);
+}
+.letter206 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 5vw;
+  color: #000000;
+  margin-top: 35vw;
+  margin-left: 77.5vw;
+}
+.letter206:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 5vw;
+  color: #F2BED3;
+  margin-top: 35vw;
+  margin-left: 77.5vw;
+  transform: rotate(20deg);
+}
+.letter207 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 5vw;
+  color: #000000;
+  margin-top: 35vw;
+  margin-left: 80.6vw;
+}
+.letter207:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 5vw;
+  color: #B4CEFA;
+  margin-top: 35vw;
+  margin-left: 80.6vw;
+  transform: rotate(20deg);
+}
+.letter208 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 5vw;
+  color: #000000;
+  margin-top: 35vw;
+  margin-left: 69.8vw;
+}
+.letter208:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 5vw;
+  color: #B4CEFA;
+  margin-top: 35vw;
+  margin-left: 69.8vw;
+  transform: rotate(20deg);
+}
+.letter209 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 5vw;
+  color: #000000;
+  margin-top: 35vw;
+  margin-left: 56vw;
+}
+.letter209:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 5vw;
+  color: #B4CEFA;
+  margin-top: 35vw;
+  margin-left: 56vw;
+  transform: rotate(20deg);
+}
+.letter210 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 5vw;
+  color: #000000;
+  margin-top: 35vw;
+  margin-left: 59.2vw;
+}
+.letter210:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 5vw;
+  color: #BFC5FD;
+  margin-top: 35vw;
+  margin-left: 59.2vw;
+  transform: rotate(20deg);
+}
+.letter211 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 5vw;
+  color: #000000;
+  margin-top: 35vw;
+  margin-left: 62.9vw;
+}
+.letter211:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 5vw;
+  color: #F2BED3;
+  margin-top: 35vw;
+  margin-left: 62.9vw;
+  transform: rotate(20deg);
+}
+.letter212 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 5vw;
+  color: #000000;
+  margin-top: 35vw;
+  margin-left: 66.5vw;
+}
+.letter212:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 5vw;
+  color: #B4CEFA;
+  margin-top: 35vw;
+  margin-left: 66.5vw;
+  transform: rotate(20deg);
+}
+.letter213 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 5vw;
+  color: #000000;
+  margin-top: 35vw;
+  margin-left: 69.9vw;
+}
+.letter213:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 5vw;
+  color: #BFC5FD;
+  margin-top: 35vw;
+  margin-left: 69.9vw;
+  transform: rotate(20deg);
+}
+.letter214 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 5vw;
+  color: #000000;
+  margin-top: 35vw;
+  margin-left: 73.1vw;
+}
+.letter214:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 5vw;
+  color: #F2BED3;
+  margin-top: 35vw;
+  margin-left: 73.1vw;
+  transform: rotate(20deg);
+}
+.letter215 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 5vw;
+  color: #000000;
+  margin-top: 35vw;
+  margin-left: 76.4vw;
+}
+.letter215:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 5vw;
+  color: #B4CEFA;
+  margin-top: 35vw;
+  margin-left: 76.4vw;
+  transform: rotate(20deg);
+}
+.letter216 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 5vw;
+  color: #000000;
+  margin-top: 35vw;
+  margin-left: 66.5vw;
+}
+.letter216:hover {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 5vw;
+  color: #F2BED3;
+  margin-top: 35vw;
+  margin-left: 66.5vw;
+  transform: rotate(20deg);
+}
+/* Ссылки */
+a {
+  text-decoration: none;
+  color: #000000;
+}
+.name {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 3vw;
+  color: #000000;
+  margin-top: 761vw;
+  margin-left: 38.75vw;
+  white-space: nowrap;
+}
+.name2 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 3vw;
+  color: #000000;
+  margin-top: 761vw;
+  margin-left: 38.75vw;
+  white-space: nowrap;
+}
+.name3 {
+  font-family: "TTInterfacesMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 3vw;
+  color: #000000;
+  margin-top: 761vw;
+  margin-left: 38.65vw;
+  white-space: nowrap;
+}
+.stars {
+  width: 17vw;
+  height: 17vw;
+  margin-left: 71vw;
+  margin-top: 769vw;
+}
+.danceim {
+  margin-left: 7vw;
+  margin-top: 317vw;
+  width: 40vw;
+  height: 28vw;
+  animation: danceim 5s ease infinite;
+}
+.base {
+  margin-left: 9vw;
+  margin-top: 28.5vw;
+  width: 81vw;
+  height: 49vw;
+}
+.base4 {
+  margin-left: 9vw;
+  margin-top: 70vw;
+  width: 81vw;
+  height: 49vw;
+}
+.base5 {
+  margin-left: 9vw;
+  margin-top: 115vw;
+  width: 81vw;
+  height: 49vw;
+}
+.base2 {
+  margin-left: 5vw;
+  margin-top: 174vw;
+  width: 89vw;
+  height: 56vw;
+  border: 0.1vw solid black;
+  z-index: 1;
+}
+/* Крестики */
+.cross {
+  margin-left: 70vw;
+  margin-top: 28.5vw;
+  width: 5vw;
+  height: 8vw;
+  cursor: pointer;
+}
+.cross2 {
+  margin-left: 70vw;
+  margin-top: 28.5vw;
+  width: 5vw;
+  height: 8vw;
+  cursor: pointer;
+}
+.cross3 {
+  margin-left: 70vw;
+  margin-top: 28.5vw;
+  width: 5vw;
+  height: 8vw;
+  cursor: pointer;
+}
+.cross5 {
+  margin-left: 35.4vw;
+  margin-top: -17.5vw;
+  width: 5vw;
+  height: 20vw;
+  cursor: pointer;
+}
+.shift {
+  margin-top: 41.5vw;
+}
+.shift2 {
+  margin-top: 86.5vw;
+}
+.answermob{
+  display: none;
+}
+}
