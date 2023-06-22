@@ -134,7 +134,7 @@
 }
 @media only screen and (min-width: 1px) and (max-width: 500px){
   .wrapper {
-    margin-top: 56vw;
+    margin-top: 118vw;
     margin-left: -0.5vw;
   }
   .four {
@@ -143,13 +143,13 @@
     font-weight: 500;
     font-size: 35vw;
     margin-left: 18vw;
-    margin-top: 45vw;
+    margin-top: -44vw;
   }
   .copito404 {
     width: 29vw;
     height: 50vw;
     margin-left: 36vw;
-    margin-top: -41vw;
+    margin-top: -51vw;
     animation: bounce 5s linear infinite;
   }
   @keyframes bounce {
@@ -169,10 +169,11 @@
     font-family: "TTInterfacesMedium";
     font-style: normal;
     font-weight: 500;
-    font-size: 4vw;
-    margin-left: 2vw;
-    margin-top: -1vw;
+    font-size: 5.5vw;
+    margin-left: 21vw;
+    margin-top: -10vw;
     text-align: center;
+    white-space: nowrap;
   }
   .button404 {
     width: 46vw;
@@ -187,7 +188,7 @@
     width: 50vw;
     height: 8vw;
     margin-left: 27.5vw;
-    margin-top: -10vw;
+    margin-top: 6vw;
   }
   .kupit404 {
     position: absolute;
@@ -196,7 +197,7 @@
     font-weight: 500;
     font-size: 3vw;
     color: #FFFFFF;
-    margin-top: -7vw;
+    margin-top: 8.5vw;
     margin-left: 34.5vw;
     white-space: nowrap;
     cursor: pointer;

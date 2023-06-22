@@ -2,4 +2,5 @@
 @import 'fonts.css';
 @import '404.css';
 @import 'content.css';
-@import 'responsive.css';
+@import 'tablet.css';
+@import 'mobile.css';

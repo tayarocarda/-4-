@@ -1,6 +1,7 @@
-@media all and (min-width: 501px) {
-  body img, body p, body div{
-  position: absolute;
+@media all and (min-width: 1025px) {
+}
+ body img, body p, body div{
+ position: absolute;
 }
 .none {
   display: none;
@@ -90,6 +91,7 @@
   height: 9vw;
   margin-left: 4vw;
   margin-top: 800vw;
+  animation: logogo 5s linear infinite;
 }
 .logo22 {
   width: 9vw;
@@ -203,27 +205,27 @@
 }
 /* Книга */
 .book {
-  width: 82vw;
-  height: 70vw;
-  margin-left: 8.7vw;
+  width: 65vw;
+  height: 58vw;
+  margin-left: 17.7vw;
   margin-top: 644vw;
 }
 .book2 {
-  width: 82vw;
-  height: 70vw;
-  margin-left: 8.7vw;
+  width: 65vw;
+  height: 58vw;
+  margin-left: 17.7vw;
   margin-top: 644vw;
 }
 .book3 {
-  width: 82vw;
-  height: 70vw;
-  margin-left: 8.7vw;
+  width: 65vw;
+  height: 58vw;
+  margin-left: 17.7vw;
   margin-top: 644vw;
 }
 .book4 {
-  width: 82vw;
-  height: 70vw;
-  margin-left: 8.7vw;
+  width: 65vw;
+  height: 58vw;
+  margin-left: 17.7vw;
   margin-top: 644vw;
 }
 .circle {
@@ -1221,80 +1223,80 @@
 /* Разделители */
 .curve {
   margin-top: 71vw;
-  width: 98.7vw;
+  width: 100vw;
 }
 .curve2 {
   margin-top: 103vw;
-  width: 98.7vw;
+  width: 100vw;
 }
 .curve3 {
   margin-top: 194vw;
-  width: 98.7vw;
+  width: 100vw;
 }
 .curve4 {
   margin-top: 274vw;
-  width: 98.7vw;
+  width: 100vw;
 }
 .curve5 {
   margin-top: 378vw;
-  width: 98.7vw;
+  width: 100vw;
 }
 .curve6 {
   margin-top: 454vw;
-  width: 98.7vw;
+  width: 100vw;
 }
 .curve7 {
   margin-top: 541vw;
-  width: 98.7vw;
+  width: 100vw;
 }
 .curve8 {
   margin-top: 625vw;
-  width: 98.7vw;
+  width: 100vw;
 }
 .curve9 {
   margin-top: 728vw;
-  width: 98.7vw;
+  width: 100vw;
 }
 .curve10 {
   margin-top: 795vw;
-  width: 98.7vw;
+  width: 100vw;
 }
 .curve102 {
   margin-top: 78vw;
-  width: 98.7vw;
+  width: 100vw;
 }
 .curve11 {
   margin-top: 19vw;
-  width: 98.7vw;
+  width: 100vw;
 }
 .curve12 {
   margin-top: 26vw;
-  width: 98.7vw;
+  width: 100vw;
 }
 /* Бегущие строки */
 .container {
-  width: 98vw;
+  width: 100vw;
   height: 6vw;
   margin-top: 6vw;
   overflow: hidden;
   box-sizing: border-box;
 }
 .container2 {
-  width: 98vw;
+  width: 100vw;
   height: 6vw;
   margin-top: 22.5vw;
   overflow: hidden;
   box-sizing: border-box;
 }
 .container3m {
-  width: 98vw;
+  width: 100vw;
   height: 6vw;
   margin-top: 22.5vw;
   overflow: hidden;
   box-sizing: border-box;
 }
 .container3 {
-  width: 98vw;
+  width: 100vw;
   height: 6vw;
   margin-top: 30.2vw;
   overflow: hidden;
@@ -1308,7 +1310,7 @@
   margin-top: 1vw;
   white-space: nowrap;
   display: block;
-  width: 98vw;
+  width: 100vw;
   height: 4vw;
   box-sizing: border-box;
   animation: row 5s linear infinite;
@@ -1449,10 +1451,10 @@
   font-family: "TTInterfacesMedium";
   font-style: normal;
   font-weight: 500;
-  font-size: 2vw;
+  font-size: 1.5vw;
   color: #000000;
-  margin-top: 69vw;
-  margin-left: 36vw;
+  margin-top: 94.85vw;
+  margin-left: 9.2vw;
   white-space: nowrap;
 }
 .register9 {
@@ -2080,9 +2082,9 @@
 }
 .liner {
   width: 0.05vw;
-  height: 200vw;
+  height: 201.3vw;
   background:#000000;
-  top: -93.5vw;
+  top: -94.5vw;
   transform: rotate(90deg);
 }
 /* Подложки */
@@ -2112,7 +2114,7 @@
   margin-top: 122.5vw;
 }
 .cube9 {
-  width: 32.3vw;
+  width: 33.3vw;
   height: 33.3vw;
   background: #BFC5FD;
   margin-left: 66.6vw;
@@ -2126,7 +2128,7 @@
   margin-top: 30vw;
 }
 .cube3 {
-  width: 32.3vw;
+  width: 33.3vw;
   height: 33.3vw;
   background: #BFC5FD;
   margin-left: 66.6vw;
@@ -2140,7 +2142,7 @@
   margin-top: 76vw;
 }
 .cube6 {
-  width: 32.3vw;
+  width: 33.3vw;
   height: 33.3vw;
   background:#F2BED3;
   margin-left: 66.6vw;
@@ -2190,6 +2192,17 @@
   border: 0.1vw solid black;
   margin-top: 40vw;
   margin-left: 5vw;
+  animation: gradient 2s linear infinite;
+}
+@keyframes gradient {
+ 0% {background: #B4CEFA;}
+ 40% {background: #BFC5FD;}
+ 80% {background: #F2BED3;}
+}
+@keyframes gradient2 {
+ 0% {background: #F2BED3;}
+ 40% {background: #BFC5FD;}
+ 80% {background: #B4CEFA;}
 }
 .voproscl {
   width: 43vw;
@@ -2206,6 +2219,7 @@
   border: 0.1vw solid black;
   margin-top: 40vw;
   margin-left: 51vw;
+  animation: gradient2 2s linear infinite;
 }
 .vopros2cl {
   width: 43vw;
@@ -2218,10 +2232,11 @@
 .vopros3 {
   width: 43vw;
   height: 30vw;
-  background: #BFC5FD;
+  background: #F2BED3;
   border: 0.1vw solid black;
   margin-top: 73vw;
   margin-left: 5vw;
+  animation: gradient2 2s linear infinite;
 }
 .vopros3cl {
   width: 43vw;
@@ -2238,6 +2253,7 @@
   border: 0.1vw solid black;
   margin-top: 73vw;
   margin-left: 51vw;
+  animation: gradient 2s linear infinite;
 }
 .vopros4cl {
   width: 43vw;
@@ -2254,6 +2270,7 @@
   border: 0.1vw solid black;
   margin-top: 106.3vw;
   margin-left: 5vw;
+  animation: gradient 2s linear infinite;
 }
 .vopros5cl {
   width: 43vw;
@@ -2270,6 +2287,7 @@
   border: 0.1vw solid black;
   margin-top: 106.3vw;
   margin-left: 51vw;
+  animation: gradient2 2s linear infinite;
 }
 .vopros6cl {
   width: 43vw;
@@ -2282,10 +2300,11 @@
 .vopros7 {
   width: 43vw;
   height: 30vw;
-  background: #BFC5FD;
+  background: #F2BED3;
   border: 0.1vw solid black;
   margin-top: 140vw;
   margin-left: 5vw;
+  animation: gradient2 2s linear infinite;
 }
 .vopros7cl {
   width: 43vw;
@@ -2302,6 +2321,7 @@
   border: 0.1vw solid black;
   margin-top: 140vw;
   margin-left: 51vw;
+  animation: gradient 2s linear infinite;
 }
 /* Элементы возврата */
 .strelka {
@@ -2794,6 +2814,9 @@
 .footer5 {
   margin-top: 3vw;
 }
+.footerpad {
+  margin-top: 0vw;
+}
 /* Элементы мобильной версии */
 .mobilequestions {
   display: none;
@@ -3114,11 +3137,25 @@
   margin-left: 1vw;
   margin-top: 30vw;
 }
+.notepad:hover {
+  width: 30.2vw;
+  height: 33.3vw;
+  margin-left: 2.5vw;
+  margin-top: 30vw;
+  animation: bigger2 2s linear;
+}
 .waybook {
   width: 31.3vw;
   height: 31.3vw;
   margin-left: 2.1vw;
   margin-top: 76.6vw;
+}
+.waybook:hover {
+  width: 31.3vw;
+  height: 31.3vw;
+  margin-left: 2.1vw;
+  margin-top: 76.6vw;
+  animation: bigger2 2s linear;
 }
 .bottle {
   width: 31.3vw;
@@ -3126,11 +3163,25 @@
   margin-left: 1.1vw;
   margin-top: 123.6vw;
 }
+.bottle:hover {
+  width: 31.3vw;
+  height: 31.3vw;
+  margin-left: 1.1vw;
+  margin-top: 123.6vw;
+  animation: bigger2 2s linear;
+}
 .puantimg {
   width: 27.3vw;
   height: 33.3vw;
   margin-left: 36vw;
   margin-top: 30vw;
+}
+.puantimg:hover {
+  width: 27.3vw;
+  height: 33.3vw;
+  margin-left: 36vw;
+  margin-top: 30vw;
+  animation: bigger2 2s linear;
 }
 .puantimg2 {
   width: 29.3vw;
@@ -3138,11 +3189,25 @@
   margin-left: 18.5vw;
   margin-top: 34vw;
 }
+.puantimg2:hover {
+  width: 29.3vw;
+  height: 33.3vw;
+  margin-left: 18.5vw;
+  margin-top: 34vw;
+  animation: bigger2 2s linear;
+}
 .bloknotimg2 {
   width: 29.3vw;
   height: 33.3vw;
   margin-left: 18.5vw;
   margin-top: 35vw;
+}
+.bloknotimg2:hover {
+  width: 29.3vw;
+  height: 33.3vw;
+  margin-left: 18.5vw;
+  margin-top: 35vw;
+  animation: bigger2 2s linear;
 }
 .baggy {
   width: 54.3vw;
@@ -3150,11 +3215,30 @@
   margin-left: 5.8vw;
   margin-top: 34vw;
 }
+.baggy:hover {
+  width: 54.3vw;
+  height: 33.3vw;
+  margin-left: 5.8vw;
+  margin-top: 34vw;
+  animation: bigger2 2s linear;
+}
 .signme {
   width: 32.3vw;
   height: 37.3vw;
   margin-left: 16.9vw;
   margin-top: 27vw;
+}
+.signme:hover {
+  width: 32.3vw;
+  height: 37.3vw;
+  margin-left: 16.9vw;
+  margin-top: 27vw;
+  animation: bigger4 2s linear;
+}
+@keyframes bigger4 {
+ 0% {transform: scale(1); margin-top: 27vw;}
+ 50% {transform: scale(0.8); margin-top: 23.3vw;}
+ 100% {transform: scale(1); margin-top: 27vw;}
 }
 .lightboxy {
   width: 54.3vw;
@@ -3162,11 +3246,25 @@
   margin-left: 5.8vw;
   margin-top: 37vw;
 }
+.lightboxy:hover {
+  width: 54.3vw;
+  height: 27.3vw;
+  margin-left: 5.8vw;
+  margin-top: 37vw;
+  animation: bigger2 2s linear;
+}
 .booky {
   width: 59.3vw;
   height: 40.3vw;
   margin-left: 4vw;
   margin-top: 31vw;
+}
+.booky:hover {
+  width: 59.3vw;
+  height: 40.3vw;
+  margin-left: 4vw;
+  margin-top: 31vw;
+  animation: bigger2 2s linear;
 }
 .conv {
   width: 58.3vw;
@@ -3174,11 +3272,25 @@
   margin-left: 3.6vw;
   margin-top: 35.2vw;
 }
+.conv:hover {
+  width: 58.3vw;
+  height: 31.3vw;
+  margin-left: 3.6vw;
+  margin-top: 35.2vw;
+  animation: bigger2 2s linear;
+}
 .batony {
   width: 38.3vw;
   height: 44.3vw;
   margin-left: 14.6vw;
   margin-top: 29.3vw;
+}
+.batony:hover {
+  width: 38.3vw;
+  height: 44.3vw;
+  margin-left: 14.6vw;
+  margin-top: 29.3vw;
+  animation: bigger2 2s linear;
 }
 .baton {
   width: 30.3vw;
@@ -3186,17 +3298,43 @@
   margin-left: 35vw;
   margin-top: 76vw;
 }
+.baton:hover {
+  width: 30.3vw;
+  height: 33.3vw;
+  margin-left: 35vw;
+  margin-top: 76vw;
+  animation: bigger2 2s linear;
+}
 .convert {
   width: 30.3vw;
   height: 33.3vw;
   margin-left: 35vw;
   margin-top: 123.6vw;
 }
+.convert:hover {
+  width: 30.3vw;
+  height: 33.3vw;
+  margin-left: 35vw;
+  margin-top: 123.6vw;
+  animation: bigger2 2s linear;
+}
 .bag {
   width: 36.3vw;
   height: 33.3vw;
-  margin-left: 62.2vw;
+  margin-left: 63vw;
   margin-top: 30vw;
+}
+.bag:hover {
+  width: 36.3vw;
+  height: 33.3vw;
+  margin-left: 63vw;
+  margin-top: 30vw;
+  animation: bigger2 2s linear;
+}
+@keyframes bigger2 {
+ 0% {transform: scale(1);}
+ 50% {transform: scale(0.8);}
+ 100% {transform: scale(1);}
 }
 .lightbox {
   width: 34.3vw;
@@ -3204,11 +3342,30 @@
   margin-left: 65.7vw;
   margin-top: 79.5vw;
 }
+.lightbox:hover {
+  width: 34.3vw;
+  height: 26.3vw;
+  margin-left: 65.7vw;
+  margin-top: 79.5vw;
+  animation: bigger2 2s linear;
+}
 .badge {
   width: 34.3vw;
   height: 26.3vw;
   margin-left: 65.7vw;
   margin-top: 122.5vw;
+}
+.badge:hover {
+  width: 34.3vw;
+  height: 26.3vw;
+  margin-left: 65.7vw;
+  margin-top: 122.5vw;
+  animation: bigger3 2s linear;
+}
+@keyframes bigger3 {
+ 0% {transform: scale(1); margin-top: 122.5vw;}
+ 50% {transform: scale(0.8); margin-top: 119.9vw;}
+ 100% {transform: scale(1); margin-top: 122.5vw;}
 }
 /* Описание товаров */
 .about {
@@ -7851,5 +8008,19 @@ a {
 }
 .answermob{
   display: none;
+}
+.liftmedown {
+  margin-top: 0vw;
+}
+.godown {
+  white-space: nowrap;
+  margin-top: -14vw;
+}
+.mover {
+  margin-left: 1vw;
+}
+.righter {
+  margin-left: 0.5vw;
+}
 }
 }

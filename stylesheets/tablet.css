@@ -1,0 +1,43 @@
+@media only screen and (min-width: 501px) and (max-width: 1024px){
+ .footer5 {
+  margin-top: 52vw;
+ }
+ .return {
+  margin-left: 3vw;
+  margin-top: -9vw;
+  transform: scale(1.5);
+ }
+ .return2 {
+  margin-left: 11vw;
+  margin-top: -9vw;
+  transform: scale(1);
+ }
+ .bloknotshift {
+  margin-left: -9vw;
+  margin-top: 11vw;
+  transform: scale(1.25);
+ }
+ .bloknotshift2 {
+  margin-left: -9vw;
+  margin-top: 11vw;
+  transform: scale(1.15);
+ }
+ .bloknotshift3 {
+  margin-left: -9vw;
+  margin-top: 17vw;
+  transform: scale(1.1);
+ }
+ .bloknotshift4 {
+  margin-left: -6vw;
+  margin-top: 19vw;
+  transform: scale(1.1);
+ }
+ .heading {
+  margin-left: 3vw;
+ }
+ .underheading {
+  margin-top: 9vw;
+  margin-left: 11.3vw;
+  transform: scale(0.8);
+ }
+}
